@@ -1,0 +1,41 @@
+.footer {
+  background: $footer-bkg;
+  color: $footer-fnt-color;
+  padding: 40px 0;
+
+  .site-max-width > div {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .footer-copyright {
+    color: #999;
+    margin-top: 40px;
+  }
+
+  .footer-social-menu {
+    margin-top: 40px;
+    float: right;
+
+    div {
+      display: inline-block;
+      vertical-align: top;
+
+      a {
+        color: inherit;
+
+        i {
+          font-size: 20px;
+        }
+
+        &:hover {
+          color: #444;
+        }
+      }
+    }
+
+    div + div {
+      margin-left: 40px;
+    }
+  }
+}

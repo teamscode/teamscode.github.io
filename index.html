@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<div class="index-header clearfix">
+  <div class="site-max-width clearfix">
+    <div class="index-header-animation">
+      <div class="index-header-animation-info">
+        <div>
+          An animation of <a class="a" href="https://en.wikipedia.org/wiki/Depth-first_search">DFS</a> on a simple graph.
+        </div>
+        <button>
+          <i class="fa fa-play" aria-hidden="true"></i>
+          Replay
+        </button>
+      </div>
+    </div>
+    <div class="index-header-section">
+      <div class="index-header-section-h1">
+        We host high school programming competitions.
+      </div>
+      <div class="index-header-section-h1-sub">
+        Teamscode spreads computer science education to high school students by organizing amateur programming competitions. 
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="index-content-a"></div>
+
+<div class="index-content-b">
+  <div class="site-max-width">
+    <div class="index-competitions">
+      <div class="index-competitions-section">
+        <div class="index-competitions-section-header h3">
+          Upcoming competitions
+        </div>
+        <div class="index-competitions-section-list">
+          {% if site.data.upcoming_competitions == false %}
+            <div class="index-competitions-section-list-empty">
+              No upcoming competitions, check back again later!
+            </div>
+          {% endif %}
+          {% for competition in site.data.upcoming_competitions %}
+            {% include competition_item.html
+              img=competition.img
+              title=competition.title
+              date=competition.date
+              location=competition.location
+              size=competition.size
+              link=competition.link %}
+          {% endfor %}
+        </div>
+      </div>
+      <div class="index-competitions-section">
+        <div class="index-competitions-section-header h3">
+          Past competitions
+        </div>
+        <div class="index-competitions-section-list">
+          {% if site.data.past_competitions == false %}
+            <div class="index-competitions-section-list-empty">
+              No past competitions, check back again later!
+            </div>
+          {% endif %}
+          {% for competition in site.data.past_competitions %}
+            {% include competition_item.html
+              img=competition.img
+              title=competition.title
+              date=competition.date
+              location=competition.location
+              size=competition.size
+              link=competition.link %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="assets/js/index.js" type="text/javascript"></script>

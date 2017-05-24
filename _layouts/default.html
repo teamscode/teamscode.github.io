@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="default-layout">
+      {% include header.html
+         logo="dark_logo.svg" %}
+      {% include scripts.html %}
+      <div>
+        {{ content }}
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

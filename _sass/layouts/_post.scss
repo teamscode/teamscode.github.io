@@ -1,0 +1,33 @@
+.post-layout {
+  .header {
+    background: $header-bkg-post-layout;
+    color: $header-fnt-color-post-layout;
+  }
+}
+
+.post-header {
+  background: $post-header-bkg;
+  padding: 164px 0 40px 0;
+  margin-top: -64px;
+
+  .post-header-section {
+    color: $post-header-fnt-color;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+
+    .h1 {
+      margin-bottom: 20px;
+    }
+
+    .post-header-section-info {
+      div {
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
+
+.post-body {
+  padding: 0 0 40px 0;
+}

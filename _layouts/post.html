@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="post-layout">
+      {% include header.html
+         logo="light_logo.svg" %}
+      {% include scripts.html %}
+      <div class="content">
+        <div class="post-header">
+          <div class="post-max-width">
+            <div class="post-header-section">
+              <div class="h1">
+                {{ page.contest_title }}
+              </div>
+              <div class="post-header-section-info">
+                <div>{{ page.contest_date }}</div>
+                <div>{{ page.contest_location }}</div>
+                <div>{{ page.contest_size }} students</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="post-body">
+          <div class="post-max-width">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

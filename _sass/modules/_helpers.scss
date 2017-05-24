@@ -1,0 +1,32 @@
+.site-max-width {
+    max-width: $site-max-width;
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative;
+}
+
+.post-max-width {
+    max-width: $post-max-width;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.hr-small {
+    width: 40px;
+    border-top: 1px solid #ccc;
+    display: block;
+}
+
+.align-right {
+    text-align: right;
+}

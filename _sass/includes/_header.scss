@@ -1,0 +1,51 @@
+.header {
+  height: $header-height;
+  line-height: $header-line-height;
+
+  .header-logo {
+    line-height: $header-line-height;
+
+    a {
+      font-weight: 800;
+      font-size: 22px;
+      display: block;
+
+      img {
+        vertical-align: middle;
+      }
+    }
+  }
+
+  a {
+    @include transition(opacity 0.3s ease);
+
+    &:hover {
+      @include opacity(0.5);
+    }
+  }
+
+  .header-menu {
+    float: right;
+
+    .header-menu-item {
+      font-size: 18px;
+      line-height: $header-line-height;
+    }
+
+    .header-menu-item + .header-menu-item {
+      margin-left: 40px;
+    }
+  }
+
+  .header-logo,
+  .header-menu,
+  .header-menu-item {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}

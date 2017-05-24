@@ -1,0 +1,36 @@
+.about-page {
+  .page-header {
+    background: $about-content-header-bkg;
+    color: $about-content-header-fnt-color;
+  }
+
+  .about-team {
+    margin-bottom: 40px;
+
+    > div {
+      display: inline-block;
+      vertical-align: top;
+    }
+
+    .about-team-image {
+      @include border-radius(100px);
+      background: #eee;
+      height: 160px;
+      width: 160px;
+    }
+
+    .about-team-info {
+      margin-left: 40px;
+
+      .about-team-info-header {
+        font-weight: 400;
+        font-size: 20px;
+        margin-bottom: 20px;
+      }
+
+      .about-team-info-body {
+
+      }
+    }
+  }
+}

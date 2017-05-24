@@ -1,0 +1,31 @@
+.page-layout {
+  .header {
+    background: $header-bkg-page-layout;
+    color: $header-fnt-color-page-layout;
+  }
+}
+
+.page-header {
+  padding: 144px 0 80px 0;
+  margin-top: -64px;
+
+  .site-max-width {
+    > div {
+      margin-bottom: 20px;
+    }
+  }
+}
+
+.page-content {
+  padding-top: 40px;
+
+  .site-max-width {
+    > div {
+      margin-bottom: 40px;
+    }
+
+    .page-content-custom {
+      
+    }
+  }
+}
