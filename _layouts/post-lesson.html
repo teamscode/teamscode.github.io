@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="post-lesson-layout">
+      {% include header.html
+         logo="light_logo.svg" %}
+      {% include scripts.html %}
+      <div class="content">
+        <div class="post-lesson-header">
+          <div class="post-lesson-max-width">
+            <div class="post-lesson-header-section">
+              <div class="h1">
+                {{ page.lesson_title }}
+              </div>
+              <div class="post-lesson-header-section-info">
+                <div>{{ page.lesson_desc }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="post-lesson-body">
+          <div class="post-lesson-max-width">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

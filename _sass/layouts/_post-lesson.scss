@@ -1,0 +1,33 @@
+.post-lesson-layout {
+  .header {
+    background: $header-bkg-post-lesson-layout;
+    color: $header-fnt-color-post-lesson-layout;
+  }
+}
+
+.post-lesson-header {
+  background: $post-lesson-header-bkg;
+  padding: 164px 0 40px 0;
+  margin-top: -64px;
+
+  .post-lesson-header-section {
+    color: $post-lesson-header-fnt-color;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+
+    .h1 {
+      margin-bottom: 20px;
+    }
+
+    .post-lesson-header-section-info {
+      div {
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
+
+.post-lesson-body {
+  padding: 0 0 40px 0;
+}

@@ -5,8 +5,14 @@
     position: relative;
 }
 
-.post-max-width {
-    max-width: $post-max-width;
+.post-contest-max-width {
+    max-width: $post-contest-max-width;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.post-lesson-max-width {
+    max-width: $post-lesson-max-width;
     margin: 0 auto;
     padding: 0 20px;
 }

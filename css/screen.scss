@@ -14,7 +14,8 @@
 @import 'includes/footer';
 
 @import 'layouts/default';
-@import 'layouts/post';
+@import 'layouts/post-contest';
+@import 'layouts/post-lesson';
 @import 'layouts/page';
 
 @import 'pages/about';
@@ -22,3 +23,4 @@
 @import 'pages/contests';
 @import 'pages/index';
 @import 'pages/press';
+@import 'pages/lessons';

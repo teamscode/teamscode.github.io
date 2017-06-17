@@ -1,0 +1,33 @@
+.post-contest-layout {
+  .header {
+    background: $header-bkg-post-contest-layout;
+    color: $header-fnt-color-post-contest-layout;
+  }
+}
+
+.post-contest-header {
+  background: $post-contest-header-bkg;
+  padding: 164px 0 40px 0;
+  margin-top: -64px;
+
+  .post-contest-header-section {
+    color: $post-contest-header-fnt-color;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+
+    .h1 {
+      margin-bottom: 20px;
+    }
+
+    .post-contest-header-section-info {
+      div {
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
+
+.post-contest-body {
+  padding: 0 0 40px 0;
+}

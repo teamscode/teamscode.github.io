@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-contest
 permalink: /contest/spring-2017-mihs-coding-competition/
 contest_title: Spring 2017 MIHS Coding Competition
 contest_date: April 1st
