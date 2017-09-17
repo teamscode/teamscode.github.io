@@ -7,11 +7,11 @@ lesson_desc: Little blurb about what the lesson is about.
 
 # Cool lesson huh?
 
-I know right?  I knoooow right?
+I know right?  I {% highlight java %} knoooow {% endhighlight %} right?
 
 laksdjlaskdjsal
 
-{% highlight java linenos %}
+{% highlight java %}
 
 public class fjids {
     public void fdjisf(int fd) {
