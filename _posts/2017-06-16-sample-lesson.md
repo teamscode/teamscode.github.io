@@ -10,7 +10,8 @@ lesson_desc: Little blurb about what the lesson is about.
 I know right?  I knoooow right?
 
 laksdjlaskdjsal
-{% highlight java %}
+
+{% highlight java linenos %}
 
 public class fjids {
     public void fdjisf(int fd) {
