@@ -13,9 +13,11 @@
       <div class="list-item-location">
         {{ include.location }}
       </div>
-      <div class="list-item-size">
-        {{ include.size }} students
-      </div>
+      {% if include.size != '' %}
+        <div class="list-item-size">
+          {{ include.size }} students
+        </div>
+      {% endif %}
     </div>
   </a>
 </div>
