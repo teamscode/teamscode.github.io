@@ -17,10 +17,10 @@ layout: default
     </div>
     <div class="index-header-section">
       <div class="index-header-section-h1">
-        We host high school programming competitions.
+        We host high school programming contests.
       </div>
       <div class="index-header-section-h1-sub">
-        Teamscode spreads computer science education to high school students by organizing amateur programming competitions. 
+        Teamscode spreads computer science education to high school students by organizing amateur programming contests. 
       </div>
     </div>
   </div>
@@ -36,12 +36,12 @@ layout: default
           Upcoming competitions
         </div>
         <div class="index-competitions-section-list">
-          {% if site.data.upcoming_competitions == false %}
+          {% if site.data.upcoming_contests == false %}
             <div class="index-competitions-section-list-empty">
-              No upcoming competitions, check back again later!
+              No upcoming contests, check back again later!
             </div>
           {% endif %}
-          {% for competition in site.data.upcoming_competitions %}
+          {% for competition in site.data.upcoming_contests %}
             {% include competition_item.html
               img=competition.img
               title=competition.title
@@ -54,15 +54,15 @@ layout: default
       </div>
       <div class="index-competitions-section">
         <div class="index-competitions-section-header h3">
-          Past competitions
+          Past contests
         </div>
         <div class="index-competitions-section-list">
-          {% if site.data.past_competitions == false %}
+          {% if site.data.past_contests == false %}
             <div class="index-competitions-section-list-empty">
-              No past competitions, check back again later!
+              No past contests, check back again later!
             </div>
           {% endif %}
-          {% for competition in site.data.past_competitions %}
+          {% for competition in site.data.past_contests %}
             {% include competition_item.html
               img=competition.img
               title=competition.title
