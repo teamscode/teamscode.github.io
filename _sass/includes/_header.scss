@@ -17,9 +17,11 @@
   }
 
   a {
+
     @include transition(opacity 0.3s ease);
 
     &:hover {
+      border-bottom: 2.5px solid black;
       @include opacity(0.5);
     }
   }
