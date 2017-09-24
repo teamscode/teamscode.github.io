@@ -1,19 +1,19 @@
 ---
 layout: page
 class: competitions
-header: Competitions
+header: Contests
 ---
 
 <div class="h2">
-  Upcoming competitions
+  Upcoming contests
 </div>
 <div class="page-content-custom">
-  {% if site.data.upcoming_competitions == false %}
+  {% if site.data.upcoming_contests == false %}
     <div class="index-competitions-section-list-empty">
-      No upcoming competitions, check back again later!
+      No upcoming contests, check back again later!
     </div>
   {% endif %}
-  {% for competition in site.data.upcoming_competitions %}
+  {% for competition in site.data.upcoming_contests %}
     {% include competition_item.html
       img=competition.img
       title=competition.title
@@ -24,15 +24,15 @@ header: Competitions
 </div>
 
 <div class="h2">
-  Past competitions
+  Past contests
 </div>
 <div class="page-content-custom">
-  {% if site.data.past_competitions == false %}
+  {% if site.data.past_contests == false %}
     <div class="index-competitions-section-list-empty">
-      No past competitions, check back again later!
+      No past contests, check back again later!
     </div>
   {% endif %}
-  {% for competition in site.data.past_competitions %}
+  {% for competition in site.data.past_contests %}
     {% include competition_item.html
       img=competition.img
       title=competition.title
