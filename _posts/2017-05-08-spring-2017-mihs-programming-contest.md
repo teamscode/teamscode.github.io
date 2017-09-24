@@ -1,13 +1,13 @@
 ---
 layout: post-contest
-permalink: /contest/spring-2017-mihs-coding-competition/
-contest_title: Spring 2017 MIHS Coding Competition
+permalink: /contest/spring-2017-mihs-programming-contest/
+contest_title: Spring 2017 MIHS Programming Contest
 contest_date: April 1st
 contest_location: Mercer Island High School
 contest_size:  103
 ---
 
-# Our first biannual programming competition
+# Our first biannual programming contest
 
 There was a great turnout of 103 students, or 41 teams. The contest was held in the Mercer Island High School Commons on April 1st from 9:30 AM – 3:00 PM. Congratulations to the winners of the advanced division, the Dystopic Dynausaurs from Nikola Tesla STEM High School.  Below are the winners in each division:
 
@@ -23,7 +23,7 @@ There was a great turnout of 103 students, or 41 teams. The contest was held in 
 2. CC Barcelona from Skyline High School (450 points)
 3. Vlad from Willows Preparatory School (400 points)
 
-## Competition files
+## Contest files
 
 [Advanced scoreboard](http://example.net/)  
 [Intermediate scoreboard](http://example.net/)  
