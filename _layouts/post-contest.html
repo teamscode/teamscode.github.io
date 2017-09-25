@@ -16,7 +16,9 @@
               <div class="post-contest-header-section-info">
                 <div>{{ page.contest_date }}</div>
                 <div>{{ page.contest_location }}</div>
-                <div>{{ page.contest_size }} students</div>
+                {% if page.contest_size %} 
+                  <div>{{ page.contest_size }} students</div>
+                {% endif %}
               </div>
             </div>
           </div>
