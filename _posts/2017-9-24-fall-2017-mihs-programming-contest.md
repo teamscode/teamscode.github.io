@@ -4,6 +4,7 @@ permalink: /contest/fall-2017-mihs-programming-contest/
 contest_title: Fall 2017 MIHS Programming Contest
 contest_date: October 21st
 contest_location: Mercer Island High School
+contest_sponsors: 2
 ---
 
 # <a href="https://teamscode.typeform.com/to/SGxvcW">Sign Up Here</a>

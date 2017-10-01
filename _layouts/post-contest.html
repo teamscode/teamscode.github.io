@@ -26,6 +26,13 @@
 
         <div class="post-contest-body">
           <div class="post-contest-max-width">
+            {% if page.contest_sponsors %} 
+              <div style="float: right;margin-right: -150px;">
+                <h1><b>Sponsors</b></h1>
+                <a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" style="width:150px; margin-right: 20px;"></a>
+                <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" style="width:100px;"></a>
+              </div> 
+            {% endif %}
             {{ content }}
           </div>
         </div>

@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: teamscode
-email: teamscode@gmail.com
+title: TeamsCode
+email: teamscode1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  TeamsCode spreads computer science education to high school students by organizing amateur programming contests.
+  Our contests are primarily hosted at Mercer Island High School, near Seattle. 
 baseurl: ""
-url: "https://teamscode.com"
+url: "http://teamscode.com"
 
 # Build settings
 markdown: kramdown

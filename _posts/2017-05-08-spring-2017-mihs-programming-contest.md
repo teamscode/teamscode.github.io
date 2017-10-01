@@ -25,15 +25,15 @@ There was a great turnout of 103 students, or 41 teams. The contest was held in 
 
 ## Contest files
 
-[Advanced scoreboard](http://example.net/)  
-[Intermediate scoreboard](http://example.net/)  
-[Problem packet](http://example.net/)  
-[Judges answer packet](http://example.net/)  
-[Input text files](http://example.net/)
+[Advanced scoreboard](https://view.publitas.com/codemihs/scoreboard-advanced-2017)  
+[Intermediate scoreboard](https://view.publitas.com/codemihs/codemihs-scoreboard-intermediate-2017)  
+[Problem packet](https://view.publitas.com/codemihs/codemihs-problem-packet)  
+[Judges answer packet](https://view.publitas.com/codemihs/codemihsjudgesdata)  
+[Input text files](https://drive.google.com/drive/folders/0B3GiTJ1YDPmzWWNuNTlfMkF4Q3c)
 
 ## Pictures
 
-[Pictures on Google Drive](http://example.net/)
+[Pictures on Google Drive](https://drive.google.com/drive/folders/0By-6WanV3FA5aHQ2MGVUSWdfcFk?usp=sharing)
 
 ## Prizes
 
@@ -47,11 +47,11 @@ Thank you to the Living Computer Museum and Earl Bergquist for helping supply ma
 
 ## Sponsors
 
-![Microsoft Teals]({{ site.url }}/assets/images/sponsor_msft_teals.png){:width="400px"}
+[![Microsoft Teals](/assets/images/sponsor_msft_teals.png){:width="400px"}](https://www.tealsk12.org/)
 
-![PSCSTA]({{ site.url }}/assets/images/sponsor_pscsta.png){:width="150px"}
-![Lions Club]({{ site.url }}/assets/images/sponsor_lions.jpg){:width="150px"}
-![Pagliacci Pizza]({{ site.url }}/assets/images/sponsor_pagliacci.jpg){:width="100px"}
+[![PSCSTA](/assets/images/sponsor_pscsta.png){:width="150px"}](https://pscsta.org)
+[![Lions Club](/assets/images/sponsor_lions.jpg){:width="150px"}](http://mercerislandlions.org/)
+[![Pagliacci Pizza](/assets/images/sponsor_pagliacci.jpg){:width="100px"}](https://www.pagliacci.com/)
 
 ## Volunteers / Organizers
 
