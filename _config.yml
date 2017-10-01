@@ -16,8 +16,8 @@
 title: TeamsCode
 email: teamscode1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-TeamsCode spreads computer science education to high school students by organizing amateur programming contests.
-Our contests are primarily hosted at Mercer Island High School, near Seattle. 
+  TeamsCode spreads computer science education to high school students by organizing amateur programming contests.
+  Our contests are primarily hosted at Mercer Island High School, near Seattle. 
 baseurl: ""
 url: "http://teamscode.com"
 
