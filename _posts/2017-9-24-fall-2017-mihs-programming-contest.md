@@ -40,13 +40,13 @@ Note: These are guidelines, not rules. You may choose to sign up for either divi
 
 **Schedule:**
 
-9:30: Arrive, check in begins.  
-10:15: Introduction to rules and schedule, get settled in.  
-11:00: Practice problem, working with reading input.  
-12:00: Start contest.  
-12:30: Lunch while the contest goes on.  
-3:00: Contest ends. Announce winners. Raffle.  
-3:30: Go home.  
+9:45: Arrive, check in begins
+10:00: Introduction to rules and schedule, get settled in.
+10:30: Practice problem, working with reading input.
+11:15: Start contest.
+12:00: Lunch while the competition goes on.
+2:15: Contest ends. Announce winners. Raffle.
+2:45: Go home.
 
 **Scoring:**
 
