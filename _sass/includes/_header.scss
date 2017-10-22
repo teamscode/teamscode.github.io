@@ -21,16 +21,19 @@
     @include transition(opacity 0.3s ease);
 
     &:hover {
-      text-decoration: underline;
       @include opacity(0.5);
     }
   }
 
   .header-menu {
+    
     float: right;
+    font-family: Verdana;
+    margin-top: 2px;
+    color: #444444;
 
     .header-menu-item {
-      font-size: 18px;
+      font-size: 14px;
       line-height: $header-line-height;
     }
 

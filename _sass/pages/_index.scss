@@ -1,69 +1,49 @@
 .index-header {
   background: $index-header-bkg;
-  padding: 164px 0 100px 0;
-  margin-top: -64px;
+  padding: 100px 0 120px 0;
 
   .index-header-section {
     color: $index-header-fnt-color;
     display: inline-block;
-    float: right;
-    width: 50%;
     vertical-align: top;
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+    line-height: 1.4;
+    
 
     .index-header-section-h1 {
-      font-size: 36px;
-      font-weight: 400;
-      font-family: 'Roboto Mono';
-      line-height: 1.4;
+      
+      font-size: 50px;
+      font-weight: bold;
       margin-bottom: 20px;
     }
 
     .index-header-section-h1-sub {
-      font-size: 18px;
+      font-size: 21px;
       font-weight: 400;
-      line-height: 26px;
+      margin-bottom: 50px;
     }
+
+    .index-header-section-button {
+      background-color: #F4755F;
+      border: none;
+      color: white;
+      padding: 15px 50px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      font-family: Verdana;
+      font-weight: bold;
+      margin-right: 5px;
+      margin-left: 5px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #FF5132;
+      }
   }
-
-  .index-header-animation {
-    display: inline-block;
-    vertical-align: top;
-    width: 50%;
-    position: relative;
-    margin-top: 20px;
-    height: 240px;
-
-    .index-header-animation-info {
-      position: absolute;
-      bottom: 20px;
-
-      > div {
-        color: #888;
-        font-size: 14px;
-        margin-bottom: 10px;
-      }
-
-      button {
-        border: none;
-        background: #888;
-        @include border-radius(4px);
-        color: #fff;
-        cursor: pointer;
-        font-size: 14px;
-        font-weight: 500;
-        padding: 5px 10px;
-
-        i {
-          font-size: 10px;
-          vertical-align: top;
-          margin: 3px 5px 0 0;
-        }
-
-        &:focus {
-          outline: none;
-        }
-      }
-    }
   }
 }
 
@@ -71,11 +51,11 @@
   padding: 40px 0;
 
   .index-competitions-section + .index-competitions-section {
-    margin-top: 40px;
+    margin-top: 40px; // ?
   }
 
   .index-competitions-section-header {
-    margin-bottom: 40px;
+    margin-bottom: 40px; // ?
   }
 
   .index-competitions-section-list {
@@ -132,12 +112,14 @@
 }
 
 .index-content-a {
-  background: url('https://codemihs.files.wordpress.com/2017/01/img_24675.jpg?') no-repeat center center;
+  background: url('/assets/contest_images/index_photo.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   height: 500px;
+  margin-top: -535px;
+  
 
   .site-max-width {
     height: 500px;
