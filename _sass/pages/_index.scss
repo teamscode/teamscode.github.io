@@ -1,6 +1,6 @@
 .index-header {
   background: $index-header-bkg;
-  padding: 65px 0 120px 0;
+  padding: 100px 0 120px 0;
 
   .index-header-section {
     color: $index-header-fnt-color;
@@ -22,7 +22,7 @@
     .index-header-section-h1-sub {
       font-size: 21px;
       font-weight: 400;
-      margin-bottom: 30px;
+      margin-bottom: 50px;
     }
 
     .index-header-section-button {
@@ -113,7 +113,7 @@
   -o-background-size: cover;
   background-size: cover;
   height: 500px;
-  margin-top: -480px;
+  margin-top: -535px;
   
 
   .site-max-width {
