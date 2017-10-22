@@ -4,16 +4,9 @@
   <body>
     <div class="page-layout">
       {% include header.html
-         logo="light_logo.svg" %}
+         logo="dark_logo.svg" %}
       {% include scripts.html %}
       <div class="page {{ page.class }}-page">
-        <div class="page-header">
-          <div class="site-max-width">
-            <div class="h1">
-              {{ page.header }}
-            </div>
-          </div>
-        </div>
         <div class="page-content">
           <div class="site-max-width">
             {{ content }}
