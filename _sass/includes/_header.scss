@@ -3,7 +3,6 @@
   line-height: $header-line-height;
 
   .header-logo {
-    margin-top: 5px;
     line-height: $header-line-height;
 
     a {
@@ -27,18 +26,19 @@
   }
 
   .header-menu {
-    margin-top: 10px;
+    
     float: right;
     font-family: Verdana;
-    font-weight: bolder;
+    margin-top: 2px;
+    color: #444444;
 
     .header-menu-item {
-      font-size: 20px;
+      font-size: 14px;
       line-height: $header-line-height;
     }
 
     .header-menu-item + .header-menu-item {
-      margin-left: 60px;
+      margin-left: 40px;
     }
   }
 
