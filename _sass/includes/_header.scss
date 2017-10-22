@@ -3,6 +3,7 @@
   line-height: $header-line-height;
 
   .header-logo {
+    margin-top: 5px;
     line-height: $header-line-height;
 
     a {
@@ -21,21 +22,23 @@
     @include transition(opacity 0.3s ease);
 
     &:hover {
-      text-decoration: underline;
       @include opacity(0.5);
     }
   }
 
   .header-menu {
+    margin-top: 10px;
     float: right;
+    font-family: Verdana;
+    font-weight: bolder;
 
     .header-menu-item {
-      font-size: 18px;
+      font-size: 20px;
       line-height: $header-line-height;
     }
 
     .header-menu-item + .header-menu-item {
-      margin-left: 40px;
+      margin-left: 60px;
     }
   }
 
