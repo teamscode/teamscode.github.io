@@ -6,6 +6,7 @@
     line-height: $header-line-height;
 
     a {
+      margin-top: -4px;
       font-weight: 800;
       font-size: 22px;
       display: block;
@@ -29,7 +30,7 @@
     
     float: right;
     font-family: Verdana;
-    margin-top: 2px;
+    margin-top: 0px;
     color: #444444;
 
     .header-menu-item {
