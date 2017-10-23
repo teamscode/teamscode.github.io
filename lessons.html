@@ -4,20 +4,22 @@ class: lessons
 header: Lessons
 ---
 
-<div class="h2">
-  Browse a selection of computer science tutorials and lessons.
-</div>
-<div class="page-content-custom">
-  {% if site.data.lessons == false %}
+<div class="site-max-width">
+  <div class="h2">
+    Browse a selection of computer science tutorials and lessons.
+  </div>
+  <div class="page-content-custom">
+    {% if site.data.lessons == false %}
     <div class="lessons-section-list-empty">
       No lessons, check back again later!
     </div>
-  {% endif %}
-  {% for lesson in site.data.lessons %}
-    {% include lesson_item.html
-      img=lesson.img
-      title=lesson.title
-      desc=lesson.desc
-      link=lesson.link %}
-  {% endfor %}
+    {% endif %}
+    {% for lesson in site.data.lessons %}
+      {% include lesson_item.html
+        img=lesson.img
+        title=lesson.title
+        desc=lesson.desc
+        link=lesson.link %}
+    {% endfor %}
+  </div>
 </div>

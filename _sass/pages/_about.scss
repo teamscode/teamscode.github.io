@@ -1,7 +1,14 @@
 .about-page {
   .page-header {
-    background: $about-content-header-bkg;
-    color: $about-content-header-fnt-color;
+    background: url('/assets/about_images/about_team_header_image.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top:-40px;
+    margin-bottom:40px;
+    padding: 50px 0 5px 0;
+    color:white;
   }
 
   .about-team {
@@ -40,5 +47,20 @@
         margin-bottom: 15px;
       }
     }
+  }
+}
+
+.about-content-a {
+  background: url('/assets/contest_images/index_photo_dark.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 300px;
+  margin-top: -40px;
+  
+
+  .site-max-width {
+    height: 500px;
   }
 }
