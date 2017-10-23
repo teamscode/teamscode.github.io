@@ -13,12 +13,14 @@
   .column {
     float: left;
     width: 50%;
-    .heading {
-      font-size: 24px;
-      font-weight: 400;
-      font-family: 'Verdana';
-      margin-bottom:20px;
-    }
+    
+  }
+
+  .heading {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Verdana';
+    margin-bottom:20px;
   }
 
   .press-large-image {
@@ -34,7 +36,6 @@
       display: block;
 
        > * {
-        display: inline-block;
         vertical-align: top;
       }
 
@@ -45,10 +46,15 @@
         .press-item-image {
           
           float: left;
-    
+          margin-right:10px;
+
           img {
-            display: block;
+
+            height: 100px;
+            width: 100px;
+
           }
+          
 
         }
         
