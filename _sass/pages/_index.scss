@@ -1,5 +1,9 @@
 .index-header {
-  background: $index-header-bkg;
+  background: url('/assets/contest_images/index_photo_dark.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   padding: 100px 0 120px 0;
 
   .index-header-section {
@@ -15,7 +19,6 @@
     
 
     .index-header-section-h1 {
-      
       font-size: 50px;
       font-weight: bold;
       margin-bottom: 20px;
@@ -44,6 +47,10 @@
       &:hover {
         background-color: #265B89;
       }
+
+      &:focus {
+        outline: none;
+      }
   }
   }
 }
@@ -51,12 +58,8 @@
 .index-competitions {
   padding: 40px 0;
 
-  .index-competitions-section + .index-competitions-section {
-    margin-top: 40px; // ?
-  }
-
   .index-competitions-section-header {
-    margin-bottom: 40px; // ?
+    margin-bottom: 40px;
   }
 
   .index-competitions-section-list {
@@ -109,20 +112,5 @@
         }
       }
     }
-  }
-}
-
-.index-content-a {
-  background: url('/assets/contest_images/index_photo_dark.jpg') no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 510px;
-  margin-top: -535px;
-  
-
-  .site-max-width {
-    height: 500px;
   }
 }

@@ -11,12 +11,12 @@ z-index:999999;
 
   height: $header-height;
   line-height: $header-line-height;
+  
 
   .header-logo {
     line-height: $header-line-height;
 
     a {
-      margin-top: -4px;
       font-weight: 800;
       font-size: 22px;
       display: block;
@@ -40,7 +40,6 @@ z-index:999999;
     
     float: right;
     font-family: Verdana;
-    margin-top: 0px;
     color: #444444;
 
     .header-menu-item {

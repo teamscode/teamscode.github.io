@@ -4,17 +4,19 @@ class: press
 header: Press
 ---
 
-<div class="h2">
-  Articles
-</div>
-<div class="page-content-custom">
-  {% for press in site.data.press %}
-    {% include press_item.html
-      title=press.title
-      source=press.source
-      date=press.date
-      link=press.link %}
-  {% endfor %}
+<div class="site-max-width">
+  <div class="h2">
+    Articles
+  </div>
+  <div class="page-content-custom">
+    {% for press in site.data.press %}
+      {% include press_item.html
+        title=press.title
+        source=press.source
+        date=press.date
+        link=press.link %}
+    {% endfor %}
+  </div>
 </div>
 <!--<div class="h2">
   Assets

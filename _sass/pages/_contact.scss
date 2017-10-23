@@ -4,6 +4,20 @@
     color: $contact-content-header-fnt-color;
   }
 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+  .column {
+    float: left;
+    width: 50%;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Verdana';
+  }
+
   .contact-input-section {
     margin: 80px 0 40px 0;
     max-width: 400px;
