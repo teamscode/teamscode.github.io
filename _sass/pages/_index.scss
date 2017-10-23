@@ -55,6 +55,51 @@
   }
 }
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.widget {
+
+  padding: 40px 0;
+
+  .widget-header {
+    font-family:"Verdana";
+    font-size:35px;
+    font-weight:bold;
+    margin-bottom:40px;
+  }
+
+  .widget-body {
+    font-family:"Georgia";
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom: 40px;
+  }
+
+  .widget-photo {
+
+    img {
+      
+      height:240px;
+      width:240px;
+      border-radius:50%;
+    }
+    
+
+  }
+
+  // have to make columns
+
+}
+
 .index-competitions {
   padding: 40px 0;
 
