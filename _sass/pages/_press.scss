@@ -4,6 +4,28 @@
     color: $press-content-header-fnt-color;
   }
 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+    .heading {
+      font-size: 24px;
+      font-weight: 400;
+      font-family: 'Verdana';
+      margin-bottom:20px;
+    }
+  }
+
+  .press-large-image {
+      float:right;
+      height:250px; // bad code, may need to change later
+  }
+
   .press-item {
     margin-bottom: 40px;
 
@@ -17,18 +39,33 @@
       }
 
       > div {
+
+        overflow: auto;
+
+        .press-item-image {
+          
+          float: left;
+    
+          img {
+            display: block;
+          }
+
+        }
         
         .press-item-title {
+          clear: right;
           font-size: 18px;
           margin-bottom: 10px;
         }
 
         .press-item-source {
+          clear: right;
           color: #777;
           margin-bottom: 5px;
         }
 
         .press-item-date {
+          clear: right;
           color: #777;
         }
       }
