@@ -38,6 +38,7 @@ layout: default
     </div>
   </div>
 </div>
+
 <div class="widget">
   <div class="widget-max-width">
     <div class="row">
@@ -61,7 +62,7 @@ layout: default
     </div>
   </div>
 </div>
-<div class="widget" style="background:#eeeeee">
+<!--<div class="widget" style="background:#eeeeee">
   <div class="widget-max-width">
     <div class="row">
       <div class="column">
@@ -82,6 +83,29 @@ layout: default
       </div>
     </div>
   </div>
+</div>-->
+<div class="widget" style="background:#eeeeee">
+  <div class="widget-max-width">
+    <div class="row">
+      <div class="column">
+        <div class="widget-header">Be a Creator</div>
+        <div class="widget-body">
+          We help interested high schoolers organize their own programming events - 
+          contests, hackathons, and bootcamps. Please 
+          <a class="a" href="mailto:teamscode1@gmail.com">contact us</a> 
+          if you're interested!
+        </div>
+        <a class="a" ; style="font-size:20px" href="/contests">
+          <b>Learn more</b>
+        </a>
+      </div>
+      <div class="column">
+        <div class="widget-photo">
+          <img style="float:right" src="/assets/contest_images/index_creator.png" />
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 <div class="widget">
   <div class="widget-max-width">
@@ -94,8 +118,9 @@ layout: default
       <div class="column">
         <div class="widget-header">Made by Students</div>
         <div class="widget-body">
-          TeamsCode is made by students, for students. 
-          We work with high schoolers to create events around the Pacific Northwest.
+          TeamsCode is made for students, by students. 
+          We work with the Computer Science Teacher's Association 
+          to create events around the Pacific Northwest.
         </div>
         <a class="a" ; style="font-size:20px" href="/contests">
           <b>About TeamsCode</b> 
@@ -103,58 +128,5 @@ layout: default
       </div>
     </div>
   </div>
-  <!--Should redirect to a form talking about making a contest
-      Final page like Evernote that says "want to create your own? go here"
-      type thing-->
 </div>
-
-<div class="index-content">
-  <div class="site-max-width">
-    <div class="index-competitions">
-      <div class="index-competitions-section">
-        <div class="index-competitions-section-header h3">
-          Upcoming contests
-        </div>
-        <div class="index-competitions-section-list">
-          {% if site.data.upcoming_contests == false %}
-            <div class="index-competitions-section-list-empty">
-              No upcoming contests, check back again later!
-            </div>
-          {% endif %}
-          {% for competition in site.data.upcoming_contests %}
-            {% include competition_item.html
-              img=competition.img
-              title=competition.title
-              date=competition.date
-              location=competition.location
-              size=''
-              link=competition.link %}
-          {% endfor %}
-        </div>
-      </div>
-      <div class="index-competitions-section">
-        <div class="index-competitions-section-header h3">
-          Past contests
-        </div>
-        <div class="index-competitions-section-list">
-          {% if site.data.past_contests == false %}
-            <div class="index-competitions-section-list-empty">
-              No past contests, check back again later!
-            </div>
-          {% endif %}
-          {% for competition in site.data.past_contests %}
-            {% include competition_item.html
-              img=competition.img
-              title=competition.title
-              date=competition.date
-              location=competition.location
-              size=competition.size
-              link=competition.link %}
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <script src="assets/js/index.js" type="text/javascript"></script>
