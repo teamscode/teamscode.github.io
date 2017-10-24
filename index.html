@@ -16,7 +16,7 @@ layout: default
     </div>
   </div>
 </div>
-<div class="widget" style="background:#eeeeee">
+<div class="widget graphic" style="background:#eeeeee">
   <div class="widget-max-width">
     <div class="row">
       <div class="column">
@@ -39,7 +39,7 @@ layout: default
   </div>
 </div>
 
-<div class="widget">
+<div class="widget graphic">
   <div class="widget-max-width">
     <div class="row">
       <div class="column">
@@ -78,13 +78,13 @@ layout: default
       </div>
       <div class="column">
         <div class="widget-photo">
-          <img style="float:right" src="/assets/contest_images/index_hackathons_bootcamps.png" />
+          <img class="graphic" style="float:right" src="/assets/contest_images/index_hackathons_bootcamps.png" />
         </div>
       </div>
     </div>
   </div>
 </div>-->
-<div class="widget" style="background:#eeeeee">
+<div class="widget graphic" style="background:#eeeeee">
   <div class="widget-max-width">
     <div class="row">
       <div class="column">
@@ -107,7 +107,7 @@ layout: default
     </div>
   </div>
 </div>
-<div class="widget">
+<div class="widget graphic">
   <div class="widget-max-width">
     <div class="row">
       <div class="column">
@@ -129,4 +129,46 @@ layout: default
     </div>
   </div>
 </div>
+
+<style>
+    .graphic {
+        visibility: hidden;
+    }
+
+    .fadeIn {
+        -webkit-animation: animat_show 1.6s;
+        animation: animat_show 1.6s;
+        visibility: visible !important;
+    }
+
+    @-webkit-keyframes animat_show{
+        0%{opacity:0}
+        100%{opacity:1}
+    }
+</style>
+
 <script src="assets/js/index.js" type="text/javascript"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script>
+    function showImages(el) {
+        var windowHeight = jQuery( window ).height();
+        $(el).each(function(){
+            var thisPos = $(this).offset().top;
+
+            var topOfWindow = $(window).scrollTop();
+            if (topOfWindow + windowHeight - 200 > thisPos ) {
+                $(this).addClass("fadeIn");
+            }
+        });
+    }
+
+    // if the image in the window of browser when the page is loaded, show that image
+    $(document).ready(function(){
+            showImages('.graphic');
+    });
+
+    // if the image in the window of browser when scrolling the page, show that image
+    $(window).scroll(function() {
+            showImages('.graphic');
+    });
+</script>
