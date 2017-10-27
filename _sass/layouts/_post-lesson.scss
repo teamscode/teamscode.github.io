@@ -31,3 +31,24 @@
 .post-lesson-body {
   padding: 0 0 40px 0;
 }
+
+.lesson-container {
+  div:hover {
+    background-color:#f5f5f5;
+  }
+
+  width: 800px !important;
+  height: 65px;
+  border-width: 1px 0px; 
+  border-color: #f0f0f0; 
+  border-style: solid;
+  margin-bottom: -1px;
+}
+
+.overview-container {
+  width: 800px;
+  height: 120px;
+  border-width: 1px 0px; 
+  border-color: #f0f0f0; 
+  border-style: solid;
+}
