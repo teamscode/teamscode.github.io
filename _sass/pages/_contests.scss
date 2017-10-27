@@ -12,8 +12,34 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin-bottom: 40px;
+  margin-top: 40px;
   height: 450px;
+}
+
+.index-header-section-button {
+  background-color: #7F7EFF;
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Verdana;
+  font-weight: bold;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border-radius:10px;
+
+  &:hover {
+    background-color: #2323FF;
+  }
+
+  &:focus {
+    outline: none;
+  }
 }
 
 .index-competitions-section-list-item {
