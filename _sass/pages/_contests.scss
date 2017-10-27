@@ -5,11 +5,22 @@
   }
 }
 
+.contest-image {
+  background: url('/assets/contest_images/index_photo_dark.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 40px;
+  height: 500px;
+}
+
 .index-competitions-section-list-item {
   // @include border-radius(6px);
   // @include box-shadow(0, 1px, 2px, 0, rgba(0, 0, 0, 0.07));
-  width: 320px;
+  width: 200px;
   overflow: hidden;
+  text-align: center;
 
   a {
     color: inherit;
@@ -17,9 +28,8 @@
   }
 
   .list-item-img {
-    background: #eee;
-    width: 320px;
-    height: 160px;
+    width: 200px;
+    height: 150px;
 
     img {
       height: 100%;
@@ -27,30 +37,32 @@
   }
 
   .list-item-info {
+    font-family: "Verdana";
+    line-height:1.6;
     padding: 20px;
 
     .list-item-title {
       font-weight: 400;
-      font-size: 18px;
+      font-size: 14px;
       line-height: 24px;
       margin-bottom: 10px;
     }
 
     .list-item-date {
       color: #777;
-      font-size: 16px;
+      font-size: 12px;
       margin-bottom: 3px;
     }
 
     .list-item-location {
       color: #777;
-      font-size: 16px;
+      font-size: 12px;
       margin-bottom: 3px;
     }
 
     .list-item-size {
       color: #777;
-      font-size: 16px;
+      font-size: 12px;
     }
   }
 }

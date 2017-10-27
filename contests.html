@@ -3,10 +3,22 @@ layout: page
 class: competitions
 header: Contests
 ---
-
+<div class="site-max-width">
+  <div class="h1">
+    Making programming fun.
+  </div>
+  <div class="p" style="max-width:960px; font-size:17px">
+    We understand that learning programming can be tedious. We give students valuable 
+    programming practice and team-building skills by organizing <u>awesome</u> programming 
+    contests. Hundreds of dollars of snacks, pizza, medals, and prizes are always available! 
+    If you want to create your own contest, go 
+    <a class="a" href="/contests/create">here</a> to learn more!
+  </div>
+</div>
+<div class="contest-image"></div>
 <div class="site-max-width">
   <div class="h2">
-    Upcoming contests
+    <b>Upcoming contests</b>
   </div>
   <div class="page-content-custom">
     {% if site.data.upcoming_contests == false %}
@@ -23,9 +35,8 @@ header: Contests
        link=competition.link size='' %}
     {% endfor %}
   </div>
-
   <div class="h2">
-    Past contests
+    <b>Past contests</b>
   </div>
   <div class="page-content-custom">
     {% if site.data.past_contests == false %}
