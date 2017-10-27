@@ -1,0 +1,24 @@
+---
+layout: page
+class: ap-computer-science
+---
+
+<div class="site-max-width">
+  <div class="h2">
+    AP Computer Science A
+  </div>
+<div class="page-content-custom">
+  {% if site.data.ap_comp_sci_lessons == false %}
+    <div class="lessons-section-list-empty">
+      No lessons, check back again later!
+    </div>
+  {% endif %}
+    {% for lesson in site.data.ap_comp_sci_lessons %}
+      {% include lesson_item.html
+        img=lesson.img
+        title=lesson.title
+        desc=lesson.desc
+        link=lesson.link %}
+    {% endfor %}
+  </div>
+</div>
