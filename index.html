@@ -12,7 +12,27 @@ layout: default
         high school students by organizing amateur programming contests.
       </div>
       <a href = "/contests"><button class = "index-header-section-button">BROWSE CONTESTS</button></a>
-      <a href = "/contact"><button class = "index-header-section-button">CREATE A CONTEST</button></a>
+      <a href = "/contests/create"><button class = "index-header-section-button">CREATE A CONTEST</button></a>
+    </div>
+  </div>
+</div>
+<div class="widget graphic">
+  <div class="widget-max-width">
+    <div class="widget-header">Upcoming Contests</div>
+    <div class="page-content-custom">
+      {% if site.data.upcoming_contests == false %}
+      <div class="index-competitions-section-list-empty">
+        No upcoming contests, check back again later!
+      </div>
+      {% endif %}
+      {% for competition in site.data.upcoming_contests %}
+      {% include competition_item.html
+        img=competition.img
+        title=competition.title
+        date=competition.date
+        location=competition.location
+        link=competition.link size='' %}
+      {% endfor %}
     </div>
   </div>
 </div>
@@ -95,7 +115,7 @@ layout: default
           <a class="a" href="mailto:teamscode1@gmail.com">contact us</a> 
           if you're interested!
         </div>
-        <a class="a" ; style="font-size:20px" href="/contests">
+        <a class="a" ; style="font-size:20px" href="/contests/create">
           <b>Learn more</b>
         </a>
       </div>
