@@ -16,8 +16,8 @@
   height: 450px;
 }
 
-.index-header-section-button {
-  background-color: #7F7EFF;
+.contests-header-section-button {
+  background-color: #5176DE;
   border: none;
   color: white;
   padding: 15px 50px;
@@ -34,7 +34,7 @@
   border-radius:10px;
 
   &:hover {
-    background-color: #2323FF;
+    background-color: #4363b9;
   }
 
   &:focus {
@@ -44,52 +44,61 @@
 
 .index-competitions-section-list-item {
   // @include border-radius(6px);
-  // @include box-shadow(0, 1px, 2px, 0, rgba(0, 0, 0, 0.07));
-  width: 200px;
+  @include box-shadow(0, 1px, 5px, 0, rgba(0, 0, 0, 0.15));
+  
+  width: 280px;
   overflow: hidden;
+  background: #f8f8fa;
+  // box-shadow: 0 1px 0 0 rgba(0,0,0,.1);
   text-align: center;
-
+  margin-top: 0px;
+  
   a {
     color: inherit;
     text-decoration: none;
   }
 
   .list-item-img {
-    width: 200px;
-    height: 150px;
+    width: 280px;
+    height: 160px;
+    background: white;
 
     img {
       height: 100%;
+      
     }
   }
 
   .list-item-info {
-    font-family: "Verdana";
-    line-height:1.6;
-    padding: 20px;
+    padding: 10px;
 
     .list-item-title {
-      font-weight: 400;
-      font-size: 14px;
+      font-weight: bold;
+      font-size: 16px;
       line-height: 24px;
       margin-bottom: 10px;
     }
 
     .list-item-date {
       color: #777;
-      font-size: 12px;
-      margin-bottom: 3px;
+      font-size: 14px;
+      margin-bottom: 5px;
     }
 
     .list-item-location {
       color: #777;
-      font-size: 12px;
-      margin-bottom: 3px;
+      font-size: 14px;
+      margin-bottom: 5px;
     }
 
     .list-item-size {
       color: #777;
-      font-size: 12px;
+      font-size: 14px;
     }
   }
+
+  &:hover {
+    @include box-shadow(0, 1px, 7px, 0, rgba(0, 0, 0, 0.2));
+  }
+
 }

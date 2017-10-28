@@ -14,11 +14,8 @@ header: Contests
   </div>  
 </div>
 <div class="site-max-width">
-  <div class="h2" style="margin-bottom: 10px">
+  <div class="h2" style="margin-bottom: 30px">
     <b>Upcoming contests</b>
-  </div>
-  <div class="h4">
-    <i>Click for info and registration!</i>
   </div>
   <div class="page-content-custom">
     {% if site.data.upcoming_contests == false %}
@@ -35,8 +32,8 @@ header: Contests
       link=competition.link size='' %}
     {% endfor %}
   </div>
-  <a href = "/contests/create"><button class = "index-header-section-button" style="margin-top:-30px; margin-bottom:40px">CREATE A CONTEST!</button></a>
-  <div class="h2">
+  <a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:-30px; margin-bottom:40px">CREATE A CONTEST</button></a>
+  <div class="h2" style="margin-bottom:30px">
     <b>Past contests</b>
   </div>
   <div class="page-content-custom">
