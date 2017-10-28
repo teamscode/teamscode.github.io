@@ -1,8 +1,31 @@
-- title: 1. Intro to Programming
-  link: /learn/ap-computer-science/sample-lesson/
-- title: 2. Binary
-  link: /learn/ap-computer-science/sample-lesson/
-- title: 3. Hex and Other Bases
-  link: /learn/ap-computer-science/sample-lesson/
-- title: 4. Hello World
-  link: /learn/ap-computer-science/sample-lesson/
+- header: Basics of Computing
+  description: In this section, students will learn the very basics of programming and how computers work. 
+  lessons:
+  - title: What is Programming?
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Programming Languages
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Binary
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Other Bases
+    link: /learn/ap-computer-science/sample-lesson/
+- header: Programming in Java
+  description: An introduction to the basic syntax of Java. 
+  lessons:
+  - title: Hello World
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Primitive Data Types
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Strings
+    link: /learn/ap-computer-science/sample-lesson/
+- header: Operators
+  description: What are the different types of operators and how do you use them? 
+  lessons:
+  - title: Arithmetic Operators
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Relational Operators
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Logical Operators
+    link: /learn/ap-computer-science/sample-lesson/
+  - title: Order of Operation
+    link: /learn/ap-computer-science/sample-lesson/
