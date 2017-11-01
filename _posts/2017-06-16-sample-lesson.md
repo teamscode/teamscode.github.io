@@ -1,6 +1,6 @@
 ---
 layout: post-lesson
-permalink: /lesson/sample-lesson/
+permalink: /learn/ap-computer-science/sample-lesson/
 lesson_title: Sample lesson
 lesson_desc: Little blurb about what the lesson is about.
 ---

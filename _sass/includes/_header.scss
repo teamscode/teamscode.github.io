@@ -1,6 +1,16 @@
 .header {
+  position:fixed;
+  top:0;
+  width:100%;
+  margin-bottom:100px;
+  background-color:white !important;
+  border-bottom-width:1px;
+  border-bottom-style:solid;
+  border-color:#F0F0F0;
+  z-index:999999;
   height: $header-height;
   line-height: $header-line-height;
+  
 
   .header-logo {
     line-height: $header-line-height;
@@ -21,16 +31,18 @@
     @include transition(opacity 0.3s ease);
 
     &:hover {
-      text-decoration: underline;
       @include opacity(0.5);
     }
   }
 
   .header-menu {
+    
     float: right;
+    font-family: Verdana;
+    color: #444444;
 
     .header-menu-item {
-      font-size: 18px;
+      font-size: 14px;
       line-height: $header-line-height;
     }
 

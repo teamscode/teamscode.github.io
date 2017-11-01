@@ -4,35 +4,52 @@ class: press
 header: Press
 ---
 
-<div class="h2">
-  Articles
-</div>
-<div class="page-content-custom">
-  {% for press in site.data.press %}
-    {% include press_item.html
-      title=press.title
-      source=press.source
-      date=press.date
-      link=press.link %}
-  {% endfor %}
-</div>
-<!--<div class="h2">
-  Assets
-</div>
-<div class="page-content-custom">
-  <div class="press-branding">
-    <div class="press-branding-header h4">
-      Logo
+<div class="site-max-width">
+  <div class="h1"  style="margin-bottom: 60px">
+    <center>Press</center>
+  </div>
+  <div class="heading">
+    <b>Articles</b>
+  </div>
+  <div class="row">
+    <div class="column">
+      
+      <div class="page-content-custom">
+        {% for press in site.data.press %}
+        {% include press_item.html
+          image=press.image
+          title=press.title
+          source=press.source
+          date=press.date
+          link=press.link %}
+        {% endfor %}
+      </div>
+      <div class="heading">
+        <b>Assets</b>
+      </div>
+      <div class="page-content-custom">
+        <div class="press-branding">
+          <div class="press-branding-header h4">
+            Logo
+          </div>
+          <div class="press-branding-image">
+            <img src="/assets/images/dark_logo_bkg.svg" height="128" alt="Teamscode dark logo" />
+            <div>Dark logo</div>
+            <a href="/assets/images/dark_logo_bkg.svg">SVG</a>
+          </div>
+          <div class="press-branding-image">
+            <img src="/assets/images/light_logo_bkg.svg" height="128" alt="Teamscode light logo" />
+            <div>Light logo</div>
+            <a href="/assets/images/light_logo_bkg.svg">SVG</a>
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="press-branding-image">
-      <img src="/assets/images/dark_logo_bkg.svg" height="128" alt="Teamscode dark logo"/>
-      <div>Dark logo</div>
-      <a href="/assets/images/dark_logo_bkg.svg">SVG</a>
-    </div>
-    <div class="press-branding-image">
-      <img src="/assets/images/light_logo_bkg.svg" height="128" alt="Teamscode light logo"/>
-      <div>Light logo</div>
-      <a href="/assets/images/light_logo_bkg.svg">SVG</a>
+    <div class="column">
+      <img class="press-large-image" src="/assets/press_images/press_image.jpg"/>
     </div>
   </div>
-</div>-->
+</div>
+
+  
+</div>
