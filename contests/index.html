@@ -1,0 +1,55 @@
+---
+layout: page
+class: competitions
+header: Contests
+---
+<div class="site-max-width">
+  <div class="h1">
+    Making programming fun.
+  </div>
+  <div class="p" style="max-width:960px; font-size:17px">
+    We understand that learning programming can be tedious. We give students valuable 
+    programming practice and team-building skills by organizing <u>awesome</u> programming 
+    contests. Hundreds of dollars of snacks, pizza, medals, and prizes are always available!
+  </div>  
+</div>
+<div class="site-max-width">
+  <div class="h2" style="margin-bottom: 30px">
+    <b>Upcoming contests</b>
+  </div>
+  <div class="page-content-custom">
+    {% if site.data.upcoming_contests == false %}
+    <div class="index-competitions-section-list-empty">
+      No upcoming contests, check back again later!
+    </div>
+    {% endif %}
+    {% for competition in site.data.upcoming_contests %}
+    {% include competition_item.html
+      img=competition.img
+      title=competition.title
+      date=competition.date
+      location=competition.location
+      link=competition.link size='' %}
+    {% endfor %}
+  </div>
+  <a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:-30px; margin-bottom:40px">CREATE A CONTEST</button></a>
+  <div class="h2" style="margin-bottom:30px">
+    <b>Past contests</b>
+  </div>
+  <div class="page-content-custom">
+    {% if site.data.past_contests == false %}
+    <div class="index-competitions-section-list-empty">
+      No past contests, check back again later!
+    </div>
+    {% endif %}
+    {% for competition in site.data.past_contests %}
+    {% include competition_item.html
+      img=competition.img
+      title=competition.title
+      date=competition.date
+      location=competition.location
+      size=competition.size
+      link=competition.link %}
+    {% endfor %}
+  </div>
+</div>

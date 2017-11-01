@@ -1,0 +1,35 @@
+<a id="header{{ include.id }}">
+  <div class="header-sidebar-item">
+    {{ include.header }}
+  </div>
+</a>
+
+<script>
+  $("#header{{ include.id }}").click(function() {
+    $('html,body').animate({
+      scrollTop: $("#{{ include.id }}").offset().top - 60},
+    'slow');
+  });
+
+  // Code to highlight header text on the left as you scroll past that
+  // section. Attempts to find the farthest down div that you have 
+  // scrolled to and then assigns that one the test class (turns text black
+  // just to test if it works) while removing the test class from the other ones 
+  // you scroll past. Doesn't work because 1. currentDiv is an 'a' tag not a 'div' and
+  // 2. doesn't account for if you scroll up and 3. the code is probably completely 
+  // wrong anyways since I don't really know what I'm trying to do. If you have time just
+  // copy paste something from stack overflow i looked but didn't find one so far
+  $(document).scroll(function() {
+    var scroll = $(document).scrollTop();
+    var currentDiv = $('#header1');
+
+    var index = 1;
+    while(scroll > currentDiv.position().top) {
+    	currentDiv.removeClass("test");
+    	index++;
+    	currentDiv = $("#header" + index);
+    }
+    currentDiv.addClass("test");
+
+  });
+</script>

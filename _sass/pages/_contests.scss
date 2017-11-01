@@ -5,52 +5,100 @@
   }
 }
 
+// could not find a way to nicely include this image, commented out in index.html
+.contest-image {
+  background: url('/assets/contest_collage/contest_collage.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-top: 40px;
+  height: 450px;
+}
+
+.contests-header-section-button {
+  background-color: #5176DE;
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Verdana;
+  font-weight: bold;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border-radius:10px;
+
+  &:hover {
+    background-color: #4363b9;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
 .index-competitions-section-list-item {
   // @include border-radius(6px);
-  // @include box-shadow(0, 1px, 2px, 0, rgba(0, 0, 0, 0.07));
-  width: 320px;
+  @include box-shadow(0, 1px, 5px, 0, rgba(0, 0, 0, 0.15));
+  
+  width: 280px;
   overflow: hidden;
-
+  background: #f8f8fa;
+  // box-shadow: 0 1px 0 0 rgba(0,0,0,.1);
+  text-align: center;
+  margin-top: 0px;
+  
   a {
     color: inherit;
     text-decoration: none;
   }
 
   .list-item-img {
-    background: #eee;
-    width: 320px;
+    width: 280px;
     height: 160px;
+    background: white;
 
     img {
       height: 100%;
+      
     }
   }
 
   .list-item-info {
-    padding: 20px;
+    padding: 10px;
 
     .list-item-title {
-      font-weight: 400;
-      font-size: 18px;
+      font-weight: bold;
+      font-size: 16px;
       line-height: 24px;
       margin-bottom: 10px;
     }
 
     .list-item-date {
       color: #777;
-      font-size: 16px;
-      margin-bottom: 3px;
+      font-size: 14px;
+      margin-bottom: 5px;
     }
 
     .list-item-location {
       color: #777;
-      font-size: 16px;
-      margin-bottom: 3px;
+      font-size: 14px;
+      margin-bottom: 5px;
     }
 
     .list-item-size {
       color: #777;
-      font-size: 16px;
+      font-size: 14px;
     }
   }
+
+  &:hover {
+    @include box-shadow(0, 1px, 7px, 0, rgba(0, 0, 0, 0.2));
+  }
+
 }

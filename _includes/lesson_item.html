@@ -1,4 +1,25 @@
- <div class="lessons-section-list-item">
+<div class="lessons-section-list-item overview-container">
+  <div class="header-item-info">
+    <div class="header-item-title">
+      {{ include.header }}
+    </div>
+    {{ include.description }}
+  </div>
+</div>
+
+{% for lesson in include.lessons %}
+<div class="lessons-section-list-item lesson-container">
+  <a href="{{ lesson.link }}">
+    <div class="list-item-info">
+      <div class="list-item-title">
+        {{ lesson.title }}
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}
+
+<!-- <div class="lessons-section-list-item">
   <a href="{{ include.link }}">
     <div class="list-item-img">
       <img src="{{ include.img }}"/>
@@ -12,4 +33,4 @@
       </div>
     </div>
   </a>
-</div>
+</div>-->
