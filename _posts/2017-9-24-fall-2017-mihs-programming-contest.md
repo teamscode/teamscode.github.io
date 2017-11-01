@@ -2,87 +2,89 @@
 layout: post-contest
 permalink: /contest/fall-2017-mihs-programming-contest/
 contest_title: Fall 2017 MIHS Programming Contest
-contest_date: October 21st
+contest_date: October 21st, 2017
 contest_location: Mercer Island High School
 contest_sponsors: 2
 ---
 
-# <a href="https://teamscode.typeform.com/to/SGxvcW">Sign Up Here</a>
+# Our second biannual programming contest
 
-**Date:** October 21st, 2017
+There was a great turnout of 90 students, or 36 teams. The contest was held in the Mercer Island High School Commons on October 21st from 8:45 AM – 2:45 PM. Congratulations to the winners of the advanced division, the untitled.txt from Newport and Lakeside High School. Below are the winners in each division:
 
-**Time:** 9:30AM – 3:30PM
+# Winners
 
-**Location:** Mercer Island High School Commons
+## Advanced division
 
-**Team Sizes:** 1-3 people per team. 
+1. untitled.txt from Newport and Lakeside High School (700 points)
 
-**Divisions:** Intermediate or Advanced
+    - Daniel Lu, Charles Ge, and Axel Li
+2. Delete System32 from Newport High School (650 points)
 
-General Guidelines:
+    - Terrance Li, Neal Ma, and Andrew Liu
+3. If Only David Was Here from Interlake High School (600 points)
 
-+ **Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
-+ **Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
+    - Robert Chen, Alex Wei, and Jessica Ruan
 
-Note: These are guidelines, not rules. You may choose to sign up for either division.
+## Intermediate division
 
-**Cost:** $10/person (one check per team)
+1. Fuzzy Logic from Odle Middle School (490 points)
 
-**Languages:** Java, C++, C#, and Python
+    - Neil Chowdhury
+2. Nieracol from Interlake High School (450 points)
 
-**Input and Output:** Read input from text file and output to screen.
+    - Connie Xu and Annie Liu
+3. 1337 from Willows Preparatory School (445 points)
 
-**Rules:**
+    - Vlad Ovechkin, William Baxter, and Lukas Tomita
 
-1. Each team member must be in middle school or high school.
-2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
-3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
+# Contest files
+<!--Not the correct links, I'll fix when I create real pdfs.-->
+[Advanced scoreboard](https://view.publitas.com/codemihs/scoreboard-advanced-2017)  
+[Intermediate scoreboard](https://view.publitas.com/codemihs/codemihs-scoreboard-intermediate-2017)  
+[Problem packet](https://view.publitas.com/codemihs/codemihs-problem-packet)  
+[Judges answer packet](https://view.publitas.com/codemihs/codemihsjudgesdata)  
+[Input text files](https://drive.google.com/drive/folders/0B3GiTJ1YDPmzWWNuNTlfMkF4Q3c)
 
-**Schedule:**
+## Pictures
 
-9:45: Arrive, check in begins
-10:00: Introduction to rules and schedule, get settled in.
-10:30: Practice problem, working with reading input.
-11:15: Start contest.
-12:00: Lunch while the competition goes on.
-2:15: Contest ends. Announce winners. Raffle.
-2:45: Go home.
+[Pictures on Google Drive](https://drive.google.com/drive/folders/0By-6WanV3FA5aHQ2MGVUSWdfcFk?usp=sharing)
 
-**Scoring:**
+# Prizes
 
-There will be many programming problems, sorted by difficulty from easiest to hardest. All problems will be worth 50 points maximum. Each incorrect submission will reduce the points received from that problem by 5 upon completion. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
+- Samsung Galaxy Tablet
+- Apple and Amazon Gift Cards
+- Raspberry Pi
+- Vomercy Headphones
+- and much, much more...
 
-**Prizes:**
+# Sponsors
 
-TBD, check out last year’s contest to see what prizes we may have!
+[![Microsoft Teals](/assets/images/sponsor_msft_teals.png){:width="400px"}](https://www.tealsk12.org/)
 
-**Sample Problem:**
+[![PSCSTA](/assets/images/sponsor_pscsta.png){:width="150px"}](https://pscsta.org)
+[![Lions Club](/assets/images/sponsor_lions.jpg){:width="150px"}](http://mercerislandlions.org/)
+[![Pagliacci Pizza](/assets/images/sponsor_pagliacci.jpg){:width="100px"}](https://www.pagliacci.com/)
 
-You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
+# Volunteers / Organizers
 
-**Input:** The first line contains an integer L. The following L lines will each contain two numbers, N1 and N2.
+We’d like to thank the following people for being influential in the organization of this contest.
 
-**Output:** For each set of two numbers, print the largest number possible through either adding or multiplying the two numbers together.
+_Main organizers_
 
-**Example Input:**
+- Alan Bi
+- Chris Elliott
 
-5  
-6 12  
-1 54  
-2 2  
-9 -17  
--7 -7  
+_Judges_
 
-**Example Output:**
+- Erin Bond
+- Grant Bower
+- Henterson Carlisle
+- Yeni Capote Diaz
+- Alyssa Hursh
+- Tanya Parker
+- Clare Constantine
+- Lawrence Tanimoto
 
-72  
-55  
-4  
--8  
-49  
+_Additional Help_
 
-**Reading Input Packet:**
-
-This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
-
-<a href="https://view.publitas.com/codemihs/reading-input-files/page/1">Reading Input Files</a>
+- Earl Bergquist
