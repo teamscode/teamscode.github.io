@@ -2,7 +2,7 @@
 layout: post-contest
 permalink: /contest/fall-2017-skyline-programming-contest/
 contest_title: Skyline Programming Contest
-contest_date: ONovember 11th, 2017
+contest_date: November 11th, 2017
 contest_location: Skyline High School
 contest_sponsors: 2
 ---
