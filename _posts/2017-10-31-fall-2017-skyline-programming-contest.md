@@ -88,4 +88,4 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
 
-<a href="https://view.publitas.com/codemihs/reading-input-files/page/1">Reading Input Files</a>
+<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
