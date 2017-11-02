@@ -39,11 +39,11 @@ There was a great turnout of 90 students, or 36 teams. The contest was held in t
 
 # Contest files
 <!--Not the correct links, I'll fix when I create real pdfs.-->
-[Advanced scoreboard](https://view.publitas.com/codemihs/scoreboard-advanced-2017)  
-[Intermediate scoreboard](https://view.publitas.com/codemihs/codemihs-scoreboard-intermediate-2017)  
-[Problem packet](https://view.publitas.com/codemihs/codemihs-problem-packet)  
-[Judges answer packet](https://view.publitas.com/codemihs/codemihsjudgesdata)  
-[Input text files](https://drive.google.com/drive/folders/0B3GiTJ1YDPmzWWNuNTlfMkF4Q3c)
+[Advanced scoreboard](/assets/docs/fall_2017_mihs/advanced_scoreboard.pdf)  
+[Intermediate scoreboard](/assets/docs/fall_2017_mihs/intermediate_scoreboard.pdf)  
+[Problem packet](/assets/docs/fall_2017_mihs/problem_set.pdf)  
+[Judges answer packet](/assets/docs/fall_2017_mihs/judges_data.pdf)  
+[Input text files](/assets/docs/fall_2017_mihs/inputs:outputs.zip)
 
 ## Pictures
 
