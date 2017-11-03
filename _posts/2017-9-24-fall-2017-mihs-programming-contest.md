@@ -7,6 +7,12 @@ contest_location: Mercer Island High School
 contest_sponsors: 2
 ---
 
+<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left"><b>Sponsors</b></h1>
+  <a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" style="width: 150px; margin-right: 20px;"></a> <br/>
+  <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" style="width:100px;"></a>
+</div> 
+
 # Our second biannual programming contest
 
 There was a great turnout of 90 students, or 36 teams. The contest was held in the Mercer Island High School Commons on October 21st from 8:45 AM – 2:45 PM. Congratulations to the winners of the advanced division, the untitled.txt from Newport and Lakeside High School. Below are the winners in each division:

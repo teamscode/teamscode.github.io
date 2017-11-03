@@ -7,6 +7,14 @@ contest_location: Mercer Island High School
 contest_size:  103
 ---
 
+<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left"><b>Sponsors</b></h1>
+  <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" style="width:180px;"></a>
+  <br/><a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" style="width: 150px; margin-right: 20px;"></a> <br/>
+  <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" style="width:100px;"></a>
+  <br/><br/><a href="http://mercerislandlions.org"><img src="/assets/images/sponsor_lions.jpg" style="width:100px;"></a>
+</div> 
+
 # Our first biannual programming contest
 
 There was a great turnout of 103 students, or 41 teams. The contest was held in the Mercer Island High School Commons on April 1st from 9:30 AM – 3:00 PM. Congratulations to the winners of the advanced division, the Dystopic Dynausaurs from Nikola Tesla STEM High School.  Below are the winners in each division:
