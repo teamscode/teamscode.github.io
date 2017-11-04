@@ -9,9 +9,9 @@ contest_sponsors: 2
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
   <h1 style="text-align: left;"><b>Sponsors</b></h1>
-  <a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" style="width: 150px; margin-right: 20px;"></a> <br/>
-  <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" style="width:200px;"></a>
-  <br/><br/><a href="https://teamscode.com"><img src="/favicon.png" style="width:100px;"></a>
+  <a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
+  <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" alt="TEALS" style="width:200px;"></a>
+  <br><br><a href="https://teamscode.com"><img src="/favicon.png" alt="TeamsCode" style="width:100px;"></a>
 </div> 
 
 # <a href="https://docs.google.com/forms/d/125Hvn5RtygcqFe7-SGpiYq3dgwE56jrDmdMMc0iZMp8/viewform?edit_requested=true">Register</a> #
