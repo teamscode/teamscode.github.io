@@ -5,6 +5,7 @@
   -o-background-size: cover;
   background-size: cover;
   padding: 100px 0 120px 0;
+  
 
   .index-header-section {
     width: 70%;
@@ -59,11 +60,60 @@
   content: "";
   display: table;
   clear: both;
+  
 }
 
 .column {
   float: left;
   width: 50%;
+}
+
+.programming-practice-column {
+  padding: 20px 0;
+  float: left;
+  text-align: center;
+  width: 33%;
+  border-top: 1px solid #F0F0F0;
+}
+
+.problem-header {
+  margin: auto;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Verdana';
+  font-weight: bold;
+}
+
+.problem-item {
+  @include box-shadow(0, 2px, 3px, 0, rgba(0, 0, 0, 0.15));
+  margin: auto;
+  width: 70%;
+  background-color: #f8f8fa;
+  margin-top:20px;
+  margin-bottom: 20px;
+
+  &:hover {
+    background-color: #eeeeee;
+    @include box-shadow(0, 3px, 5px, 0, rgba(0, 0, 0, 0.15));
+  }
+
+  > a {
+    padding: 20px 0;
+    //display: block;
+  }
+  
+
+  .problem-item-title {
+    font-size: 14px;
+    font-family: 'Verdana';
+  }
+  .problem-item-techniques {
+    margin-top:1px;
+    font-style: italic;
+    font-size: 12px;
+    font-family: 'Verdana';
+  }
+
 }
 
 .widget {
