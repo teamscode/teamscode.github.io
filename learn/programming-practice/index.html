@@ -1,0 +1,21 @@
+---
+layout: page
+class: programming-practice
+---
+
+<div class="site-max-width">
+  <div class="h1" style="text-align:center">
+    Programming Practice
+  </div>
+  <div class="h4" style="font-size: 23px; line-height: 1.4">
+    Browse TeamsCode's collection of programming problems. To learn how to create and 
+    test your answer, please reference <a class="a" href="">this pdf</a>.
+  </div>
+  <div class="row">
+    {% for problem in site.data.programming_problems %}
+      {% include problem_header.html
+        difficulty=problem.difficulty
+        problems=problem.problems %}
+    {% endfor %}
+  </div>
+</div>

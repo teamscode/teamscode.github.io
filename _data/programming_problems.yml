@@ -1,0 +1,97 @@
+- difficulty: Easy
+  problems:
+  - title: Inspirational Message
+    techniques: String manipulation
+    link: 
+  - title: Small Car
+    techniques: String manipulation
+    link: 
+  - title: Triangle Creator
+    techniques: String manipulation
+    link: 
+  - title: Sorting Distances
+    techniques: Basic sorting
+    link: 
+  - title: Distance to Shore
+    techniques: Basic arithmetic
+    link: 
+  - title: Word Spelling
+    techniques: Searching strings
+    link: 
+  - title: Compound Interest
+    techniques: Basic arithmetic
+    link: 
+  - title: Magic Square
+    techniques: Array manipulation
+    link: 
+  - title: Texas Hold'em
+    techniques: Sorting, Searching
+    link: 
+  - title: Valid DNA
+    techniques: Analyzing strings
+    link: 
+- difficulty: Medium
+  problems:
+  - title: Find Prime
+    techniques: Basic algorithms
+    link: 
+  - title: Counting Time
+    techniques: Unit conversion
+    link: 
+  - title: Decoder
+    techniques: Integer and String manipulation
+    link: 
+  - title: Playground
+    techniques: Basic algorithms
+    link: 
+  - title: Best Football Team
+    techniques: Sorting, Data storage
+    link: 
+  - title: Multiplying Ducks
+    techniques: Algorithm creation
+    link: 
+  - title: Changing a 2D Array
+    techniques: Array manipulation
+    link: 
+  - title: Alien Message
+    techniques: Array manipulation
+    link: 
+  - title: Pattern Sequence
+    techniques: Data analysis
+    link: 
+  - title: New Palindrome
+    techniques: Complex string manipulation
+    link: 
+- difficulty: Hard
+  problems:
+  - title: Underground Maze
+    techniques: Depth-first search
+    link: 
+  - title: Best Bootcamps
+    techniques: Data analysis
+    link: 
+  - title: Road Race
+    techniques: Dijkstra's algorithm
+    link: 
+  - title: Closest ZIP Codes
+    techniques: Integer manipulation
+    link: 
+  - title: Hiking
+    techniques: Algorithm design
+    link: 
+  - title: Sudoku
+    techniques: Array manipulation
+    link: 
+  - title: L.C.S
+    techniques: Dynamic programming
+    link: 
+  - title: Full Bookshelf
+    techniques: Complex algorithm design
+    link: 
+  - title: Binary Code
+    techniques: String/binary manipulation
+    link: 
+  - title: Base Palindrome
+    techniques: Base and String manipulation
+    link: 
+  

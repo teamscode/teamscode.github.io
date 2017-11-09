@@ -1,0 +1,14 @@
+<!--Creates a new column every time it is called-->
+<div class="programming-practice-column">
+    <div class="problem-header">
+        {{ include.difficulty }}
+    </div>
+    {% for problem in include.problems %}
+    <div class="problem-item">
+        <a href=" {{ problem.link }} ">
+            <div class="problem-item-title">{{ problem.title }}</div>
+            <div class="problem-item-techniques">{{ problem.techniques }}</div>
+        </a>
+    </div>
+    {% endfor %}
+</div>
