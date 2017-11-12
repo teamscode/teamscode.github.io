@@ -28,3 +28,4 @@ contest_location: Skyline High School
 
 **Contest Website:** <a href="http://spartanprogrammingcompetition.weebly.com/">Spartan Programming Challenge</a>
 
+<br><br><br>
