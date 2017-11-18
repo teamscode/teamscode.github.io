@@ -159,6 +159,13 @@
   }
 
   .index-competitions-section-list {
+    
+    .index-competitions-section-list-empty {
+      font-family: 'Georgia';
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    
     .index-competitions-section-list-item {
       // @include border-radius(6px);
       // @include box-shadow(0, 1px, 2px, 0, rgba(0, 0, 0, 0.07));
