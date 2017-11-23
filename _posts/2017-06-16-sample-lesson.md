@@ -6,6 +6,11 @@ lesson_desc: Little blurb about what the lesson is about.
 ---
 
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Inconsolata" />
+<style> 
+  code{
+  	font-family: Inconsolata;
+  }
+</style>
 
 # Cool lesson huh?
 
@@ -48,3 +53,4 @@ A tab is too large by default, like eight spaces. Though you can fix it with set
 Also there's normally a large gap between the start of your code block and the previous sentences, so to fix that, the first line inside your code block needs to be on the same line as the opening pre and code tags. 
 
 Another weird thing with markdown is that if you want to make a single line break between paragraphs, you need to have two spaces at the end of the line and then click return to move down a line (without it when the page is loaded the two lines are not separated by a line break despite what it shows in the .md file. However if you separate them by two line breaks (having a gap between the paragraphs) it works perfectly fine and you dont have to worry about that. 
+
