@@ -32,4 +32,33 @@
   padding: 0 0 40px 0;
 }
 
+.lesson-sidebar-item {
+  color: #5176E0; 
+  margin-bottom: 12px; 
+  font-size: 16px;
+}
+
+.lesson-sidebar-header {
+  color: #5176E0; 
+  margin-bottom: 12px; 
+  font-size: 20px;
+  margin-left: -10px;
+}
+
+.lesson-sidebar-title {
+  color: #5176E0; 
+  margin-bottom: 12px; 
+  font-size: 20px;
+  margin-left: -20px;
+}
+
+.lesson-sidebar-item:hover {
+    filter: brightness(70%);
+    cursor: pointer;
+}
+
+.lesson-sidebar-title:hover {
+    filter: brightness(70%);
+    cursor: pointer;
+}
 
