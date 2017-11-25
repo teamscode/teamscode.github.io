@@ -13,10 +13,10 @@
   description: An introduction to the basic syntax of Java. 
   lessons:
   - title: Hello World
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/hello-world/
   - title: Primitive Data Types
     link: /learn/ap-computer-science/sample-lesson/
-  - title: Sample lesson
+  - title: Strings
     link: /learn/ap-computer-science/sample-lesson/
 - header: Operators
   description: What are the different types of operators and how do you use them? 
@@ -24,8 +24,8 @@
   - title: Arithmetic Operators
     link: /learn/ap-computer-science/sample-lesson/
   - title: Relational Operators
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/relational-operators/
   - title: Logical Operators
     link: /learn/ap-computer-science/sample-lesson/
-  - title: Order of Operation
-    link: /learn/ap-computer-science/sample-lesson/
+  - title: Operator Precedence
+    link: /learn/ap-computer-science/operator-precedence/

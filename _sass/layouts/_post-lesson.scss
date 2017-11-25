@@ -33,7 +33,7 @@
 }
 
 .lesson-sidebar-item {
-  color: #5176E0; 
+  color: #444; 
   margin-bottom: 12px; 
   font-size: 16px;
 }
@@ -41,7 +41,7 @@
 .lesson-sidebar-header {
   color: #5176E0; 
   margin-bottom: 12px; 
-  font-size: 20px;
+  font-size: 18px;
   margin-left: -10px;
 }
 
@@ -62,3 +62,37 @@
     cursor: pointer;
 }
 
+.current-lesson {
+  .lesson-sidebar-item{
+    color: #5176E0;
+    border-bottom: solid;
+    border-width: 1px;
+    display: inline-block;
+  }
+}
+
+code {
+  font-family: Inconsolata;
+}
+
+table, th, td {
+  border: 2px solid #5176E0;
+  border-collapse: collapse;
+  font-weight: bold;
+  padding: 6px;
+}
+
+th {
+  color: white;
+  background-color: #5176E0;
+}
+
+table {
+  text-align: center;
+  width: 100%;
+}
+
+form div {
+  padding: 10px; 
+  margin: 1px;
+}
