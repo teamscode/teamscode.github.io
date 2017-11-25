@@ -7,23 +7,11 @@
          logo="dark_logo.svg" %}
       {% include scripts.html %}
       <div class="content">
-        <div class="post-lesson-header">
-          <div class="post-lesson-max-width">
-            <div class="post-lesson-header-section">
-              <div class="h1">
-                {{ page.lesson_title }}
-              </div>
-              <div class="post-lesson-header-section-info">
-                <div>{{ page.lesson_desc }}</div>
-              </div>
-            </div>
-          </div>
-        </div>
-
+        
         <div class="post-lesson-body">
           <div class="post-lesson-max-width">
             <div class="row">
-              <div class="column left" id="sidebar">
+              <div class="column left" style="position: fixed; top: 75px;">
                 <a href="/learn/ap-computer-science/">
                   <div class="lesson-sidebar-title">
                     AP Computer Science
@@ -36,7 +24,7 @@
                         {{ lesson.header }}
                       </div>
                       {% for lessons in lesson.lessons %}
-                        <div {% if lessons.title == page.lesson_title %} style="filter: brightness(70%);" {% endif %}>
+                        <div {% if lessons.title == page.lesson_title %} class="current-lesson" {% endif %}>
                         {% include lesson_sidebar_item.html
                           title=lessons.title
                           link=lessons.link %}
@@ -47,7 +35,22 @@
                 {% endfor %}
               </div>
               <div class="column right">
+
+        <div class="post-lesson-header">
+          <div class="post-lesson-max-width">
+            <div class="post-lesson-header-section">
+              <div class="h1">
+                {{ page.lesson_title }}
+              </div>
+              <div class="post-lesson-header-section-info">
+                <div>{{ page.lesson_desc }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <hr style="background-color: #777; border-width: 0; height: 1px;">
                 {{ content }}
+                <p style="color: #777; font-size: 14px;"><i>Written by {{ page.author }}</i></p>
               </div>
             </div>
           </div>
@@ -56,18 +59,4 @@
       {% include footer.html %}
     </div>
   </body>
-  <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-  <script>
-    $(window).scroll(function(e){ 
-      var $el = $('#sidebar'); 
-      var isPositionFixed = ($el.css('position') == 'fixed');
-      if ($(this).scrollTop() > 160 && !isPositionFixed){ 
-        $('#sidebar').addClass("sticky");
-      }
-      if ($(this).scrollTop() < 160 && isPositionFixed)
-      {
-        $('#sidebar').removeClass("sticky"); 
-      } 
-    });
-  </script>
 </html>
