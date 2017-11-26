@@ -20,9 +20,9 @@
                 {% for lesson in site.data.ap_comp_sci_lessons %}
                   {% for lessons in lesson.lessons %}
                     {% if lessons.title == page.lesson_title %}
-                      <div class="lesson-sidebar-header">
+                      <a href="/learn/ap-computer-science/#{{ forloop.index }}"><div class="lesson-sidebar-header">
                         {{ lesson.header }}
-                      </div>
+                      </div></a>
                       {% for lessons in lesson.lessons %}
                         <div {% if lessons.title == page.lesson_title %} class="current-lesson" {% endif %}>
                         {% include lesson_sidebar_item.html
