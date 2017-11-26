@@ -62,6 +62,11 @@
     cursor: pointer;
 }
 
+.lesson-sidebar-header:hover {
+    filter: brightness(70%);
+    cursor: pointer;
+}
+
 .current-lesson {
   .lesson-sidebar-item{
     color: #5176E0;
