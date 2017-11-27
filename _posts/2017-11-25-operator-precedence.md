@@ -9,8 +9,8 @@ author: Alan Bi
 <script src="/questions.js"></script>
 
 {% raw %}
-<br>
 
+<br>
 Just like how in math there is an order of operations, in programming, certain operators take precedence over others. With regards to simple arithmetic operators, you all should be familiar with PEMDAS. The same rules apply to programming, with the addition of the modulo <code>%</code> operator, which is grouped together with multiplication and division. 
 
 However, in programming, there are other operators as well. Assignment operators, relational operators, and many other symbols come into play, making it sometimes hard to follow what’s happening in a line of code. Here is a chart that helps with this: 
@@ -57,7 +57,6 @@ However, in programming, there are other operators as well. Assignment operators
     <td>= += -= *= /= %=</td>
   </tr>
 </table>
-<br>
 
 Everything you need to know and more is included in this chart. However, do not feel the need to memorize it. First of all, if you take a look at some of the things that we have learned, a lot of it makes sense. With enough practice on your own time, you will eventually start to naturally know which operators come first. And secondly, many people simply use parentheses to clear things up when they are not sure which operation comes first. 
 

@@ -9,6 +9,7 @@ author: Alan Bi
 <script src="/questions.js"></script>
 
 {% raw %}
+
 <br>
 The very first program that new programmers run is the Hello World class. Create a new class called <code>HelloWorld</code>. At the top of the page, you should see <code>public class HelloWorld {</code> and at the very bottom you should see another <code>}</code>. Type the following code anywhere between the two curly brackets (capitalization matters):
 
@@ -94,9 +95,9 @@ Can be written as:
 
 And it would work the same. Of course, you should never write anything like in this second example because you want people to be able to easily decipher and debug your code.
 
-**Lesson Quiz**
+<h1>Lesson Quiz</h1>
 
-1. What is the output to the console?
+<h3>1. What is the output to the console?</h3>
 
 		System.out.print("Hello there");
 
@@ -123,7 +124,7 @@ And it would work the same. Of course, you should never write anything like in t
 	</div>
 </form>
 
-<p>2. Which of the following code will compile?</p>
+<h3>2. Which of the following code will compile?</h3>
 
 <form>
 	<div>

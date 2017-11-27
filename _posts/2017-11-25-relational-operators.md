@@ -32,7 +32,6 @@ author: Alan Bi
 <td>!str1.equals(str2)</td>
 </tr>
 </table>
-<br>
 
 So far, we have learned the basics about primitive variables and assigning values to them. However, in the case of booleans, there doesn’t seem to be much of a point in simply assigning it a true or false value. Most of the time, you would want a boolean to tell you important information on whether or not certain conditions are true. For example, you could assign a boolean to be true if a number is less than 0 and false otherwise, and you would therefore have useful information stored in that boolean. 
 

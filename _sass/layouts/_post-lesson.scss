@@ -6,7 +6,6 @@
 }
 
 .post-lesson-header {
-  background: $post-lesson-header-bkg;
   padding: 164px 0 40px 0;
   margin-top: -64px;
 
@@ -17,12 +16,12 @@
     vertical-align: top;
 
     .h1 {
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
     .post-lesson-header-section-info {
       div {
-        margin-bottom: 5px;
+        font-size: 17px;
       }
     }
   }
@@ -35,13 +34,13 @@
 .lesson-sidebar-item {
   color: #444; 
   margin-bottom: 12px; 
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .lesson-sidebar-header {
   color: #5176E0; 
   margin-bottom: 12px; 
-  font-size: 18px;
+  font-size: 17px;
   margin-left: -10px;
 }
 
@@ -53,27 +52,33 @@
 }
 
 .lesson-sidebar-item:hover {
-    filter: brightness(70%);
+    color: #2048D8;
     cursor: pointer;
 }
 
 .lesson-sidebar-title:hover {
-    filter: brightness(70%);
+    color: #2048D8;
     cursor: pointer;
 }
 
 .lesson-sidebar-header:hover {
-    filter: brightness(70%);
+    color: #2048D8;
     cursor: pointer;
 }
 
 .current-lesson {
   .lesson-sidebar-item{
-    color: #5176E0;
+    font-weight: bold;
     border-bottom: solid;
     border-width: 1px;
     display: inline-block;
   }
+}
+
+br {
+  display: block; /* makes it have a width */
+  content: ""; /* clears default height */
+  margin-top: 20px; /* change this to whatever height you want it */
 }
 
 code {
