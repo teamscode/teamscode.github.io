@@ -69,9 +69,9 @@ a {
 .post-lesson-body {
   h1 {
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 48px;
-    margin: 40px 0 20px 0;
+    margin: 20px 0 20px 0;
   }
 
   h2 {
@@ -80,8 +80,15 @@ a {
     margin: 40px 0 20px 0;
   }
 
-  p {
+  h3 {
     font-size: 17px;
+    line-height: 32px;
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+
+  p {
+    font-size: 15px;
     line-height: 32px;
     margin-bottom: 20px;
   }

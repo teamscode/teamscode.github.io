@@ -1,5 +1,5 @@
 - header: Basics of Computing
-  description: In this section, students will learn the very basics of programming and how computers work. 
+  description: The basics of programming and how computers work.
   lessons:
   - title: What is Programming?
     link: /learn/ap-computer-science/sample-lesson/
@@ -19,7 +19,7 @@
   - title: Strings
     link: /learn/ap-computer-science/sample-lesson/
 - header: Operators
-  description: What are the different types of operators and how do you use them? 
+  description: The different types of operators and their uses. 
   lessons:
   - title: Arithmetic Operators
     link: /learn/ap-computer-science/sample-lesson/
