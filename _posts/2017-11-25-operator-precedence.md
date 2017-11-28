@@ -2,7 +2,7 @@
 layout: post-lesson
 permalink: /learn/ap-computer-science/operator-precedence/
 lesson_title: Operator Precedence
-lesson_desc: This lesson goes over order of operations.  
+lesson_desc: Order of operations in Strings, boolean expressions, and basic algebra.
 author: Alan Bi
 ---
 
