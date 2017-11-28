@@ -16,20 +16,20 @@ author: Alan Bi
 <th colspan="2">Code Bar</th>
 </tr>
 <tr>
-<td>></td>
-<td><</td>
+<td><code>></code></td>
+<td><code><</code></td>
 </tr>
 <tr>
-<td>>=</td>
-<td><=</td>
+<td><code>>=</code></td>
+<td><code><=</code></td>
 </tr>
 <tr>
-<td>==</td>
-<td>!=</td>
+<td><code>==</code></td>
+<td><code>!=</code></td>
 </tr>
 <tr>
-<td>str1.equals(str2)</td>
-<td>!str1.equals(str2)</td>
+<td><code>str1.equals(str2)</code></td>
+<td><code>!str1.equals(str2)</code></td>
 </tr>
 </table>
 
@@ -73,9 +73,9 @@ In the first line, <code>num</code> is being assigned the value of 5. In the sec
 
 These relational operators are very important and are heavily used in programming. We will revisit them in one of the next lessons where we go over the if/else statement, a selection construct lets you execute certain statements based on whether a condition is true or not. 
 
-**Lesson Quiz**
+<h1>Lesson Quiz</h1>
 
-1. What is the output to the console?
+<h3>1. What is the output to the console?</h3>
 
 		int num = 5;
 
@@ -94,7 +94,7 @@ These relational operators are very important and are heavily used in programmin
 	</div>
 </form>
 
-<p>2. What is the output to the console?</p>
+<h3>2. What is the output to the console?</h3>
 
 		double dec = 14.4;
 

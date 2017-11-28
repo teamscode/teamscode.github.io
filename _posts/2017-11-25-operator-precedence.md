@@ -22,39 +22,39 @@ However, in programming, there are other operators as well. Assignment operators
   </tr>
   <tr>
     <td>postfix</td>
-    <td>expr++ expr--</td>
+    <td><code>expr++ expr--</code></td>
   </tr>
   <tr>
     <td>unary</td>
-    <td>++expr --expr !</td>
+    <td><code>++expr  --expr !</code></td>
   </tr>
   <tr>
     <td>multiplicative</td>
-    <td>* / %</td>
+    <td><code>* / %</code></td>
   </tr>
   <tr>
     <td>additive</td>
-    <td>+ -</td>
+    <td><code>+ -</code></td>
   </tr>
   <tr>
     <td>relational</td>
-    <td>< > <= >=</td>
+    <td><code>< > <= >=</code></td>
   </tr>
   <tr>
     <td>equality</td>
-    <td>== !=</td>
+    <td><code>== !=</code></td>
   </tr>
   <tr>
     <td>logical AND</td>
-    <td>f</td>
+    <td><code>&amp;&amp;</code></td>
   </tr>
   <tr>
     <td>logical OR</td>
-    <td>||</td>
+    <td><code>||</code></td>
   </tr>
   <tr>
     <td>assignment</td>
-    <td>= += -= *= /= %=</td>
+    <td><code>= += -= *= /= %=</code></td>
   </tr>
 </table>
 
@@ -82,9 +82,9 @@ An error is thrown because of the minus sign. At first, the 5 is concatenated to
 
 		// Prints "5 - 2 is equal to 3"
 
-**Lesson Quiz**
+<h1>Lesson Quiz</h1>
 
-1. What is the output to the console?
+<h3>1. What is the output to the console?</h3>
 
 		System.out.println(9 - 2 + "" + 4 + 1);
 
@@ -103,7 +103,7 @@ An error is thrown because of the minus sign. At first, the 5 is concatenated to
 	</div>
 </form>
 
-<p>2. What is the output to the console?</p>
+<h3>2. What is the output to the console?</h3>
 
 		System.out.println("Hi" + 3 - 2);
 
@@ -122,7 +122,7 @@ An error is thrown because of the minus sign. At first, the 5 is concatenated to
 	</div>
 </form>
 
-<p>3. What is the output to the console?</p>
+<h3>3. What is the output to the console?</h3>
 
 		System.out.println(true || false && false);
 
@@ -141,7 +141,7 @@ An error is thrown because of the minus sign. At first, the 5 is concatenated to
 	</div>
 </form>
 
-<p>4. What is the output to the console?</p>
+<h3>4. What is the output to the console?</h3>
 
 		System.out.println("True or false: " + true || false);
 
