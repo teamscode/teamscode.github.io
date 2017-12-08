@@ -75,6 +75,16 @@
   }
 }
 
+.sticky-l {
+  position: fixed !important;
+  top: 75px;
+}
+
+.near-bottom-l {
+  position: absolute;
+  bottom: 10px;
+}
+
 br {
   display: block; /* makes it have a width */
   content: ""; /* clears default height */
