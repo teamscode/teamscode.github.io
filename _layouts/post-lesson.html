@@ -11,16 +11,17 @@
         <div class="post-lesson-body">
           <div class="post-lesson-max-width">
             <div class="row">
-              <div class="column left" style="position: fixed; top: 75px;">
+              <div class="column left sticky-l" id="sidebar">
                 <a href="/learn/ap-computer-science/">
                   <div class="lesson-sidebar-title">
                     AP Computer Science
                   </div>
                 </a>
                 {% for lesson in site.data.ap_comp_sci_lessons %}
+                  {% assign current_section = forloop.index %}
                   {% for lessons in lesson.lessons %}
                     {% if lessons.title == page.lesson_title %}
-                      <a href="/learn/ap-computer-science/#{{ forloop.index }}"><div class="lesson-sidebar-header">
+                      <a href="/learn/ap-computer-science/#{{ current_section }}"><div class="lesson-sidebar-header">
                         {{ lesson.header }}
                       </div></a>
                       {% for lessons in lesson.lessons %}
@@ -59,4 +60,20 @@
       {% include footer.html %}
     </div>
   </body>
+
+  <script>
+  $(window).scroll(function(e){ 
+    var $el = $('#sidebar'); 
+    var isPositionFixed = ($el.css('position') == 'fixed');
+    var bottomDist = $(window).scrollTop() >= $(document).height() - 450;
+    if (!bottomDist && !isPositionFixed) { 
+      $('#sidebar').addClass("sticky-l");
+      $('#sidebar').removeClass("near-bottom-l"); 
+    }
+    if (bottomDist && isPositionFixed) {
+      $('#sidebar').removeClass("sticky-l"); 
+      $('#sidebar').addClass("near-bottom-l"); 
+    }
+  });
+</script>
 </html>

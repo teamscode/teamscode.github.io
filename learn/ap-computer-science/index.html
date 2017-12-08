@@ -40,12 +40,17 @@ class: ap-computer-science
   $(window).scroll(function(e){ 
     var $el = $('#sidebar'); 
     var isPositionFixed = ($el.css('position') == 'fixed');
-    if ($(this).scrollTop() > 160 && !isPositionFixed){ 
+    var bottomDist = $(window).scrollTop() >= $(document).height() - 450;
+    if ($(this).scrollTop() > 160 && !bottomDist && !isPositionFixed) { 
       $('#sidebar').addClass("sticky");
+      $('#sidebar').removeClass("near-bottom"); 
     }
-    if ($(this).scrollTop() < 160 && isPositionFixed)
-    {
+    if ($(this).scrollTop() < 160 && isPositionFixed) {
       $('#sidebar').removeClass("sticky"); 
     } 
+    if (bottomDist && isPositionFixed) {
+      $('#sidebar').removeClass("sticky"); 
+      $('#sidebar').addClass("near-bottom"); 
+    }
   });
 </script>

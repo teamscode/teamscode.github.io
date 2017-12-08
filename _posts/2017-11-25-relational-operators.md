@@ -2,7 +2,7 @@
 layout: post-lesson
 permalink: /learn/ap-computer-science/relational-operators/
 lesson_title: Relational Operators
-lesson_desc: This lesson goes over relational operators and how to use them to compare values. 
+lesson_desc: Using relational operators to compare different values.
 author: Alan Bi
 ---
 
