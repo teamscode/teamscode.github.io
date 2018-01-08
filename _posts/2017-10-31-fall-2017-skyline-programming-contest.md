@@ -1,6 +1,6 @@
 ---
 layout: post-contest
-permalink: /contest/fall-2017-skyline-programming-contest/
+permalink: /contests/fall-2017-skyline-programming-contest/
 contest_title: Skyline Programming Contest
 contest_date: Tentatively November 18th, 2017
 contest_location: Skyline High School

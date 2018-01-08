@@ -1,6 +1,6 @@
 ---
 layout: post-contest
-permalink: /contest/fall-2017-mihs-programming-contest/
+permalink: /contests/fall-2017-mihs-programming-contest/
 contest_title: Fall 2017 MIHS Programming Contest
 contest_date: October 21st, 2017
 contest_location: Mercer Island High School
