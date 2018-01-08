@@ -53,7 +53,7 @@ There was a great turnout of 90 students, or 36 teams. The contest was held in t
 
 ## Pictures
 
-[Pictures on Google Drive](https://drive.google.com/drive/folders/0By-6WanV3FA5aHQ2MGVUSWdfcFk?usp=sharing)
+[Pictures on Google Drive](https://drive.google.com/drive/folders/0B7XEBrpeknRgcXRjZmhhTkhrMjg)
 
 # Prizes
 
