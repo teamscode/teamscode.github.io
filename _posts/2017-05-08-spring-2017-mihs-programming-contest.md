@@ -1,6 +1,6 @@
 ---
 layout: post-contest
-permalink: /contest/spring-2017-mihs-programming-contest/
+permalink: /contests/spring-2017-mihs-programming-contest/
 contest_title: Spring 2017 MIHS Programming Contest
 contest_date: April 1st, 2017
 contest_location: Mercer Island High School

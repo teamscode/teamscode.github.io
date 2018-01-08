@@ -1,6 +1,6 @@
 ---
 layout: post-contest
-permalink: /contest/2018-teamscode-development-challenge/
+permalink: /contests/2018-teamscode-development-challenge/
 contest_title: 2018 TeamsCode Development Challenge
 contest_date: February 4th to April 21st
 contest_location: "Location: TBD"
