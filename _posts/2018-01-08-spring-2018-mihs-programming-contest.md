@@ -44,19 +44,19 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 # Schedule #
 
-**9:45AM:** Arrive, check in begins.
+**9:45:** Arrive, check in begins.
 
-**10:00AM:** Introduction to rules and schedule, get settled in.
+**10:00:** Introduction to rules and schedule, get settled in.
 
-**10:30AM:** Practice problem, teams introduced to their judges. 
+**10:45:** Practice problem, working with reading input. 
 
-**11:00AM:** Contest begins. 
+**11:30:** Contest begins. 
 
-**12:00PM:** Lunch while the competition goes on.
+**12:00:** Lunch while the competition goes on.
 
-**2:00PM:** Announce winners. Raffle.
+**2:30:** Announce winners. Raffle.
 
-**2:30PM:** Go home.
+**3:00:** Go home.
 
 # Scoring #
 
