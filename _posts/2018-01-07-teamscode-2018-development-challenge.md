@@ -87,7 +87,9 @@ Second Place: School B, represented by Team PHP
 ## The following is a tentative outline of possible awards (subject to change): 
 
 First Place: $500 + trophies
+
 Second Place: $300 + trophies
+
 Third Place: $150 + trophies
 
 
