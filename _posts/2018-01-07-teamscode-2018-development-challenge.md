@@ -73,12 +73,12 @@ The winning teams will receive monetary awards for their schools’ computer sci
 
 ## Example: 
 
-### **School A has three teams: Team Java, Team C, and Team Python**  
+### *School A has three teams: Team Java, Team C, and Team Python* 
 Team Java scores 40 points  
 Team C scores 30 points  
 Team Python scores 10 points  
 
-### **School B has one team: Team PHP**  
+### *School B has one team: Team PHP*  
 Team PHP scores 20 points  
 
 First Place: School A, represented by Team Java  
