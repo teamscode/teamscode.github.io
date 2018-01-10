@@ -2,96 +2,96 @@
   problems:
   - title: Inspirational Message
     techniques: String manipulation
-    link: 
+    link: inspirational-message
   - title: Small Car
     techniques: String manipulation
-    link: 
+    link: small-car
   - title: Triangle Creator
     techniques: String manipulation
-    link: 
+    link: triangle-creator
   - title: Sorting Distances
     techniques: Basic sorting
-    link: 
+    link: sorting-distances
   - title: Distance to Shore
     techniques: Basic arithmetic
-    link: 
+    link: distance-to-shore
   - title: Word Spelling
     techniques: Searching strings
-    link: 
+    link: word-spelling
   - title: Compound Interest
     techniques: Basic arithmetic
-    link: 
+    link: compound-interest
   - title: Magic Square
     techniques: Array manipulation
-    link: 
+    link: magic-square
   - title: Texas Hold'em
     techniques: Sorting, Searching
-    link: 
+    link: texas-holdem
   - title: Valid DNA
     techniques: Analyzing strings
-    link: 
+    link: valid-dna
 - difficulty: Medium
   problems:
   - title: Find Prime
     techniques: Basic algorithms
-    link: 
+    link: find-prime
   - title: Counting Time
     techniques: Unit conversion
-    link: 
+    link: counting-time
   - title: Decoder
     techniques: Integer and String manipulation
-    link: 
+    link: decoder
   - title: Playground
     techniques: Basic algorithms
-    link: 
+    link: playground
   - title: Best Football Team
     techniques: Sorting, Data storage
-    link: 
+    link: best-football-team
   - title: Multiplying Ducks
     techniques: Algorithm creation
-    link: 
+    link: multiplying-ducks
   - title: Changing a 2D Array
     techniques: Array manipulation
-    link: 
+    link: changing-a-2d-array
   - title: Alien Message
     techniques: Array manipulation
-    link: 
+    link: alien-message
   - title: Pattern Sequence
     techniques: Data analysis
-    link: 
+    link: pattern-sequence
   - title: New Palindrome
     techniques: Complex string manipulation
-    link: 
+    link: new-palindrome
 - difficulty: Hard
   problems:
   - title: Underground Maze
     techniques: Depth-first search
-    link: 
+    link: underground-maze
   - title: Best Bootcamps
     techniques: Data analysis
-    link: 
+    link: best-bootcamps
   - title: Road Race
     techniques: Dijkstra's algorithm
-    link: 
+    link: road-race
   - title: Closest ZIP Codes
     techniques: Integer manipulation
-    link: 
+    link: closest-zip-codes
   - title: Hiking
     techniques: Algorithm design
-    link: 
+    link: hiking
   - title: Sudoku
     techniques: Array manipulation
-    link: 
+    link: sudoku
   - title: L.C.S
     techniques: Dynamic programming
-    link: 
+    link: lcs
   - title: Full Bookshelf
     techniques: Complex algorithm design
-    link: 
+    link: full-bookshelf
   - title: Binary Code
     techniques: String/binary manipulation
-    link: 
+    link: binary-code
   - title: Base Palindrome
     techniques: Base and String manipulation
-    link: 
+    link: base-palindrome
   
