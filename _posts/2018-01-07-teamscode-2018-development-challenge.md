@@ -53,7 +53,7 @@ This development challenge encourages the use of a few selected APIs, either tho
 
 ## Registration: 
 
-Each school and have a maximum of three teams with between two and five people per team. Please have one person per team fill out [this link](https://teamscode.typeform.com/to/pqwej3). 
+Each school will have a maximum of three teams with between two and five people per team. Please have one person per team fill out [this link](https://teamscode.typeform.com/to/pqwej3). 
 
 ## Submitting: 
 
