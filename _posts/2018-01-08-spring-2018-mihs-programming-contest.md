@@ -13,6 +13,7 @@ contest_location: Mercer Island High School
   <br><br><a href="https://teamscode.com"><img src="/assets/images/light_logo_bkg.png" alt="TeamsCode" style="width:100px;"></a>
 </div>-->
 
+# *Sign ups are currently unavailable* #
 
 # Basic Information #
 
