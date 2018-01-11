@@ -31,10 +31,10 @@ If your team decides to use an existing project, please send an email to contest
 
 The final application should aim to be easy to use and functional, meaning that it has a good design and presents a creative solution to an existing problem. This problem can be large or small; for example, an app could be made to help unemployed people find jobs or to help teenagers find the best places to eat out, as long as it aligns with the theme (the theme will be broad so you have room for creativity). The application will be graded by judges on the following categories: 
 
-* User Interface (10pts): How your app looks in terms of design 
-* User Experience (10pts): How easy and efficient it is to use your app 
-* Idea (10pts): Whether or not your app is useful and relates to the theme
-* Presentation (10pts): How well you present your app at the Showcase Event 
+* User Interface (10pts): How your app looks in terms of design (visually appealing)
+* User Experience (10pts): How easy and efficient it is to use your app (works well and simple to use)
+* Idea (10pts): Whether or not your app is useful and relates to the theme 
+* Presentation (10pts): How well you present your app at the Showcase Event (presentation skills, good demonstration of your project)
 * API (up to 2 bonus pts): Whether or not you used an API from the given list below
 
 ## API:  
