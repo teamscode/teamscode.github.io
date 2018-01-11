@@ -6,13 +6,10 @@ contest_date: February 4th to April 21st
 contest_location: "Location: TBD"
 ---
 
-<!--<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
-  <h1 style="text-align: left"><b>Sponsors</b></h1>
-  <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" alt="TEALS" style="width:180px;"></a>
-  <br><a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
-  <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width:100px;"></a>
-  <br><br><a href="http://mercerislandlions.org"><img src="/assets/images/sponsor_lions.jpg" alt="Lions" style="width:100px;"></a>
-</div>-->
+<div style="float: right; margin-right: -160px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left"><b>Bronze Sponsors</b></h1>
+  <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
+</div>
 
 # [Register Here](https://teamscode.typeform.com/to/pqwej3)
 
@@ -31,10 +28,10 @@ If your team decides to use an existing project, please send an email to contest
 
 The final application should aim to be easy to use and functional, meaning that it has a good design and presents a creative solution to an existing problem. This problem can be large or small; for example, an app could be made to help unemployed people find jobs or to help teenagers find the best places to eat out, as long as it aligns with the theme (the theme will be broad so you have room for creativity). The application will be graded by judges on the following categories: 
 
-* User Interface (10pts): How your app looks in terms of design 
-* User Experience (10pts): How easy and efficient it is to use your app 
-* Idea (10pts): Whether or not your app is useful and relates to the theme
-* Presentation (10pts): How well you present your app at the Showcase Event 
+* User Interface (10pts): How your app looks in terms of design (visually appealing)
+* User Experience (10pts): How easy and efficient it is to use your app (works well and simple to use)
+* Idea (10pts): Whether or not your app is useful and relates to the theme 
+* Presentation (10pts): How well you present your app at the Showcase Event (presentation skills, good demonstration of your project)
 * API (up to 2 bonus pts): Whether or not you used an API from the given list below
 
 ## API:  
@@ -53,7 +50,7 @@ This development challenge encourages the use of a few selected APIs, either tho
 
 ## Registration: 
 
-Each school and have a maximum of three teams with between two and five people per team. Please have one person per team fill out [this link](https://teamscode.typeform.com/to/pqwej3). 
+Each school will have a maximum of three teams with between two and five people per team. Please have one person per team fill out [this link](https://teamscode.typeform.com/to/pqwej3). 
 
 ## Submitting: 
 
