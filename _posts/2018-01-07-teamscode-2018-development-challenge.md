@@ -6,13 +6,10 @@ contest_date: February 4th to April 21st
 contest_location: "Location: TBD"
 ---
 
-<!--<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
-  <h1 style="text-align: left"><b>Sponsors</b></h1>
-  <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" alt="TEALS" style="width:180px;"></a>
-  <br><a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
-  <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width:100px;"></a>
-  <br><br><a href="http://mercerislandlions.org"><img src="/assets/images/sponsor_lions.jpg" alt="Lions" style="width:100px;"></a>
-</div>-->
+<div style="float: right; margin-right: -160px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left"><b>Bronze Sponsors</b></h1>
+  <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
+</div>
 
 # [Register Here](https://teamscode.typeform.com/to/pqwej3)
 
