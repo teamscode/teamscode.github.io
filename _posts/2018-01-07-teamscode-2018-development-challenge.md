@@ -13,14 +13,15 @@ contest_location: "Location: TBD"
 
 # [Register Here](https://teamscode.typeform.com/to/pqwej3)
 
-### **Cost: $20/team**
-### *The online payment system is currently unavailable, but we will announce when payment opens.*
+### **Cost: $20/team** (The online payment system will open soon)
+
+*We wish to encourage all who are interested to participate in this contest. If you are unable to pay the $20 entrance fee, please contact us at [contests@teamscode.com](mailto:contests@teamscode.com) so that we can cover your costs.*
 
 The 2018 TeamsCode Development Challenge is a two-month long development challenge between competing schools in the Puget Sound area. Each school can field a maximum of three teams, each of which works on an app, website, or other software that helps to solve an issue related to a theme (to be announced on February 4th). At the end of the two month period, each team will be invited to the Showcase Event to present their finished application in a 5-10 minute demonstration. The top teams of different schools will win large prizes for their schools’ computer science departments.
 
 ## Rules: 
 
-1. Projects must only be worked on by students of the same high school, typically from the school’s computer science or other technology related club. 
+1. Projects must only be worked on by students of the same middle or high school, typically from the school’s computer science or other technology related club. 
 2. Teams should avoid having a single experienced programmer or adult supervisor do the majority of the work.
 3. Project must relate to TeamsCode’s theme (announced February 4th).
 4. If a team has already been working on an app, they can use it for this contest only if the app was started during this school year and is less than 20 percent complete by the start of the contest. 
