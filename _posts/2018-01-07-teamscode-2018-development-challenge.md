@@ -6,12 +6,15 @@ contest_date: February 4th to April 21st
 contest_location: "Location: TBD"
 ---
 
-<div style="float: right; margin-right: -160px; margin-left: 10px; text-align: center;">
+<div style="float: right; margin-right: -160px; margin-left: 20px; text-align: center;">
   <h1 style="text-align: left"><b>Bronze Sponsors</b></h1>
   <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
 </div>
 
 # [Register Here](https://teamscode.typeform.com/to/pqwej3)
+
+### **Cost: $20/team**
+### *The online payment system is currently unavailable, but we will announce when payment opens.*
 
 The 2018 TeamsCode Development Challenge is a two-month long development challenge between competing schools in the Puget Sound area. Each school can field a maximum of three teams, each of which works on an app, website, or other software that helps to solve an issue related to a theme (to be announced on February 4th). At the end of the two month period, each team will be invited to the Showcase Event to present their finished application in a 5-10 minute demonstration. The top teams of different schools will win large prizes for their schools’ computer science departments.
 
