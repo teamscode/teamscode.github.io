@@ -2,30 +2,102 @@
   description: The basics of programming and how computers work.
   lessons:
   - title: What is Programming?
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/what-is-programming/
   - title: Programming Languages
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/programming-languages/
   - title: Binary
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/binary/
   - title: Other Bases
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/other-bases/
 - header: Programming in Java
   description: An introduction to the basic syntax of Java. 
   lessons:
   - title: Hello World
     link: /learn/ap-computer-science/hello-world/
-  - title: Primitive Data Types
-    link: /learn/ap-computer-science/sample-lesson/
+  - title: Primitive Variables
+    link: /learn/ap-computer-science/primitive-variables/
   - title: Strings
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/strings/
 - header: Operators
   description: The different types of operators and their uses. 
   lessons:
   - title: Arithmetic Operators
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/arithmetic-operators/
   - title: Relational Operators
     link: /learn/ap-computer-science/relational-operators/
   - title: Logical Operators
-    link: /learn/ap-computer-science/sample-lesson/
+    link: /learn/ap-computer-science/logical-operators/
   - title: Operator Precedence
     link: /learn/ap-computer-science/operator-precedence/
+- header: Loops and Conditionals
+  description: Exploring simple if statements and for loops.
+  lessons:
+  - title: If Statements
+    link: /learn/ap-computer-science/if-statements/
+  - title: For Loops
+    link: /learn/ap-computer-science/for-loops/
+  - title: Advanced For Loops
+    link: /learn/ap-computer-science/advanced-for-loops/
+  - title: While Loops
+    link: /learn/ap-computer-science/while-loops/
+- header: Math/Scanner Classes
+  description: Two important classes of Java.
+  lessons:
+  - title: The Scanner Class
+    link: /learn/ap-computer-science/the-scanner-class/
+  - title: The Math Class
+    link: /learn/ap-computer-science/the-math-class/
+- header: Advanced Expressions
+  description: Learning the rules, data structures, and methods of Java.
+  lessons:
+  - title: Arrays
+    link: /learn/ap-computer-science/arrays/
+  - title: Foreach Loops
+    link: /learn/ap-computer-science/foreach-loops/
+  - title: Errors/Exceptions
+    link: /learn/ap-computer-science/errors-exceptions/
+  - title: Methods
+    link: /learn/ap-computer-science/methods/
+- header: Introduction to Classes
+  description: The structure, content, and purpose of classes.
+  lessons:
+  - title: Classes
+    link: /learn/ap-computer-science/classes/
+  - title: Using Multiple Classes
+    link: /learn/ap-computer-science/using-multiple-classes/
+  - title: Fields
+    link: /learn/ap-computer-science/fields/
+  - title: Method Types
+    link: /learn/ap-computer-science/method-types/
+- header: Object-Oriented Java
+  description: The standards and foundation of Java.
+  lessons:
+  - title: Objects
+    link: /learn/ap-computer-science/objects/
+  - title: Object-Oriented Programming
+    link: /learn/ap-computer-science/object-oriented-programming/
+  - title: Inheritance
+    link: /learn/ap-computer-science/inheritance/
+  - title: Inheritance Principles
+    link: /learn/ap-computer-science/inheritance-principles/
+- header: Techniques in Java
+  description: An introduction to new programming concepts.
+  lessons:
+  - title: ArrayLists
+    link: /learn/ap-computer-science/arraylists/
+  - title: Recursion
+    link: /learn/ap-computer-science/recursion/
+- header: Sorting and Searching
+  description: The fundamentals of Java sorting and searching algorithms.
+  lessons:
+  - title: Sorting and Searching
+    link: /learn/ap-computer-science/sorting-and-searching/
+  - title: Common Sorting Methods
+    link: /learn/ap-computer-science/common-sorting-methods/
+  - title: Common Searching Methods
+    link: /learn/ap-computer-science/common-searching-methods/
+  - title: Mergesort
+    link: /learn/ap-computer-science/mergesort/
+  - title: Quicksort
+    link: /learn/ap-computer-science/quicksort/
+  

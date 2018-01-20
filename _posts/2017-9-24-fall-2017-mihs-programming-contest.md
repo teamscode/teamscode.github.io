@@ -7,7 +7,7 @@ contest_location: Mercer Island High School
 contest_sponsors: 2
 ---
 
-<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+<div style="float: right; margin-right: -140px; margin-left: 20px; text-align: center;">
   <h1 style="text-align: left"><b>Sponsors</b></h1>
   <a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
   <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width:100px;"></a>
