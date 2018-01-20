@@ -13,7 +13,7 @@ contest_location: "Location: TBD"
 
 # [Register Here](https://teamscode.typeform.com/to/pqwej3)
 
-### **Cost: $20/team** (The online payment system will open soon)
+### **Cost: $20/team** 
 
 *We wish to encourage all who are interested to participate in this contest. If you are unable to pay the $20 entrance fee, please contact us at [contests@teamscode.com](mailto:contests@teamscode.com) so that we can cover your costs.*
 
