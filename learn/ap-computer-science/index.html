@@ -40,7 +40,7 @@ class: ap-computer-science
   $(window).scroll(function(e){ 
     var $el = $('#sidebar'); 
     var isPositionFixed = ($el.css('position') == 'fixed');
-    var bottomDist = $(window).scrollTop() >= $(document).height() - 450;
+    var bottomDist = $(window).scrollTop() >= $(document).height() - 700;
     if ($(this).scrollTop() > 160 && !bottomDist && !isPositionFixed) { 
       $('#sidebar').addClass("sticky");
       $('#sidebar').removeClass("near-bottom"); 

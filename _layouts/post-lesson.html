@@ -65,7 +65,7 @@
   $(window).scroll(function(e){ 
     var $el = $('#sidebar'); 
     var isPositionFixed = ($el.css('position') == 'fixed');
-    var bottomDist = $(window).scrollTop() >= $(document).height() - 450;
+    var bottomDist = $(window).scrollTop() >= $(document).height() - 500;
     if (!bottomDist && !isPositionFixed) { 
       $('#sidebar').addClass("sticky-l");
       $('#sidebar').removeClass("near-bottom-l"); 
