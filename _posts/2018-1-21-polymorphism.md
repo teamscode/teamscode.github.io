@@ -167,7 +167,7 @@ There is only one snippet of code that needs changing. So if you frequently have
     </div>
 </form>
 
-<h3>3. A parent class has a method method1() and a subclass has a method method2(). Which of the following is true?</h3>
+<h3>3. A parent class has a method <code>method1()</code> and a subclass has a method <code>method2()</code>. Which of the following is true?</h3>
 
 <form>
     <div>
