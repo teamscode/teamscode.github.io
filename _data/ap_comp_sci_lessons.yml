@@ -89,8 +89,8 @@
     link: /learn/ap-computer-science/abstract-classes/
   - title: Interfaces
     link: /learn/ap-computer-science/interfaces/
-  - title: Advanced Inheritance Principles
-    link: /learn/ap-computer-science/advanced-inheritance-principles/
+  - title: Polymorphism
+    link: /learn/ap-computer-science/polymorphism/
 - header: Techniques in Java
   description: An introduction to ArrayLists and a new programming concept.
   lessons:
