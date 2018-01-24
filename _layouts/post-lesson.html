@@ -52,6 +52,7 @@
               <hr style="background-color: #777; border-width: 0; height: 1px; margin-top: -15px">
                 {{ content }}
                 <p style="color: #777; font-size: 14px;"><i>Written by {{ page.author }}</i></p>
+                <p style="color: #777; font-size: 14px;">Notice any mistakes? Please email us at <a href="mailto:learn@teamcode.com">learn@teamscode.com</a> so that we can fix any inaccuracies. </p>
               </div>
             </div>
           </div>
@@ -65,7 +66,7 @@
   $(window).scroll(function(e){ 
     var $el = $('#sidebar'); 
     var isPositionFixed = ($el.css('position') == 'fixed');
-    var bottomDist = $(window).scrollTop() >= $(document).height() - 450;
+    var bottomDist = $(window).scrollTop() >= $(document).height() - 500;
     if (!bottomDist && !isPositionFixed) { 
       $('#sidebar').addClass("sticky-l");
       $('#sidebar').removeClass("near-bottom-l"); 
