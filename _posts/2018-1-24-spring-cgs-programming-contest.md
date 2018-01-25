@@ -3,7 +3,7 @@ layout: post-contest
 permalink: /contests/spring-cgs-programming-contest/
 contest_title: Catlin Gabel Programming Contest
 contest_date: April 7th, 2018
-contest_location: Catlin Gabel School
+contest_location: Catlin Gabel School, Portland
 ---
 
 # *Sign ups are currently unavailable* #
