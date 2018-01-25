@@ -6,6 +6,11 @@ contest_date: April 7th, 2018
 contest_location: Catlin Gabel School, Portland
 ---
 
+<div style="float: right; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Sponsors</b></h1>
+  <h3 style="text-align: left;">No sponsors currently</h3>
+</div>
+
 # *Sign ups are currently unavailable* #
 
 # Basic Information #
