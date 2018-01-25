@@ -12,7 +12,7 @@ contest_location: Catlin Gabel School
 
 **Time:** 9:45AM – 3:00PM
 
-**Location:** Catlin Gabel School
+**Location:** <a href="https://www.google.com/maps/dir/Catlin+Gabel+School,+8825+SW+Barnes+Rd,+Portland,+OR+97225/@45.509995,-122.7696706,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x549509433a879379:0x688f19935355949f!2m2!1d-122.7674819!2d45.509995">Catlin Gabel School</a>
 
 **Team Sizes:** 1-3 people per team. 
 
