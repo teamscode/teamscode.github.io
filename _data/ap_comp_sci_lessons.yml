@@ -94,7 +94,7 @@
 - header: Techniques in Java
   description: An introduction to ArrayLists and a new programming concept.
   lessons:
-  - title: ArrayLists
+  - title: Lists and ArrayLists
     link: /learn/ap-computer-science/arraylists/
   - title: Recursion
     link: /learn/ap-computer-science/recursion/
