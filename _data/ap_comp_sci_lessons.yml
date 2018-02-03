@@ -7,8 +7,8 @@
     link: /learn/ap-computer-science/programming-languages/
   - title: Binary
     link: /learn/ap-computer-science/binary/
-  - title: Other Bases
-    link: /learn/ap-computer-science/other-bases/
+  - title: More Number Bases
+    link: /learn/ap-computer-science/more-number-bases/
 - header: Programming in Java
   description: An introduction to the basic syntax of Java. 
   lessons:
@@ -16,11 +16,13 @@
     link: /learn/ap-computer-science/hello-world/
   - title: Primitive Variables
     link: /learn/ap-computer-science/primitive-variables/
-  - title: Strings
-    link: /learn/ap-computer-science/strings/
+  - title: Advanced Variables
+    link: /learn/ap-computer-science/advanced-variables/
 - header: Operators
   description: The different types of operators and their uses. 
   lessons:
+  - title: Assignment Operators
+    link: /learn/ap-computer-science/assignment-operators/
   - title: Arithmetic Operators
     link: /learn/ap-computer-science/arithmetic-operators/
   - title: Relational Operators
@@ -103,10 +105,10 @@
   lessons:
   - title: Sorting and Searching
     link: /learn/ap-computer-science/sorting-and-searching/
-  - title: Common Sorting Methods
-    link: /learn/ap-computer-science/common-sorting-methods/
-  - title: Common Searching Methods
-    link: /learn/ap-computer-science/common-searching-methods/
+  - title: Sorting Methods
+    link: /learn/ap-computer-science/sorting-methods/
+  - title: Searching Methods
+    link: /learn/ap-computer-science/searching-methods/
   - title: Mergesort
     link: /learn/ap-computer-science/mergesort/
   - title: Quicksort
