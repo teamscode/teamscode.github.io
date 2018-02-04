@@ -10,17 +10,6 @@ author: Jason Zhang
 
 {% raw %}
 
-<table>
-  <tr>
-    <th colspan="2">Code Bar</th>
-  </tr>
-  <tr>
-    <td><code>for () {}</code></td>
-    <td>For Loop</td>
-  </tr>
-</table>
-
-
 **For loops** are control structures that allow the computer to perform a task over and over again.
 
         for (init; test; update statement) {
