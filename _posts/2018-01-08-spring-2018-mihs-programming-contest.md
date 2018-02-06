@@ -9,6 +9,8 @@ contest_location: Mercer Island High School
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
   <h1 style="text-align: left;"><b>Gold Sponsors</b></h1>
   <a href="https://jetbrains.com"><img src="/assets/images/sponsor_jetbrains.png" alt="JetBrains" style="width: 150px; margin-right: 20px;"></a> <br>
+  <h1 style="text-align: left"><b>Bronze Sponsors</b></h1>
+  <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
 </div>
 
 # *Sign ups are currently unavailable* #
