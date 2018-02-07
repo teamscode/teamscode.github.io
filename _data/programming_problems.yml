@@ -2,96 +2,96 @@
   problems:
   - title: Inspirational Message
     techniques: String manipulation
-    link: inspirational-message
+    link: /assets/problem_pdfs/inspirational_message.pdf
   - title: Small Car
     techniques: String manipulation
-    link: small-car
+    link: /assets/problem_pdfs/small_car.pdf
   - title: Triangle Creator
     techniques: String manipulation
-    link: triangle-creator
+    link: /assets/problem_pdfs/triangle_creator.pdf
   - title: Sorting Distances
     techniques: Basic sorting
-    link: sorting-distances
+    link: /assets/problem_pdfs/sorting_distances.pdf
   - title: Distance to Shore
     techniques: Basic arithmetic
-    link: distance-to-shore
+    link: /assets/problem_pdfs/distance_to_shore.pdf
   - title: Word Spelling
     techniques: Searching strings
-    link: word-spelling
+    link: /assets/problem_pdfs/word_spelling.pdf
   - title: Compound Interest
     techniques: Basic arithmetic
-    link: compound-interest
+    link: /assets/problem_pdfs/compound_interest.pdf
   - title: Magic Square
     techniques: Array manipulation
-    link: magic-square
+    link: /assets/problem_pdfs/magic_square.pdf
   - title: Texas Hold'em
     techniques: Sorting, Searching
-    link: texas-holdem
+    link: /assets/problem_pdfs/texas_holdem.pdf
   - title: Valid DNA
     techniques: Analyzing strings
-    link: valid-dna
+    link: /assets/problem_pdfs/valid_dna.pdf
 - difficulty: Medium
   problems:
   - title: Find Prime
     techniques: Basic algorithms
-    link: find-prime
+    link: /assets/problem_pdfs/find_prime.pdf
   - title: Counting Time
     techniques: Unit conversion
-    link: counting-time
+    link: /assets/problem_pdfs/counting_time.pdf
   - title: Decoder
     techniques: Integer and String manipulation
-    link: decoder
+    link: /assets/problem_pdfs/decoder.pdf
   - title: Playground
     techniques: Basic algorithms
-    link: playground
+    link: /assets/problem_pdfs/playground.pdf
   - title: Best Football Team
     techniques: Sorting, Data storage
-    link: best-football-team
+    link: /assets/problem_pdfs/best_football_team.pdf
   - title: Multiplying Ducks
     techniques: Algorithm creation
-    link: multiplying-ducks
+    link: /assets/problem_pdfs/multiplying_ducks.pdf
   - title: Changing a 2D Array
     techniques: Array manipulation
-    link: changing-a-2d-array
+    link: /assets/problem_pdfs/changing_a_2d_array.pdf
   - title: Alien Message
     techniques: Array manipulation
-    link: alien-message
+    link: /assets/problem_pdfs/alien_message.pdf
   - title: Pattern Sequence
     techniques: Data analysis
-    link: pattern-sequence
+    link: /assets/problem_pdfs/pattern_sequence.pdf
   - title: New Palindrome
     techniques: Complex string manipulation
-    link: new-palindrome
+    link: /assets/problem_pdfs/new_palindrome.pdf
 - difficulty: Hard
   problems:
   - title: Underground Maze
     techniques: Depth-first search
-    link: underground-maze
+    link: /assets/problem_pdfs/underground_maze.pdf
   - title: Best Bootcamps
     techniques: Data analysis
-    link: best-bootcamps
+    link: /assets/problem_pdfs/best_bootcamps.pdf
   - title: Road Race
     techniques: Dijkstra's algorithm
-    link: road-race
+    link: /assets/problem_pdfs/road_race.pdf
   - title: Closest ZIP Codes
     techniques: Integer manipulation
-    link: closest-zip-codes
+    link: /assets/problem_pdfs/closest_zip_codes.pdf
   - title: Hiking
     techniques: Algorithm design
-    link: hiking
+    link: /assets/problem_pdfs/hiking.pdf
   - title: Sudoku
     techniques: Array manipulation
-    link: sudoku
+    link: /assets/problem_pdfs/sudoku.pdf
   - title: L.C.S
     techniques: Dynamic programming
-    link: lcs
+    link: /assets/problem_pdfs/lcs.pdf
   - title: Full Bookshelf
     techniques: Complex algorithm design
-    link: full-bookshelf
+    link: /assets/problem_pdfs/full_bookshelf.pdf
   - title: Binary Code
     techniques: String/binary manipulation
-    link: binary-code
+    link: /assets/problem_pdfs/binary_code.pdf
   - title: Base Palindrome
     techniques: Base and String manipulation
-    link: base-palindrome
+    link: /assets/problem_pdfs/base_palindrome.pdf
   
