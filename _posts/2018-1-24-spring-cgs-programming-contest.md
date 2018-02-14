@@ -1,339 +1,88 @@
 ---
-layout: post-lesson
-permalink: /learn/ap-computer-science/more-number-bases/
-lesson_title: More Number Bases
-lesson_desc: Learning about octal and hexadecimal number bases.
-author: Jason Zhang
+layout: post-contest
+permalink: /contests/spring-cgs-programming-contest/
+contest_title: Catlin Gabel Programming Contest
+contest_date: April 7th, 2018
+contest_location: Catlin Gabel School
 ---
 
-<script src="/questions.js"></script>
+# *Sign ups are currently unavailable* #
 
-{% raw %}
+# Basic Information #
 
-<table>
-  <tr>
-    <th colspan="2">Vocab Bar</th>
-  </tr>
-  <tr>
-    <td>Hexadecimal</td>
-    <td>The numeral system of base 16</td>
-  </tr>
-  <tr>
-    <td>Octal</td>
-    <td>The numeral system of base 8</td>
-  </tr>
-</table>
+**Time:** 9:45AM – 3:00PM
 
+**Location:** Catlin Gabel School
 
-In the last chapter, we covered binary. However, there are also higher numbering base systems.
+**Team Sizes:** 1-3 people per team. 
 
-**Hexadecimal** is the numeral system of base 16. Its first ten digits are 0-9 and the next six digits are A-F. The Hexadecimal system is calculated the same was a binary and decimal, except with base 16 instead. It is used mainly to represent color and data location.
+**Cost:** $10/person (one check per team)
 
-This table shows the first 16 hexadecimal numbers converted to base 10. The conversion protocol is the same as binary. Once a position reaches a value greater than 15, then you add 1 to the next position and restart at 0. You can see this between 15 and 16. 15 is equal to 15 multiplied by 16 to the 0th power. However 16 is equal to 1 multiplied by 16 to the first power. So the ones position is reset to 0, and the tens position increments by 1:
+**Languages:** Java, C, C#, and Python
 
-<table>
-  <tr>
-    <th>Base Ten</th>
-    <th>Hexadecimal</th>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>A</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>B</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>D</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>E</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>F</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-  </tr>
-</table>
+**Divisions:** Intermediate or Advanced
 
+# General Guidelines #
 
-The **Octal** numeral system is the base 8 system. It uses 0-7 as its set of digits, and it’s calculated in the exact same way as the hexadecimal, decimal, and binary system, except with base 8. For instance, once the value of a certain position reaches the maximum value (in this case 8), it overflows into the next position. Take 4 multiplied by 2, in the chart below. 4 multiplied by 2 is eight, eight can be represented as 1 multiplied by 8 to the power of 1. The Octal numbering system was used widely to transcribe data locations and instruction, but as the data became larger, those uses fell to hexadecimal.
+**Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
 
-This table shows the octal multiplication chart:
+**Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
 
-<table>
-  <tr>
-    <th>x</th>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-    <th>4</th>
-    <th>5</th>
-    <th>6</th>
-    <th>7</th>
-    <th>10</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>2</td>
-    <td>4</td>
-    <td>6</td>
-    <td>10</td>
-    <td>12</td>
-    <td>14</td>
-    <td>16</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td>3</td>
-    <td>6</td>
-    <td>11</td>
-    <td>14</td>
-    <td>17</td>
-    <td>22</td>
-    <td>25</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td>4</td>
-    <td>10</td>
-    <td>14</td>
-    <td>20</td>
-    <td>24</td>
-    <td>30</td>
-    <td>34</td>
-    <td>40</td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td>5</td>
-    <td>12</td>
-    <td>17</td>
-    <td>24</td>
-    <td>31</td>
-    <td>36</td>
-    <td>43</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td>6</td>
-    <td>14</td>
-    <td>22</td>
-    <td>30</td>
-    <td>36</td>
-    <td>44</td>
-    <td>52</td>
-    <td>60</td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td>7</td>
-    <td>16</td>
-    <td>25</td>
-    <td>34</td>
-    <td>43</td>
-    <td>52</td>
-    <td>61</td>
-    <td>70</td>
-  </tr>
-  <tr>
-    <th>10</th>
-    <td>10</td>
-    <td>20</td>
-    <td>30</td>
-    <td>40</td>
-    <td>50</td>
-    <td>60</td>
-    <td>70</td>
-    <td>100</td>
-  </tr>
-</table>
+_Note: These are guidelines, not rules. You may choose to sign up for either division._
 
-<h1>Lesson Quiz</h1>
+**Rules:**
 
-<h2><u>Convert the following numbers to base 10.</u></h2>
+1. Each team member must be in middle school or high school.
+2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
+3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
 
-<h3>1. Oct: 76</h3>
+# Schedule #
 
-<form>
-    <div>
-        <input type="radio" value="a" name="cc" onchange="check(this, 'b')">
-        a. 54
-    </div>
-    <div>
-        <input type="radio" value="b" name="cc" onchange="check(this, 'b')">
-        b. 62
-    </div>
-    <div>
-        <input type="radio" value="c" name="cc" onchange="check(this, 'b')">
-        c. 68
-    </div>
-    <div>
-        <input type="radio" value="d" name="cc" onchange="check(this, 'b')">
-        d. 76
-    </div>
-</form>
+**9:45:** Arrive, check in begins.
 
-<h3>2. Oct: 135</h3>
+**10:00:** Introduction to rules and schedule, get settled in.
 
-<form>
-    <div>
-        <input type="radio" value="a" name="cc" onchange="check(this, 'd')">
-        a. 89
-    </div>
-    <div>
-        <input type="radio" value="b" name="cc" onchange="check(this, 'd')">
-        b. 90
-    </div>
-    <div>
-        <input type="radio" value="c" name="cc" onchange="check(this, 'd')">
-        c. 92
-    </div>
-    <div>
-        <input type="radio" value="d" name="cc" onchange="check(this, 'd')">
-        d. 93
-    </div>
-</form>
+**10:45:** Practice problem, working with reading input. 
 
-<h3>3. Oct: 427</h3>
+**11:30:** Contest begins. 
 
-<form>
-    <div>
-        <input type="radio" value="a" name="cc" onchange="check(this, 'a')">
-        a. 279
-    </div>
-    <div>
-        <input type="radio" value="b" name="cc" onchange="check(this, 'a')">
-        b. 283
-    </div>
-    <div>
-        <input type="radio" value="c" name="cc" onchange="check(this, 'a')">
-        c. 284
-    </div>
-    <div>
-        <input type="radio" value="d" name="cc" onchange="check(this, 'a')">
-        d. 285
-    </div>
-</form>
+**12:00:** Lunch while the competition goes on.
 
-<h3>4. Hex: 8f</h3>
+**2:30:** Announce winners. Raffle.
 
-<form>
-    <div>
-        <input type="radio" value="a" name="cc" onchange="check(this, 'a')">
-        a. 143
-    </div>
-    <div>
-        <input type="radio" value="b" name="cc" onchange="check(this, 'a')">
-        b. 144
-    </div>
-    <div>
-        <input type="radio" value="c" name="cc" onchange="check(this, 'a')">
-        c. 145
-    </div>
-    <div>
-        <input type="radio" value="d" name="cc" onchange="check(this, 'a')">
-        d. 146
-    </div>
-</form>
+**3:00:** Go home.
 
-<h3>5. Hex: 7a</h3>
+# Scoring #
 
-<form>
-    <div>
-        <input type="radio" value="a" name="cc" onchange="check(this, 'c')">
-        a. 120
-    </div>
-    <div>
-        <input type="radio" value="b" name="cc" onchange="check(this, 'c')">
-        b. 121
-    </div>
-    <div>
-        <input type="radio" value="c" name="cc" onchange="check(this, 'c')">
-        c. 122
-    </div>
-    <div>
-        <input type="radio" value="d" name="cc" onchange="check(this, 'c')">
-        d. 123
-    </div>
-</form>
+**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. All problems will be worth 50 points maximum. Each incorrect submission will reduce the points received from that problem by 5 upon completion. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
 
-{% endraw %}
+**Input and Output:** Read input from text file and output to console (answers checked manually by judges).
+
+**Sample Problem:** You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
+
+**Input:** The first line contains an integer L. The following L lines will each contain two numbers, N1 and N2.
+
+**Output:** For each set of two numbers, print the largest number possible through either adding or multiplying the two numbers together.
+
+**Example Input:**
+
+5  
+6 12  
+1 54  
+2 2  
+9 -17  
+-7 -7  
+
+**Example Output:**
+
+72  
+55  
+4  
+-8  
+49  
+
+# Documents #
+
+This pdf will describe how to read a txt file in Java, C#, C, and Python, using a Mac or PC.
+
+<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>

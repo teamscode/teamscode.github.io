@@ -13,7 +13,7 @@ contest_location: Mercer Island High School
   <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
 </div>
 
-# *Sign ups are currently unavailable* #
+<h1><a href="https://teamscode.typeform.com/to/hYTOPz">Sign Up Now!</a></h1>
 
 # Basic Information #
 

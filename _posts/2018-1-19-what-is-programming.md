@@ -30,7 +30,7 @@ author: Chris Elliott
 
         }
 
-This specific code snippet converts a number into a different base (you will learn what this means in <a href="../number-bases">**lesson #4, Number Bases**</a>). By the end of TeamsCode’s lessons, you will be able to understand, evaluate, and create this code by yourself.
+This specific code snippet converts a number into a different base (you will learn what this means in <a href="../more-number-bases">**lesson #4, Number Bases**</a>). By the end of TeamsCode’s lessons, you will be able to understand, evaluate, and create this code by yourself.
 
 <h1>Lesson Quiz</h1>
 
