@@ -9,7 +9,7 @@ contest_sponsors: 2
 
 <div style="float: right; margin-right: -140px; margin-left: 20px; text-align: center;">
   <h1 style="text-align: left"><b>Sponsors</b></h1>
-  <a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
+  <a href="http://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
   <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width:100px;"></a>
 </div> 
 
@@ -67,8 +67,8 @@ There was a great turnout of 90 students, or 36 teams. The contest was held in t
 
 [![Microsoft Teals](/assets/images/sponsor_msft_teals.png){:width="400px"}](https://www.tealsk12.org/)
 
-[![PSCSTA](/assets/images/sponsor_pscsta.png){:width="150px"}](https://pscsta.org)
-[![Lions Club](/assets/images/sponsor_lions.jpg){:width="150px"}](http://mercerislandlions.org/)
+[![PSCSTA](/assets/images/sponsor_pscsta.png){:width="150px"}](http://pscsta.org)
+[![Lions Club](/assets/images/sponsor_lions.jpg){:width="150px"}](https://www.facebook.com/MercerIslandLionsClub/)
 [![Pagliacci Pizza](/assets/images/sponsor_pagliacci.jpg){:width="100px"}](https://www.pagliacci.com/)
 
 # Volunteers / Organizers

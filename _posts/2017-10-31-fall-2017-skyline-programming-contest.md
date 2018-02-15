@@ -8,7 +8,7 @@ contest_location: Skyline High School
 
 <div style="float: right; margin-right: -140px; margin-left: 20px; text-align: center;">
   <h1 style="text-align: left;"><b>Sponsors</b></h1>
-  <a href="https://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
+  <a href="http://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a> <br>
   <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" alt="TEALS" style="width:200px;"></a>
   <br><br><a href="https://teamscode.com"><img src="/assets/images/light_logo_bkg.png" alt="TeamsCode" style="width:100px;"></a>
 </div> 
