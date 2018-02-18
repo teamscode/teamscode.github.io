@@ -6,7 +6,7 @@ contest_date: April 7th, 2018
 contest_location: Catlin Gabel School, Portland
 ---
 
-# *Sign ups are currently unavailable* #
+# [Register Here](https://teamscode.typeform.com/to/OOdCyk)
 
 # Basic Information #
 
