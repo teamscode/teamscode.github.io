@@ -7,6 +7,7 @@ contest_location: Catlin Gabel School, Portland
 ---
 
 # [Register Here](https://teamscode.typeform.com/to/OOdCyk)
+Registration will close when space is filled. 
 
 # Basic Information #
 
