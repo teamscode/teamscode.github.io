@@ -18,7 +18,7 @@ contest_location: Catlin Gabel School, Portland
 
 **Cost:** $10/person (one check per team)
 
-**Languages:** Java, C, C#, and Python
+**Languages:** Java, C++, C#, and Python
 
 **Divisions:** Intermediate or Advanced
 
