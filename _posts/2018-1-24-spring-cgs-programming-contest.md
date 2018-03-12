@@ -7,7 +7,7 @@ contest_location: Catlin Gabel School, Portland
 ---
 
 # [Register Here](https://teamscode.typeform.com/to/OOdCyk)
-Registration will close when space is filled. 
+Registration will close on April 4th or until space is filled. 
 
 # Basic Information #
 
