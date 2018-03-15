@@ -6,7 +6,8 @@ contest_date: April 7th, 2018
 contest_location: Catlin Gabel School, Portland
 ---
 
-# *Sign ups are currently unavailable* #
+# [Register Here](https://teamscode.typeform.com/to/OOdCyk)
+Registration will close on April 4th or until space is filled. 
 
 <div class="p" style="margin-top: 25px; margin-bottom: 25px; width: 90%; font-size: 16px">
   To judge for this event:
@@ -23,7 +24,7 @@ contest_location: Catlin Gabel School, Portland
 
 **Cost:** $10/person (one check per team)
 
-**Languages:** Java, C, C#, and Python
+**Languages:** Java, C++, C#, and Python
 
 **Divisions:** Intermediate or Advanced
 
