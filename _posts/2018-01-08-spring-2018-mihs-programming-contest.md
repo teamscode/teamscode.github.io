@@ -15,6 +15,11 @@ contest_location: Mercer Island High School
 
 <h1><a href="https://teamscode.typeform.com/to/hYTOPz">Sign Up Now!</a></h1>
 
+<div class="p" style="margin-top: 25px; margin-bottom: 25px; width: 90%; font-size: 16px">
+  To judge for this event:
+  <a class="a" href="mailto:judging@teamscode.com">judging@teamscode.com</a>.
+</div>
+
 # Basic Information #
 
 **Time:** 9:45AM – 3:00PM
