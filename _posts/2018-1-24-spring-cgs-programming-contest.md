@@ -8,6 +8,11 @@ contest_location: Catlin Gabel School, Portland
 
 # *Sign ups are currently unavailable* #
 
+<div class="p" style="margin-top: 25px; margin-bottom: 25px; width: 90%; font-size: 16px">
+  To judge for this event:
+  <a class="a" href="mailto:judging@teamscode.com">judging@teamscode.com</a>.
+</div>
+
 # Basic Information #
 
 **Time:** 9:45AM – 3:00PM
