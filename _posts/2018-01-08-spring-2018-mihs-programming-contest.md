@@ -13,7 +13,8 @@ contest_location: Mercer Island High School
   <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
 </div>
 
-<h1><a href="https://teamscode.typeform.com/to/hYTOPz">Sign Up Now!</a></h1>
+<h1><a href="https://teamscode.typeform.com/to/hYTOPz">Sign Up Now!</a></h1> 
+Registration closes on 3/28. 
 
 <div class="p" style="margin-top: 25px; margin-bottom: 25px; width: 90%; font-size: 16px">
   To judge for this event:
