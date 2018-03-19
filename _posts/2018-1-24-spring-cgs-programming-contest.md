@@ -17,7 +17,7 @@ Registration will close on April 4th or until space is filled.
 
 **Team Sizes:** 1-3 people per team. 
 
-**Cost:** $10/person (one check per team)
+**Cost:** $5/person (paid per team)
 
 **Languages:** Java, C++, C#, and Python
 
