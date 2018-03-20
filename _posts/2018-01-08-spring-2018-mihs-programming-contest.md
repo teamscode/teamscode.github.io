@@ -8,13 +8,13 @@ contest_location: Mercer Island High School
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
   <h1 style="text-align: left;"><b>Gold Sponsors</b></h1>
-  <a href="https://jetbrains.com"><img src="/assets/images/sponsor_jetbrains.png" alt="JetBrains" style="width: 150px; margin-right: 20px;"></a> <br>
-  <a href="https://topcoder.com"><img src="/assets/images/sponsor_topcoder.png" alt="Topcoder" style="width: 150px; margin-right: 20px;"></a> <br>  
+  <a href="https://jetbrains.com"><img src="/assets/images/sponsor_jetbrains.png" alt="JetBrains" style="width: 150px; margin-right: 20px;"></a> <br> 
   <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width: 100px; margin-right: 20px;"></a>
   <h1 style="text-align: left"><b>Silver Sponsors</b></h1>
   <a href="http://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width:180px;"></a>
   <h1 style="text-align: left"><b>Bronze Sponsors</b></h1>
-  <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
+  <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a> <br> 
+  <a href="https://topcoder.com"><img src="/assets/images/sponsor_topcoder.png" alt="Topcoder" style="width: 180px; margin-right: 20px;"></a>
 </div>
 
 <h1><a href="https://teamscode.typeform.com/to/hYTOPz">Sign Up Now!</a></h1> 
