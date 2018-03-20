@@ -9,11 +9,6 @@ contest_location: Catlin Gabel School, Portland
 # [Register Here](https://teamscode.typeform.com/to/OOdCyk)
 Registration will close on April 4th or until space is filled. 
 
-<div class="p" style="margin-top: 25px; margin-bottom: 25px; width: 90%; font-size: 16px">
-  To judge for this event:
-  <a class="a" href="mailto:judging@teamscode.com">judging@teamscode.com</a>.
-</div>
-
 # Basic Information #
 
 **Time:** 9:45AM – 3:00PM
@@ -22,11 +17,21 @@ Registration will close on April 4th or until space is filled.
 
 **Team Sizes:** 1-3 people per team. 
 
-**Cost:** $10/person (one check per team)
+**Cost:** $5/person (paid per team)
 
 **Languages:** Java, C++, C#, and Python
 
 **Divisions:** Intermediate or Advanced
+
+# Organizers # 
+
+<a href="mailto:mathus@teamscode.com">Mathus Leungpathomaram</a>, Main Organizer  
+<a href="mailto:dorka@teamscode.com">Dorka Frisch</a>, Executive Director of Outreach
+
+<!--<div class="p" style="margin-top: 25px; margin-bottom: 25px; width: 90%; font-size: 16px">-->
+  To judge for this event, contact us at 
+  <a class="a" href="mailto:judging@teamscode.com">judging@teamscode.com</a>.
+<!--</div>-->
 
 # General Guidelines #
 
