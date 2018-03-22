@@ -6,6 +6,11 @@ contest_date: April 7th, 2018
 contest_location: Catlin Gabel School, Portland
 ---
 
+<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Gold Sponsors</b></h1>
+  <a href="https://www.silabs.com/"><img src="/assets/images/sponsor_siliconlabs.png" alt="Silicon Labs" style="width: 180px; margin-right: 20px;"></a> <br> 
+</div>
+
 # [Register Here](https://teamscode.typeform.com/to/OOdCyk)
 Registration will close on April 4th or until space is filled. 
 
