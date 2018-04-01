@@ -1,9 +1,11 @@
 ---
 layout: post-contest
 permalink: /contests/spring-2018-mihs-programming-contest/
-contest_title: MIHS Programming Contest
+contest_title: Spring 2018 MIHS Programming Contest
 contest_date: March 31st, 2018
 contest_location: Mercer Island High School
+contest_sponsors: 5
+contest_size:  99
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
@@ -17,84 +19,83 @@ contest_location: Mercer Island High School
   <a href="https://topcoder.com"><img src="/assets/images/sponsor_topcoder.png" alt="Topcoder" style="width: 180px; margin-right: 20px;"></a>
 </div>
 
-<h1><a href="https://teamscode.typeform.com/to/hYTOPz">Sign Up Now!</a></h1> 
-Registration closes on 3/28. 
+# _Interested in joining our team?_
 
-# Basic Information #
+Click the button below to apply for a position. We are looking for interested middle school or high school students who want to spread their passion for computer science to their peers. Apply today to join our 501(c)(3) nonprofit and help make a difference!
 
-**Time:** 9:45AM – 3:00PM
+<a href = "https://teamscode.typeform.com/to/z59VaV"><button class = "contests-header-section-button" style="margin-top:10px">APPLY FOR A POSITION</button></a>
 
-**Location:** Mercer Island High School
+# Our third biannual programming contest
 
-**Team Sizes:** 1-3 people per team. 
+There was a great turnout of 99 students, or 43 teams. The contest was held in the Mercer Island High School Commons on March 31st from 9:45 AM – 3:00 PM. Congratulations to the winners of the advanced division, the **Bear Creek Team** from Bear Creek School. Below are the winners in each division:
 
-**Cost:** $10/person (one check per team)
+# Winners
 
-**Languages:** Java, C++, C#, and Python
+## Advanced division
 
-**Divisions:** Intermediate or Advanced
+1. Bear Creek Team from Bear Creek School (735 points)
 
-# General Guidelines #
+    - Christina Stepin, Peter Li, and Nelson Sun
+2. Independent Justin Chen Academy from Interlake High School (700 points)
 
-**Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
+    - Justin Chen, Justin Lee, and Justin Sun
+3. Delete System32 from Newport High School (690 points)
 
-**Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
+    - Terrance Li, Andrew Liu, and Neal Ma
 
-_Note: These are guidelines, not rules. You may choose to sign up for either division._
+## Intermediate division
 
-**Rules:**
+1. Loop Invariants from Newport High School (600 points at 1:35PM)
 
-1. Each team member must be in middle school or high school.
-2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
-3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
+    - Sai Bulusu, Eric Yeh, and Frank Zhang
+2. Grammar Matters from Newport High School and Interlake High School (600 points at 2:25PM)
 
-# Schedule #
+    - Ton Bodin and Nathan Yan
+3. Dorper from Mercer Island High School (580 points)
 
-**9:45:** Arrive, check in begins.
+    - Carver Harrison
 
-**10:00:** Introduction to rules and schedule, get settled in.
+# Contest files
 
-**10:45:** Practice problem, working with reading input. 
+[Advanced scoreboard](/assets/docs/spring_2018_mihs/advanced_scoreboard.pdf)  
+[Intermediate scoreboard](/assets/docs/spring_2018_mihs/intermediate_scoreboard.pdf)  
+[Problem packet](/assets/docs/spring_2018_mihs/problem_set.pdf)  
+[Judges answer packet](/assets/docs/spring_2018_mihs/judges_data.pdf)  
+[Input text files](/assets/docs/spring_2018_mihs/inputs:outputs.zip)
 
-**11:30:** Contest begins. 
+## Pictures
 
-**12:00:** Lunch while the competition goes on.
+[Pictures on Google Drive](https://drive.google.com/drive/folders/1Ep1Sir6RpCket1obA31HkLMc-SP4SPjn?usp=sharing)
 
-**2:30:** Announce winners. Raffle.
+# Prizes
 
-**3:00:** Go home.
+- Drocon Quadcopter
+- Amazon Echo Dots
+- Canbor VR Headsets
+- Raspberry Pi's
+- JetBrains 100% Product Discount
+- and much, much more ...
 
-# Scoring #
+# Sponsors
 
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. All problems will be worth 50 points maximum. Each incorrect submission will reduce the points received from that problem by 5 upon completion. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
+[![JetBrains](/assets/images/sponsor_jetbrains.png){:width="150px"}](https://jetbrains.com)
+[![Topcoder](/assets/images/sponsor_topcoder.png){:width="300px"}](https://www.topcoder.com/)
 
-**Input and Output:** Read input from text file and output to console (answers checked manually by judges).
+[![Twilio](/assets/images/sponsor_twilio.png){:width="300px"}](https://twilio.com)
+[![Pagliacci Pizza](/assets/images/sponsor_pagliacci.jpg){:width="100px"}](https://www.pagliacci.com/)
 
-**Sample Problem:** You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
+[![PSCSTA](/assets/images/sponsor_pscsta.png){:width="200px"}](http://pscsta.org)
 
-**Input:** The first line contains an integer L. The following L lines will each contain two numbers, N1 and N2.
+# Volunteers / Organizers
 
-**Output:** For each set of two numbers, print the largest number possible through either adding or multiplying the two numbers together.
+We’d like to thank the following people for being influential in the organization of this contest.
 
-**Example Input:**
+_Judges_
 
-5  
-6 12  
-1 54  
-2 2  
-9 -17  
--7 -7  
-
-**Example Output:**
-
-72  
-55  
-4  
--8  
-49  
-
-# Documents #
-
-This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
-
-<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+- Johnson Apacible
+- Grant Bower
+- Yeni Capote Diaz
+- Zack Elliott
+- Nicole Michaud
+- Tatiana Racheva
+- Sera Smith
