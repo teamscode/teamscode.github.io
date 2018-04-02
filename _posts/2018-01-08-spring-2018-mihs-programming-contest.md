@@ -45,7 +45,7 @@ There was a great turnout of 99 students, or 43 teams. The contest was held in t
 
 ## Intermediate division
 
-1. Loop Invariants from Newport High School (600 points at 1:35PM)
+1. Loop Invariants from Newport High School (600 points at 1:45PM)
 
     - Sai Bulusu, Eric Yeh, and Frank Zhang
 2. Grammar Matters from Newport High School and Interlake High School (600 points at 2:25PM)
