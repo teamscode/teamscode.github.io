@@ -26,8 +26,6 @@ Registration will close on April 4th or until space is filled.
 
 **Languages:** Java, C++, C#, and Python
 
-**Divisions:** Intermediate or Advanced
-
 # Organizers # 
 
 <a href="mailto:mathus@teamscode.com">Mathus Leungpathomaram</a>, Main Organizer  
@@ -39,12 +37,6 @@ Registration will close on April 4th or until space is filled.
 <!--</div>-->
 
 # General Guidelines #
-
-**Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
-
-**Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
-
-_Note: These are guidelines, not rules. You may choose to sign up for either division._
 
 **Rules:**
 
