@@ -30,11 +30,6 @@ contest_location: Catlin Gabel School, Portland
 <a href="mailto:mathus@teamscode.com">Mathus Leungpathomaram</a>, Main Organizer  
 <a href="mailto:dorka@teamscode.com">Dorka Frisch</a>, Executive Director of Outreach
 
-<!--<div class="p" style="margin-top: 25px; margin-bottom: 25px; width: 90%; font-size: 16px">-->
-  To judge for this event, contact us at 
-  <a class="a" href="mailto:judging@teamscode.com">judging@teamscode.com</a>.
-<!--</div>-->
-
 # General Guidelines #
 
 **Rules:**
