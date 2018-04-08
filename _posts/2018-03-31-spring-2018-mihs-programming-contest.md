@@ -1,6 +1,6 @@
 ---
 layout: post-contest
-permalink: /contests/spring-2018-mihs-programming-contest-copyaftercontest/
+permalink: /contests/spring-2018-mihs-programming-contest/
 contest_title: Spring 2018 MIHS Programming Contest
 contest_date: March 31st, 2018
 contest_location: Mercer Island High School
