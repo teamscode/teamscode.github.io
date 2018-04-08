@@ -1,6 +1,6 @@
 ---
 layout: post-contest
-permalink: /contests/spring-2018-cgs-programming-contest-copyaftercontest/
+permalink: /contests/spring-2018-cgs-programming-contest/
 contest_title: Spring 2018 CGS Programming Contest
 contest_date: April 7th, 2018
 contest_location: Catlin Gabel School
