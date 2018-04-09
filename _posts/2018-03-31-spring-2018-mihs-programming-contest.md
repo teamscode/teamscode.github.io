@@ -5,6 +5,7 @@ contest_title: Spring 2018 MIHS Programming Contest
 contest_date: March 31st, 2018
 contest_location: Mercer Island High School
 contest_sponsors: 5
+contest_size:  99
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
@@ -35,7 +36,7 @@ There was a great turnout of 99 students, or 43 teams. The contest was held in t
 1. Bear Creek Team from Bear Creek School (735 points)
 
     - Christina Stepin, Peter Li, and Nelson Sun
-2. Independent Justin Chen Academy from Newport High School (700 points)
+2. Independent Justin Chen Academy from Interlake High School (700 points)
 
     - Justin Chen, Justin Lee, and Justin Sun
 3. Delete System32 from Newport High School (690 points)
@@ -44,7 +45,7 @@ There was a great turnout of 99 students, or 43 teams. The contest was held in t
 
 ## Intermediate division
 
-1. Loop Invariants from Newport High School (600 points at 1:35PM)
+1. Loop Invariants from Newport High School (600 points at 1:45PM)
 
     - Sai Bulusu, Eric Yeh, and Frank Zhang
 2. Grammar Matters from Newport High School and Interlake High School (600 points at 2:25PM)
@@ -64,7 +65,7 @@ There was a great turnout of 99 students, or 43 teams. The contest was held in t
 
 ## Pictures
 
-[Pictures on Google Drive](https://drive.google.com/drive/folders/18PRSJz4iTRFiU4d2pFAjaUFkoiIQJ5Tl?usp=sharing)
+[Pictures on Google Drive](https://drive.google.com/drive/folders/1Ep1Sir6RpCket1obA31HkLMc-SP4SPjn?usp=sharing)
 
 # Prizes
 
@@ -89,18 +90,12 @@ There was a great turnout of 99 students, or 43 teams. The contest was held in t
 
 We’d like to thank the following people for being influential in the organization of this contest.
 
-_Main organizers_
-
-- Alan Bi
-- Chris Elliott
-
 _Judges_
 
-- Tatiana Racheva
 - Johnson Apacible
 - Grant Bower
 - Yeni Capote Diaz
-- Sera Smith
+- Zack Elliott
 - Nicole Michaud
-- Alan Bi
-- Chris Elliott
+- Tatiana Racheva
+- Sera Smith
