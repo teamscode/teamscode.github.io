@@ -20,9 +20,11 @@ Click the button below to apply for a position. We are looking for interested mi
 
 # The first Oregon programming contest
 
-There was a great turnout of 20 students, or 10 teams. The contest was held in the Catlin Gabel School Commons on April 7th from 9:45 AM – 3:00 PM. Congratulations to the winners of the advanced division, team **AC** from Westview High School. Below are the winners in each division:
+There was a great turnout of 20 students, or 10 teams. The contest was held in the Catlin Gabel School Cafeteria on April 7th from 9:45 AM – 3:00 PM. Congratulations to the winners of the advanced division, team **AC** from Westview High School. Below are the winners in each division:
 
 # Winners
+
+## Advanced Division
 
 1. AC from Westview High School (590 points)
 
@@ -33,6 +35,12 @@ There was a great turnout of 20 students, or 10 teams. The contest was held in t
 3. Panda Ramen from Sunset High School (430 points)
 
     - Ami Oka
+
+## Intermediate Division
+
+1. Peace, Land, and Bread from Wilson High School (250 pts)
+
+    - Oliver Flood, Michael Schuff
 
 # Contest files
 
@@ -50,7 +58,6 @@ There was a great turnout of 20 students, or 10 teams. The contest was held in t
 *Provided by our sponsor, <a href="https://www.silabs.com/">Silicon Labs</a>*
 
 - Thunderboard Car Kits
-- Thunderboard Sense Boards
 
 # Sponsors
 
