@@ -30,6 +30,36 @@
   - title: Valid DNA
     techniques: Analyzing strings
     link: /assets/problem_pdfs/valid_dna.pdf
+  - title: Frog
+    techniques: String manipulation
+    link: /assets/problem_pdfs/frog.pdf
+  - title: Bookcase
+    techniques: Sorting
+    link: /assets/problem_pdfs/bookcase.pdf
+  - title: Line Graph
+    techniques: Basic arithmetic
+    link: /assets/problem_pdfs/line_graph.pdf
+  - title: Chopping Trees
+    techniques: Basic arithmetic
+    link: /assets/problem_pdfs/chopping_trees.pdf
+  - title: Bunny Island
+    techniques: Recursion
+    link: /assets/problem_pdfs/bunny_island.pdf
+  - title: Hexagons
+    techniques: String manipulation
+    link: /assets/problem_pdfs/hexagons.pdf
+  - title: Anti-RPS
+    techniques: Analyzing strings
+    link: /assets/problem_pdfs/anti_rps.pdf
+  - title: Tournament
+    techniques: Basic algebra
+    link: /assets/problem_pdfs/tournament.pdf
+  - title: Artifacts
+    techniques: Basic arithmetic
+    link: /assets/problem_pdfs/artifacts.pdf
+  - title: Cups and Swaps
+    techniques: Analysis
+    link: /assets/problem_pdfs/cups_and_swaps.pdf
 - difficulty: Medium
   problems:
   - title: Find Prime
@@ -62,6 +92,36 @@
   - title: New Palindrome
     techniques: Complex string manipulation
     link: /assets/problem_pdfs/new_palindrome.pdf
+  - title: Digit Search
+    techniques: Analyzing strings
+    link: /assets/problem_pdfs/digit_search.pdf
+  - title: Lost Phone
+    techniques: Basic algebra
+    link: /assets/problem_pdfs/lost_phone.pdf
+  - title: Intersecting Lines
+    techniques: Basic algebra
+    link: /assets/problem_pdfs/intersecting_lines.pdf
+  - title: Roman Numerals
+    techniques: String manipulation
+    link: /assets/problem_pdfs/roman_numerals.pdf
+  - title: Reverse Engineering
+    techniques: String manipulation
+    link: /assets/problem_pdfs/reverse_engineering.pdf
+  - title: Chess
+    techniques: Analyzing strings
+    link: /assets/problem_pdfs/chess.pdf
+  - title: Outlier
+    techniques: Analyzing integers
+    link: /assets/problem_pdfs/outlier.pdf
+  - title: Street Crossing
+    techniques: Complex algebra
+    link: /assets/problem_pdfs/street_crossing.pdf
+  - title: Trophies
+    techniques: Complex algorithm design
+    link: /assets/problem_pdfs/trophies.pdf
+  - title: Password
+    techniques: Generating all solutions
+    link: /assets/problem_pdfs/password.pdf
 - difficulty: Hard
   problems:
   - title: Underground Maze
@@ -94,4 +154,34 @@
   - title: Base Palindrome
     techniques: Base and String manipulation
     link: /assets/problem_pdfs/base_palindrome.pdf
+  - title: Swap
+    techniques: Complex algorithm design
+    link: /assets/problem_pdfs/swap.pdf
+  - title: Fast Travel
+    techniques: Shortest path
+    link: /assets/problem_pdfs/fast_travel.pdf
+  - title: 24 Game
+    techniques: Integer manipulation
+    link: /assets/problem_pdfs/24_game.pdf
+  - title: Geometric Sequence
+    techniques: Analyzing integers
+    link: /assets/problem_pdfs/geometric_sequence.pdf
+  - title: Factorization
+    techniques: String and Integer manipulation
+    link: /assets/problem_pdfs/factorization.pdf
+  - title: Sequence
+    techniques: Analyzing integers
+    link: /assets/problem_pdfs/sequence.pdf
+  - title: Tower
+    techniques: Complex algorithm design
+    link: /assets/problem_pdfs/tower.pdf
+  - title: Traffic Lights
+    techniques: Complex algorithm design
+    link: /assets/problem_pdfs/traffic_lights.pdf
+  - title: Mirrors and Lasers
+    techniques: Advanced mathematics
+    link: /assets/problem_pdfs/mirrors_and_lasers.pdf
+  - title: Battery
+    techniques: Advanced mathematics
+    link: /assets/problem_pdfs/battery.pdf
   
