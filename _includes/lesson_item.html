@@ -11,7 +11,7 @@
 <div class="lessons-section-list-item lesson-container">
   <a href="{{ lesson.link }}">
     <div class="list-item-info">
-      <div class="list-item-title">
+      <div class="list-item-title" {% if lesson.title == "Coding Challenge" or lesson.title == "Overview Lesson" %} style="color: red;" {% endif %}>
         {{ lesson.title }}
       </div>
     </div>

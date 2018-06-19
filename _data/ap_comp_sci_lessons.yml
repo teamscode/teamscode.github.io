@@ -42,6 +42,8 @@
     link: /learn/ap-computer-science/advanced-for-loops/
   - title: While Loops
     link: /learn/ap-computer-science/while-loops/
+  - title: "Overview Lesson #1"
+    link: /learn/ap-computer-science/overview-lesson-1/
 - header: Math/Scanner Classes
   description: Two important classes of Java.
   lessons:
@@ -49,6 +51,8 @@
     link: /learn/ap-computer-science/the-scanner-class/
   - title: The Math Class
     link: /learn/ap-computer-science/the-math-class/
+  - title: "Coding Challenge #1"
+    link: /learn/ap-computer-science/coding-challenge-1/
 - header: Advanced Expressions
   description: Learning the rules, data structures, and methods of Java.
   lessons:
@@ -62,6 +66,10 @@
     link: /learn/ap-computer-science/methods/
   - title: Advanced Methods
     link: /learn/ap-computer-science/advanced-methods/
+  - title: "Overview Lesson #2"
+    link: /learn/ap-computer-science/overview-lesson-2/
+  - title: "Coding Challenge #2"
+    link: /learn/ap-computer-science/coding-challenge-2/
 - header: Introduction to Classes
   description: The structure, content, and purpose of classes.
   lessons:
@@ -73,6 +81,8 @@
     link: /learn/ap-computer-science/fields/
   - title: Method Types
     link: /learn/ap-computer-science/method-types/
+  - title: "Overview Lesson #3"
+    link: /learn/ap-computer-science/overview-lesson-3/
 - header: Object-Oriented Java
   description: The standards and foundation of Java.
   lessons:
@@ -93,6 +103,10 @@
     link: /learn/ap-computer-science/interfaces/
   - title: Polymorphism
     link: /learn/ap-computer-science/polymorphism/
+  - title: "Overview Lesson #4"
+    link: /learn/ap-computer-science/overview-lesson-4/
+  - title: "Coding Challenge #3"
+    link: /learn/ap-computer-science/coding-challenge-3/
 - header: Techniques in Java
   description: An introduction to ArrayLists and a new programming concept.
   lessons:
@@ -113,4 +127,8 @@
     link: /learn/ap-computer-science/mergesort/
   - title: Quicksort
     link: /learn/ap-computer-science/quicksort/
+  - title: "Overview Lesson #5"
+    link: /learn/ap-computer-science/overview-lesson-5/
+  - title: "Coding Challenge #4"
+    link: /learn/ap-computer-science/coding-challenge-4/
   
