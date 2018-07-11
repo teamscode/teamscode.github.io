@@ -131,4 +131,9 @@
     link: /learn/ap-computer-science/overview-lesson-5/
   - title: "Coding Challenge #4"
     link: /learn/ap-computer-science/coding-challenge-4/
+- header: USACO
+  description: An analysis of a few USACO problems.
+  lessons: 
+  - title: 2015 Dec 1
+    link: /learn/ap-computer-science/usaco-plats-2015dec1/
   
