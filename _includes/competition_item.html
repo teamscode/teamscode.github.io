@@ -7,9 +7,11 @@
       <div class="list-item-title">
         {{ include.title }}
       </div>
+      {% if include.cohost %}
       <div class="list-item-cohost">
         Co-Host: {{ include.cohost }}
       </div>
+      {% endif %}
       <div class="list-item-date">
         {{ include.date }}
       </div>

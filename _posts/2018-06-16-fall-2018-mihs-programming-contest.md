@@ -42,6 +42,15 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
 3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
 
+# Contest Organizers #
+
+Alan Bi - Main Organizer  
+Chris Elliott - Main Organizer  
+Lucille Shield - Main Organizer  
+Alex Patel - Director of Logistics  
+Thomas Short - Director of Finance  
+Jason Zhang - Director of Judging  
+
 # Sponsor Information #
 
 ## **Platinum Sponsor:** <a href="http://www.smartcodingschool.com/">Smart Coding School</a>
