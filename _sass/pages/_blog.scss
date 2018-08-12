@@ -1,5 +1,5 @@
 .blog-header {
-    background: url('/assets/contest_images/index_photo_dark.jpg') no-repeat center center;
+    background: url('/assets/contest_images/blog_photo_dark.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -17,18 +17,77 @@
         font-family: Verdana;
         color: white;
         line-height: 1.4;
+        padding: 0px;
         
     
         .blog-header-section-h1 {
-            font-size: 50px;
+            font-size: 52.5px;
             font-weight: bold;
             margin-bottom: 20px;
-        }
-    
-        .blog-header-section-h1-sub {
-            font-size: 19px;
-            margin-bottom: 50px;
+            line-height: 1.6;
         }
     }
 }
-    
+
+.blog-container {
+    margin-top: 40px;
+
+    .blog-post-preview {
+        box-shadow: 0 1px 1px 0 rgba(60,64,67,.08), 0 1px 3px 1px rgba(60,64,67,.16);
+        transition: box-shadow 135ms cubic-bezier(.4,0,.2,1);
+        padding: 20px;
+        margin: 40px 40px;
+        height: 200px;
+        display: flex;
+        flex-direction: row;
+        align-content: space-between;
+        border-radius: 10px;
+
+        .blog-post-preview-image {
+            border-radius: 10%;
+            width: 35%;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        .blog-post-preview-description {
+            margin: 20px 0px;
+            display:flex;
+            margin-left: 5%;
+            width: 60%;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .blog-post-preview-title {
+            font-size: 30px;
+            font-weight: 700;
+        }
+
+        .blog-post-preview-subtitle {
+            font-size: 16px;
+            line-height: 1.3;
+        }
+
+        .blog-post-preview-footer {
+
+            font-size: 16px;
+            line-height: 1.3;
+            font-style: italic;
+
+            .blog-post-preview-footer-date {
+                color: black;
+            }
+
+        }
+
+    }
+
+    .blog-post-preview:hover {
+        box-shadow: 0 1px 3px 1px rgba(60,64,67,.2), 0 2px 8px 4px rgba(60,64,67,.1);
+        background: #f5f5f5;
+    }
+
+}

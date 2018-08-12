@@ -5,6 +5,13 @@
     position: relative;
 }
 
+.blog-max-width {
+    max-width: $blog-max-width;
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative;
+}
+
 .widget-max-width {
     max-width: $widget-max-width;
     margin: 0 auto;
