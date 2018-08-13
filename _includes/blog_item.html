@@ -1,0 +1,18 @@
+<div class="blog-container blog-max-width">
+  <a href="{{ include.link }}">
+  <div class="blog-post-preview">
+    <div class="blog-post-preview-image" style = "background-image: url({{ include.img }})"></div>
+    <div class="blog-post-preview-description">
+      <div class="blog-post-preview-title">
+        {{ include.title }}
+      </div>
+      <div class="blog-post-preview-subtitle">
+        {{ include.description }}
+      </div>
+      <div class="blog-post-preview-footer">
+        Posted on <span class="blog-post-preview-footer-date">{{ include.date }}</span>
+      </div>
+    </div>
+  </div>
+  </a>
+</div>

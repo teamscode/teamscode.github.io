@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="blog-header clearfix">
+  <div class="site-max-width clearfix">
+    <div class="blog-header-section">
+      <div class="blog-header-section-h1">
+        Welcome to the TeamsCode Blog!
+      </div>
+      <div class="blog-header-section-h1-sub">
+    </div>
+  </div>
+</div></div>
+
+{% for post in site.data.blog_posts %}
+  {% include blog_item.html
+    img=post.img
+    title=post.title
+    date=post.date
+    link=post.link 
+    description=post.description %}
+{% endfor %}

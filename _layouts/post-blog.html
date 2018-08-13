@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="post-blog-layout">
+      {% include header.html
+         logo="dark_logo.svg" %}
+      {% include scripts.html %}
+      <div class="content">
+        <div class="post-blog-header">
+          <div class="post-blog-max-width">
+            <div class="post-blog-header-section">
+              <div class="h1">
+                {{ page.blog_title }}
+              </div>
+              <div class="post-blog-header-section-info">
+                <div class="h4">{{ page.blog_desc }}</div>
+                <div class="post-blog-header-date">Posted on {{ page.blog_date }}</div>
+              </div>
+            </div>
+          </div>
+          <img class="post-blog-header-img" src="{{ page.blog_img }}" alt="Pretty header image" />
+          {% if page.blog_img_source %} 
+            <div class="post-blog-header-img-source">Source: {{ page.blog_img_source }}</div>
+          {% endif %}
+        </div>
+
+        <div class="post-blog-body">
+          <div class="post-blog-max-width h4">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
