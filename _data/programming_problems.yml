@@ -117,7 +117,7 @@
     techniques: Complex algebra
     link: /assets/problem_pdfs/street_crossing.pdf
   - title: Trophies
-    techniques: Complex algorithm design
+    techniques: Dynamic programming
     link: /assets/problem_pdfs/trophies.pdf
   - title: Password
     techniques: Generating all solutions
@@ -170,18 +170,18 @@
     techniques: String and Integer manipulation
     link: /assets/problem_pdfs/factorization.pdf
   - title: Sequence
-    techniques: Analyzing integers
+    techniques: Dynamic programming
     link: /assets/problem_pdfs/sequence.pdf
   - title: Tower
-    techniques: Complex algorithm design
+    techniques: Dynamic programming
     link: /assets/problem_pdfs/tower.pdf
   - title: Traffic Lights
-    techniques: Complex algorithm design
+    techniques: Dijkstra’s algorithm
     link: /assets/problem_pdfs/traffic_lights.pdf
   - title: Mirrors and Lasers
     techniques: Advanced mathematics
     link: /assets/problem_pdfs/mirrors_and_lasers.pdf
   - title: Battery
-    techniques: Advanced mathematics
+    techniques: Dynamic programming
     link: /assets/problem_pdfs/battery.pdf
   
