@@ -173,7 +173,11 @@
     techniques: Dynamic programming
     link: /assets/problem_pdfs/sequence.pdf
   - title: Tower
+<<<<<<< HEAD
+    techniques: Dijkstra's Algorithm
+=======
     techniques: Dynamic programming
+>>>>>>> 43e95c5cc0ef87a8586f5c26097ea2c3be82bd67
     link: /assets/problem_pdfs/tower.pdf
   - title: Traffic Lights
     techniques: Dijkstra’s algorithm
@@ -182,6 +186,10 @@
     techniques: Advanced mathematics
     link: /assets/problem_pdfs/mirrors_and_lasers.pdf
   - title: Battery
+<<<<<<< HEAD
+    techniques: Dynamic Programming
+=======
     techniques: Dynamic programming
+>>>>>>> 43e95c5cc0ef87a8586f5c26097ea2c3be82bd67
     link: /assets/problem_pdfs/battery.pdf
   
