@@ -1,10 +1,5 @@
-- title: New TeamsCode Lessons
-  img: /assets/blog_images/new_teamscode_lessons.jpg
-  date: August 12, 2018
-  link: /blog/sample-blog-post/
-  description: We've been working on a variety of new lesson topics, ranging from iOS Apps to Unity Development!
-- title: New TeamsCode Lessons 2
-  img: /assets/blog_images/new_teamscode_lessons_2.jpg
-  date: August 12, 2018
-  link: /blog/sample-blog-post/
-  description: We've been working on a variety of new lesson topics, ranging from iOS Apps to Unity Development!
+- title: Our New Blog!
+  img: /assets/blog_images/our_new_blog.jpg
+  date: August 24, 2018
+  link: /blog/our-new-blog/
+  description: Welcome to the TeamsCode blog! Stay tuned for updates on TeamsCode initiatives and learning tips for students, and much, much more.
