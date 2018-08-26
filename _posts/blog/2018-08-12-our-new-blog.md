@@ -6,6 +6,7 @@ blog_desc: Welcome to the TeamsCode blog! Stay tuned for updates on TeamsCode in
 blog_img: /assets/blog_images/our_new_blog.jpg
 blog_img_source: <a href="https://unsplash.com/photos/GwsXX--WwjU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rawpixel on Unsplash</a>
 blog_date: August 23, 2018
+author: Chris Elliott
 ---
 
 Welcome to our first blog post! This is the place to find what TeamsCode members are working on -- from programming contests across the Pacific Northwest to online courses for computer science. For now, I'll list our current goals for the Fall of 2018:
