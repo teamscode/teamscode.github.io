@@ -61,7 +61,7 @@ Jason Zhang - Director of Judging
 
 <a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
 
-## **Platinum Sponsor:** <a href="http://www.audian.com/">Audian</a>
+## **Gold Sponsor:** <a href="http://www.audian.com/">Audian</a>
 
 <a href="http://www.audian.com/"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-right: 20px;"></a>
 
