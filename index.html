@@ -26,15 +26,15 @@ layout: default
 <div class="widget">
   <div class="widget-max-width">
     <div class="widget-header">Upcoming Contests</div>
-    <p class="apply-widget">Click the button below to apply and join the TeamsCode team.</p>
-    <a href = "https://teamscode.typeform.com/to/z59VaV"><button class = "contests-header-section-button" style="margin-top:-20px; margin-bottom: 40px">APPLY FOR A POSITION</button></a>
+    <p class="apply-widget">Click the button below to create your own programming contest!</p>
+    <a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:-20px; margin-bottom: 40px">CREATE A CONTEST</button></a>
     <div class="page-content-custom">
       {% if site.data.upcoming_contests_front_page == false %}
       <div class="index-competitions-section-list-empty">
         No upcoming contests, check back again later!
       </div>
       {% endif %}
-      {% for competition in site.data.upcoming_contests_front_page %}
+      {% for competition in site.data.upcoming_contests %}
       {% include competition_item.html
         img=competition.img
         title=competition.title
