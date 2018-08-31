@@ -8,16 +8,13 @@
         {{ include.title }}
       </div>
       {% if include.cohost %}
-        <!--Hide information if no cohost exists-->
-        {% if include.cohost != "None" %}
         <div class="list-item-cohost">
           Co-Host: {{ include.cohost }}
         </div>
-        {% else %}
+      {% else %}
         <div class="list-item-cohost" style="visibility: collapse">
           Co-Host: {{ include.cohost }}
         </div>
-        {% endif %}
       {% endif %}
       <div class="list-item-location">
         {{ include.location }}

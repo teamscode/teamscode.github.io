@@ -34,7 +34,7 @@ layout: default
         No upcoming contests, check back again later!
       </div>
       {% endif %}
-      {% for competition in site.data.upcoming_contests_front_page %}
+      {% for competition in site.data.upcoming_contests %}
       {% include competition_item.html
         img=competition.img
         title=competition.title
