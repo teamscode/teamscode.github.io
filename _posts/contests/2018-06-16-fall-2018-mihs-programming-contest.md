@@ -3,8 +3,9 @@ layout: post-contest
 permalink: /contests/fall-2018-mihs-programming-contest/
 contest_title: MIHS Programming Contest
 contest_cohost: Smart Coding School
-contest_date: October 20th, 2018
+contest_location_link: https://www.google.com/maps/dir/''/mercer+island+high+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x54906bdae7961a9d:0x6e6caf34f523feb?sa=X&ved=2ahUKEwievorr45fdAhWEIjQIHTEbCswQ9RcwD3oECAoQEQ
 contest_location: Mercer Island High School
+contest_date: October 20th, 2018
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
@@ -26,7 +27,7 @@ contest_location: Mercer Island High School
 
 **Team Sizes:** 1-3 people per team. 
 
-**Cost:** $10/person (one check per team)
+**Cost:** TBD
 
 **Languages:** Java, C++, C#, and Python
 

@@ -3,6 +3,8 @@ layout: post-contest
 permalink: /contests/spring-2017-mihs-programming-contest/
 contest_title: Spring 2017 MIHS Programming Contest
 contest_date: April 1st, 2017
+contest_location_link: https://www.google.com/maps/dir/''/mercer+island+high+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x54906bdae7961a9d:0x6e6caf34f523feb?sa=X&ved=2ahUKEwievorr45fdAhWEIjQIHTEbCswQ9RcwD3oECAoQEQ
+contest_location_link: https://www.google.com/maps/dir/''/mercer+island+high+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x54906bdae7961a9d:0x6e6caf34f523feb?sa=X&ved=2ahUKEwievorr45fdAhWEIjQIHTEbCswQ9RcwD3oECAoQEQ
 contest_location: Mercer Island High School
 contest_size:  103
 ---

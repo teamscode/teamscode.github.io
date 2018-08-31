@@ -3,6 +3,7 @@ layout: post-contest
 permalink: /contests/spring-2018-mihs-programming-contest/
 contest_title: Spring 2018 MIHS Programming Contest
 contest_date: March 31st, 2018
+contest_location_link: https://www.google.com/maps/dir/''/mercer+island+high+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x54906bdae7961a9d:0x6e6caf34f523feb?sa=X&ved=2ahUKEwievorr45fdAhWEIjQIHTEbCswQ9RcwD3oECAoQEQ
 contest_location: Mercer Island High School
 contest_sponsors: 5
 contest_size:  99
@@ -21,9 +22,9 @@ contest_size:  99
 
 # _Interested in joining our team?_
 
-Click the button below to apply for a position. We are looking for interested middle school or high school students who want to spread their passion for computer science to their peers. Apply today to join our 501(c)(3) nonprofit and help make a difference!
+Click the button below to create your own programming contest. We are looking for interested middle school or high school students who want to spread their passion for computer science to their peers. Apply today to join our 501(c)(3) nonprofit and help make a difference!
 
-<a href = "https://teamscode.typeform.com/to/z59VaV"><button class = "contests-header-section-button" style="margin-top:10px">APPLY FOR A POSITION</button></a>
+<a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:10px">CREATE A CONTEST</button></a>
 
 # Our third biannual programming contest
 
