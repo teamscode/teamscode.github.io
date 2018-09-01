@@ -1,7 +1,8 @@
 ---
 layout: post-contest
-permalink: /contests/team1540-x-teamscode-programming-contest/
-contest_title: Team1540 x TeamsCode Programming Contest
+permalink: /contests/catlin-gabel-fall-programming-contest/
+contest_title: Catlin Gabel Fall Programming Contest
+contest_cohost: Team1540
 contest_location: Catlin Gabel School
 contest_location_link: https://www.google.com/maps/dir/''/catlin+gabel+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509433a879379:0x688f19935355949f?sa=X&ved=2ahUKEwj2kdrV45fdAhXfHTQIHUdLBt0Q9RcwE3oECAcQEw
 contest_date: November 10th, 2018
@@ -42,8 +43,8 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 This contest is a collaboration between <a class="a" href="http://team1540.org/">Team1540</a> and TeamsCode.
 
 <u>Team1540</u>
-- Tyler Nyugen
-- Mathus Leungporathum
+- Tyler Nguyen
+- Mathus Leungpathomaram
 
 <u>TeamsCode</u>
 
@@ -70,7 +71,7 @@ More contest organizers are currently being added to this team.
 
 # Scoring #
 
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. All problems will be worth 50 points maximum. Each incorrect submission will reduce the points received from that problem by 5 upon completion. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
+**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The scoring system is based off of number of test cases correct and submission time with a time penalty for incorrect submissions. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
 
 **Input and Output:** Read input from text file and output to console (answers checked manually by judges).
 
