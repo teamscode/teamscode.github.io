@@ -43,8 +43,8 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 This contest is a collaboration between <a class="a" href="http://team1540.org/">Team1540</a> and TeamsCode.
 
 <u>Team1540</u>
-- Tyler Nguyen
 - Mathus Leungpathomaram
+- Tyler Nguyen
 
 <u>TeamsCode</u>
 
