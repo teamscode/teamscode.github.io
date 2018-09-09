@@ -21,7 +21,7 @@ contest_date: October 20th, 2018
 
 # Basic Information #
 
-**Time:** 9:45AM – 3:00PM
+**Time:** 9:45AM – 3:15PM
 
 **Location:** Mercer Island High School
 
@@ -41,20 +41,29 @@ contest_date: October 20th, 2018
 
 _Note: These are guidelines, not rules. You may choose to sign up for either division._
 
-**Rules:**
+# Rules: #
 
 1. Each team member must be in middle school or high school.
 2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
 3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
 
-# Contest Organizers #
+# Schedule #
 
-Alan Bi - Main Organizer  
-Chris Elliott - Main Organizer  
-Lucille Shield - Main Organizer  
-Alex Patel - Director of Logistics  
-Thomas Short - Director of Finance  
-Jason Zhang - Director of Judging  
+**9:45:** Arrive, check in begins.
+
+**10:00:** Introduction and keynote speaker. 
+
+**10:45:** Explanation of rules and schedule. 
+
+**11:15:** Practice problem, working with reading input. 
+
+**12:00:** Contest begins. 
+
+**12:30:** Lunch while the competition goes on.
+
+**3:00:** Announce winners. Raffle.
+
+**3:30:** Go home.
 
 # Sponsor Information #
 
@@ -84,21 +93,14 @@ Audian is a software company redefining the telecom industry. Our focus is on in
 
 Crelate helps business connect people with opportunity by providing fast, flexible talent engagement and recruiting software.
 
-# Schedule #
+# Contest Organizers #
 
-**9:45:** Arrive, check in begins.
-
-**10:00:** Introduction to rules and schedule, get settled in.
-
-**10:45:** Practice problem, working with reading input. 
-
-**11:30:** Contest begins. 
-
-**12:00:** Lunch while the competition goes on.
-
-**2:30:** Announce winners. Raffle.
-
-**3:00:** Go home.
+Alan Bi - Main Organizer  
+Chris Elliott - Main Organizer  
+Lucille Shield - Main Organizer  
+Alex Patel - Director of Logistics  
+Thomas Short - Director of Finance  
+Jason Zhang - Director of Judging  
 
 # Scoring #
 

@@ -31,17 +31,11 @@ contest_date: November 17th, 2018
 
 _Note: These are guidelines, not rules. You may choose to sign up for either division._
 
-**Rules:**
+# Rules: #
 
 1. Each team member must be in middle school or high school.
 2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
 3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
-
-# Contest Organizers #
-
-Kosi Nwabueze - Main Organizer
-
-The other contest organizers are currently being added to our team.
 
 # Schedule #
 
@@ -58,6 +52,16 @@ The other contest organizers are currently being added to our team.
 **2:30:** Announce winners. Raffle.
 
 **3:00:** Go home.
+
+# Contest Organizers #
+
+Kosi Nwabueze - Main Organizer
+
+Aaron Zhao - Director of Finance
+
+Eli Friedman
+
+Kellan McCarthy
 
 # Scoring #
 

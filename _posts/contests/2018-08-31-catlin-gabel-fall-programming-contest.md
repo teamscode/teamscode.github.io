@@ -32,26 +32,11 @@ contest_date: November 10th, 2018
 
 _Note: These are guidelines, not rules. You may choose to sign up for either division._
 
-**Rules:**
+# Rules: #
 
 1. Each team member must be in middle school or high school.
 2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
 3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
-
-# Contest Organizers #
-
-This contest is a collaboration between <a class="a" href="http://team1540.org/">Team1540</a> and TeamsCode.
-
-<u>Team1540</u>
-- Mathus Leungpathomaram
-- Tyler Nguyen
-
-<u>TeamsCode</u>
-
-- Marshal Xu
-- Jonathan Guo
-
-More contest organizers are currently being added to this team.
 
 # Schedule #
 
@@ -68,6 +53,19 @@ More contest organizers are currently being added to this team.
 **2:30:** Announce winners. Raffle.
 
 **3:00:** Go home.
+
+# Contest Organizers #
+
+This contest is a collaboration between <a class="a" href="http://team1540.org/">Team1540</a> and TeamsCode.
+
+<u>Team1540</u>
+- Mathus Leungpathomaram
+- Tyler Nguyen
+
+<u>TeamsCode</u>
+
+- Marshal Xu
+- Jonathan Guo
 
 # Scoring #
 
