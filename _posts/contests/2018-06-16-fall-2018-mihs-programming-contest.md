@@ -23,13 +23,13 @@ contest_date: October 20th, 2018
 
 # Basic Information #
 
+**Cost:** FREE
+
 **Time:** 9:45AM – 3:30PM
 
 **Location:** Mercer Island High School
 
 **Team Sizes:** 1-3 people per team. 
-
-**Cost:** FREE
 
 **Languages:** Java, C++, C#, and Python
 
