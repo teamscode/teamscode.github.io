@@ -19,6 +19,8 @@ contest_date: October 20th, 2018
 
 <h1><a href="https://teamscode.typeform.com/to/gzxD6v">Sign Up Here</a></h1>
 
+*If you need help with registration, email us at [support@teamscode.com](mailto:support@teamscode.com).*
+
 # Basic Information #
 
 **Time:** 9:45AM – 3:30PM
