@@ -59,9 +59,9 @@ Kosi Nwabueze - Main Organizer
 
 Aaron Zhao - Director of Finance
 
-Eli Friedman
+Eli Friedman - Director of Judging
 
-Kellan McCarthy
+Kellan McCarthy - Director of Outreach
 
 # Scoring #
 
