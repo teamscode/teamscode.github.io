@@ -2,7 +2,7 @@
 layout: post-lesson
 permalink: /learn/ap-computer-science/collection-types-in-swift-7/
 lesson_title: Collection Types in Swift
-lesson_desc: This lesson is about conditional operators and some of their uses in iOS.
+lesson_desc: This lesson is about collection types in Swift.
 author: Valliappan Valliappan
 ---
 
