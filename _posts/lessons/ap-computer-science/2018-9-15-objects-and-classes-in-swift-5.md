@@ -1,7 +1,7 @@
 ---
 layout: post-lesson
 permalink: /learn/ap-computer-science/objects-and-classes-in-swift-5/
-lesson_title: Collection Types in Swift
+lesson_title: Objects and Classes in Swift
 lesson_desc: This lesson is about conditional operators and some of their uses in iOS.
 author: Valliappan Valliappan
 ---
@@ -49,15 +49,24 @@ Let's get to the coding part. Here is the <code>Car</code> class:
 The properties don't have any value assigned to them yet because they are in the Class and Classes are blueprints. It is during initialization that we set the values for all of the properties. Let's take a short detour to learn about Functions in Swift so that we learn about Initialization because it is a very specific form of a function in Swift.
 
 <h3>Functions</code>
-Continuiung with the Car blueprint example, the blueprints also specify what an object of a car can do. In the case of a car, it can move. Moving is a function of every car that is created from the blueprint. The blueprint dictates how the car moves. We can't change how a car drives. Now let's translate that to code. One of the Functions in the Car class is <code>drive()</code> which dictates how a Car drives.
+Continuiung with the Car blueprint example, the blueprints also specify what an object of a car can do. In the case of a car, it can move. Moving is a function of every car that is created from the blueprint. The blueprint dictates how the car moves. We can't change how a car drives. Now let's translate that to code. One of the Functions in the Car class is <code>drive</code> which dictates how a Car drives.
 
-<pre>   <code>func drive()->Void{</code></pre>
+<pre>   <code>func drive(speed:Double, fuel:Int)->Double{</code></pre>
 
-<pre>   <code>currentSpeed=maxSpeed</code></pre>
+<pre>       <code>var fuelRemaining=fuelCapacity - fuel</code></pre>
+
+<pre>       <code>currentSpeed=speed</code></pre>
+
+<pre>       <code>return fuelRemaining</code></pre>
 
 <pre>   <code>}</code></pre>
 
-The way all of the cars move is by changing their current speed to the fastest speed they can go at because that's what the Car class says. The Functions exist because you can use them to drive the Car you have created. Let's look closer at the structure of functions.
+The way all of the cars move is by changing their current speed to the given speed because that's what the Car class says. The Function exists because you can use it to drive the Car you have created. Let's look closer at the structure of functions.
 
+<h5>Structure of functions</h5>
+Functions have 5 parts:the <code>func</code> keyword, name, inputs, output, return statement.
+The <code>func</code> keyword tells the compiler that you are writing a function for the Car class. The name of the function, in this case drive, is used as a way of identifying the function when you want one of your objects to use it. Think of the function as a function in math. For example, y=2x+340.Here, y is the output and x is the input. Just like that, functions in Swift have inputs and an output. There are two inputs for the <code>drive</code> function. The first one is named <code>speed</code> and it is of the <code>Double</code> type. The second input is named <code>fuel</code> and is of the <code>Int</code> type. The inputs are named because only then, we can identify and work with the values they are given when the function is called. We also need to specify the type of the inputs. Let's move on to the returning part of functions.
+Just like that math function gives out the value of y when given an input, Swift functions give an output. In the first line of the function, which is called the header, we need to specify the variable type of the value that is going to be returned. In the case of <code>drive</code>, the return type(output type) is <code>Double</code>. The <code>-></code> before the return type is required whenever your function returns any value. If your function doesn't return any value, then you don't need the <code>-></code>, the return type or the return statement. When you say in the header of the function that you are going to return a value of a certain type, you need a return statement in the body of the function to return a value of the specified type. In this case, you need to return a <code>Double</code> value.
+Returning is just outputing. To write a return statement, you write the <code>return</code> keyword followed by a space followed by the value you want to return. The type of value you return must match the type 
 {% raw %}
 {% endraw %}
