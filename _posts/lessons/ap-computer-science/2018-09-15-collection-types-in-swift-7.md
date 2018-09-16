@@ -29,5 +29,18 @@ In the above line of code, the <code>Double</code> values stored in <code>double
 Arrays are an organized collection type. Hotels have rooms in them and if you want to see a person in the hotel, the most efficient way to do that is to look for the room number of the person you are searching for. Like hotel rooms have numbers to identify them, values in an array have indices(Plural of index). Room numbers can start at any number but array indices always start at 0 and increase by 1 for every consecutive array element( The 6th element means the 6th value stored in the array).Every element that is stored in an array, has an index. In the case of <code>doubleStorer</code>, we have the value <code>2.0<code> at the index of 0, we have the value <code>3.4<code> at the index of 1 and we have the value <code>5.6<code> at the index of 2.
 
 If you want to add elements into an array,
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% raw %}
 {% endraw %}
