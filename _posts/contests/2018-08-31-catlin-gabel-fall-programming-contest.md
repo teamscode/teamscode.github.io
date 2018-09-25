@@ -5,7 +5,7 @@ contest_title: Catlin Gabel Fall Programming Contest
 contest_cohost: Team1540
 contest_location: Catlin Gabel School
 contest_location_link: https://www.google.com/maps/dir/''/catlin+gabel+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509433a879379:0x688f19935355949f?sa=X&ved=2ahUKEwj2kdrV45fdAhXfHTQIHUdLBt0Q9RcwE3oECAcQEw
-contest_date: November 10th, 2018
+contest_date: November 17th, 2018
 ---
 
 <h1>Registration is currently unavailable.</h1>

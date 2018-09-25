@@ -17,17 +17,19 @@ contest_date: October 20th, 2018
   <a href="https://www.crelate.com/"><img src="/assets/images/sponsor_crelate.png" alt="Crelate" style="width: 250px; margin-right: 20px;"></a>
 </div>
 
-<h1>Registration is currently unavailable.</h1>
+<h1><a href="https://teamscode.typeform.com/to/gzxD6v">Sign Up Here</a></h1>
+
+*If you need help with registration, email us at [support@teamscode.com](mailto:support@teamscode.com).*
 
 # Basic Information #
 
-**Time:** 9:45AM – 3:15PM
+**Cost:** FREE
+
+**Time:** 9:45AM – 3:30PM
 
 **Location:** Mercer Island High School
 
 **Team Sizes:** 1-3 people per team. 
-
-**Cost:** TBD
 
 **Languages:** Java, C++, C#, and Python
 
