@@ -12,8 +12,15 @@
 
   .column {
     float: left;
-    width: 50%;
     
+  }
+
+  #column-articles {
+    width: 45%;
+  }
+
+  #column-image {
+    width: 55%;
   }
 
   .heading {
@@ -37,7 +44,7 @@
 
   .press-large-image {
       float:right;
-      height:200px;
+      height:250px;
   }
 
   .press-item {
