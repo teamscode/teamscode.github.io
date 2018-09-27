@@ -24,4 +24,4 @@ You can find all of our past programming contest problems in the <a class="a" hr
 
 We encourage students to meet up with their team before coming to our contest, and actually practicing some of the problems -- you'll be surprised by how much you can learn! But either way, don't forget: just by signing up for our contest, you're already eligible for a prize through our raffle!
 
-If you have any questions about the MIHS Programming Contest, please feel free to contact us at <a class="a" href="contest@teamscode.com">contests@teamscode.com</a>. We're looking forward to seeing everybody there!
+If you have any questions about the MIHS Programming Contest, please feel free to contact us at <a class="a" href="mailto:contests@teamscode.com">contests@teamscode.com</a>. We're looking forward to seeing everybody there!
