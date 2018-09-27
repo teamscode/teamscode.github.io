@@ -20,8 +20,8 @@ Our efforts in creating this free contest are part of a larger mission to allow 
 
 <img width="100%" src="/assets/blog_images/teamscode_lessons.png"/>
 
-You can find all of our past programming contest problems in the <a class="a" href="http://teamscode.com/learn/programming-practice/">programming practice</a> section of our website, and we will also be adding a problem submission system so students can practice before arriving at our events! Additionally, we have a completely free<a class="a" href="https://teamscode.com/learn/ap-computer-science">AP Computer Science course</a> where students can learn new concepts and apply these at our contests (or at the AP Computer Science test).
+You can find all of our past programming contest problems in the <a class="a" href="http://teamscode.com/learn/programming-practice/">programming practice</a> section of our website, and we will also be adding a problem submission system so students can practice before arriving at our events! Additionally, we have a completely free<a class="a" href="https://teamscode.com/learn/ap-computer-science"> AP Computer Science course</a> where students can learn new concepts and apply these at our contests.
 
 We encourage students to meet up with their team before coming to our contest, and actually practicing some of the problems -- you'll be surprised by how much you can learn! But either way, don't forget: just by signing up for our contest, you're already eligible for a prize through our raffle!
 
-If you have any questions <i>at all</i> about our events, please feel free to contact me at <a class="a" href="chris@teamscode.com">chris@teamscode.com</a>. Looking forward to seeing everybody there!
+If you have any questions about the MIHS Programming Contest, please feel free to contact us at <a class="a" href="contest@teamscode.com">contests@teamscode.com</a>. We're looking forward to seeing everybody there!
