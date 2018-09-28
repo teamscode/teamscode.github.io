@@ -13,6 +13,8 @@ contest_date: October 20th, 2018
   <a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
   <h1 style="text-align: left;"><b>Gold Sponsors</b></h1>
   <a href="http://www.audian.com/"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-right: 20px;"></a>
+  <h1 style="text-align: left"><b>Silver Sponsors</b></h1>
+  <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width: 200px; margin-right: 20px;"></a>
   <h1 style="text-align: left;"><b>Bronze Sponsors</b></h1>
   <a href="https://www.crelate.com/"><img src="/assets/images/sponsor_crelate.png" alt="Crelate" style="width: 250px; margin-right: 20px;"></a>
 </div>
@@ -76,6 +78,9 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 ## **Gold Sponsor:** <a href="http://www.audian.com/">Audian</a>
 
 <a href="http://www.audian.com/"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-right: 20px;"></a>
+
+## **Silver Sponsor:** <a href="https://pagliacci.com">Pagliacci Pizza</a>
+<a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width: 250px; margin-right: 20px;"></a>
 
 ## **Bronze Sponsor:** <a href="https://www.crelate.com/">Crelate</a>
 
