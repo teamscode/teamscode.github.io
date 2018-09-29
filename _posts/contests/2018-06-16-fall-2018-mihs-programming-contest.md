@@ -103,11 +103,14 @@ Crelate helps business connect people with opportunity by providing fast, flexib
 # Contest Organizers #
 
 Alan Bi - Main Organizer  
-Chris Elliott - Main Organizer  
-Lucille Shield - Main Organizer  
-Alex Patel - Director of Logistics  
-Thomas Short - Director of Finance  
-Jason Zhang - Director of Judging  
+Chris Elliott - Main Organizer 
+
+**_New Team Members:_**
+
+Lucille Shield - Head Director  
+Jason Zhang - Judging  
+Alex Patel - Logistics  
+Thomas Short - Finance
 
 # Scoring #
 
