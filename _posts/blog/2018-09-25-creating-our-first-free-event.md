@@ -1,9 +1,9 @@
 ---
 layout: post-blog
 permalink: /blog/creating-our-first-free-event/
-blog_title: Creating Our First Free Event
+blog_title: Our First Free Event
 blog_desc:  In order to bring more students and make the event inclusive, we've worked extra hard to allow free registration.
-blog_img: /assets/blog_images/free_contest.png
+blog_img: /assets/blog_images/free_contest_condensed.jpg
 blog_date: September 25, 2018
 author: Chris Elliott
 ---
