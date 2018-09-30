@@ -12,9 +12,10 @@ Registration has opened for TeamsCode's fourth biannual MIHS Programming Contest
 
 Now, let's get on to what makes this contest different from the rest: 
 
-- Awesome sponsorships from <a class="a" href="http://smartcodingschool.com/">Smart Coding School</a>, <a class="a" href="https://audian.com/">Audian</a>, and <a class="a" href="https://www.crelate.com/">Crelate</a>; check back soon for blog posts featuring Smart Coding School and Audian, our Platinum and Gold sponsors!
+- Awesome sponsorships from <a class="a" href="http://smartcodingschool.com/">Smart Coding School</a>, <a class="a" href="https://audian.com/">Audian</a>, <a class="a" href="https://www.pagliacci.com/">Pagliacci</a>, and <a class="a" href="https://www.crelate.com/">Crelate</a>; check back soon for blog posts featuring Smart Coding School and Audian, our Platinum and Gold sponsors!
 - New prizes and a unique problem set
-- Keynote speech by David Liu
+- Keynote speech by David Liu from Smart Coding School
+- Opening speech by Brandon Bazemore from Audian
 - Last but not least, **free registration for all participants!**
 
 Check out the full details of the event at <a class="a" href="https://teamscode.com/contests/fall-2018-mihs-programming-contest">https://teamscode.com/mihs</a> or register <a class="a" href="https://teamscode.typeform.com/to/gzxD6v">here</a>. 
