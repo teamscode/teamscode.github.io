@@ -8,9 +8,12 @@ contest_location_link: https://www.google.com/maps/dir/''/catlin+gabel+school/da
 contest_date: November 17th, 2018
 ---
 
-<h1>Registration is currently unavailable.</h1>
+<h1><a href="https://docs.google.com/forms/d/e/1FAIpQLSesPGw5SnmhiI3jgIbkzR7oYUWOf770NTzU_QXcHXXffs445g/viewform?usp=send_form">Sign Up Here</a></h1>
+
+*If you need help with registration, email us at [support@teamscode.com](mailto:support@teamscode.com).*
 
 # Basic Information #
+
 
 **Time:** 9:45AM – 3:00PM
 
