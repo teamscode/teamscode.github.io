@@ -2,8 +2,9 @@
 layout: post-blog
 permalink: /blog/creating-our-first-free-event/
 blog_title: Our First Free Event
-blog_desc:  In order to bring more students and make the event inclusive, we've worked extra hard to allow free registration.
-blog_img: /assets/blog_images/free_contest_condensed.jpg
+blog_desc:  In order to share our passion for team coding competitions with as many students as possible, we have worked extra hard to create a free contest!
+blog_img: /assets/blog_images/free_contest.png
+blog_img_source: Creative Stall from the Noun Project
 blog_date: September 25, 2018
 author: Chris Elliott
 ---
