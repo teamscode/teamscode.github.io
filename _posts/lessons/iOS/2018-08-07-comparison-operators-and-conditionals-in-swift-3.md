@@ -1,6 +1,6 @@
 ---
 layout: post-lesson
-permalink: /learn/ap-computer-science/comparison-operators-and-conditionals-in-swift/
+permalink: /learn/iOS/comparison-operators-and-conditionals-in-swift/
 lesson_title: Comparison operators and Conditionals in Swift
 lesson_desc: This lesson is about conditional operators and some of their uses in iOS.
 author: Valliappan Valliappan

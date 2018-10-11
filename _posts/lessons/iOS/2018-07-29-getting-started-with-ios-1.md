@@ -1,6 +1,6 @@
 ---
 layout: post-lesson
-permalink: /learn/ap-computer-science/getting-started-with-ios/
+permalink: /learn/iOS/getting-started-with-ios/
 lesson_title: Getting Started with iOS
 lesson_desc: Installing Xcode and learning the basics of programming in iOS
 author: Valliappan Valliappan

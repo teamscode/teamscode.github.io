@@ -1,6 +1,6 @@
 ---
 layout: post-lesson
-permalink: /learn/ap-computer-science/objects-and-classes-in-swift-5/
+permalink: /learn/iOS/objects-and-classes-in-swift-5/
 lesson_title: Objects and Classes in Swift
 lesson_desc: This lesson is object oriented Swift.
 author: Valliappan Valliappan

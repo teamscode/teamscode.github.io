@@ -1,6 +1,6 @@
 ---
 layout: post-lesson
-permalink: /learn/ap-computer-science/calling-functions-in-swift-5/
+permalink: /learn/iOS/calling-functions-in-swift-5/
 lesson_title: Calling Functions in Swift
 lesson_desc: This lesson is about conditional operators and some of their uses in iOS.
 author: Valliappan Valliappan
