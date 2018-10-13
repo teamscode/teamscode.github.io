@@ -1,27 +1,27 @@
 - header: Usaco problems
   description: Some writeups. 
   lessons:
-  - title: USACO Dec 2015 Contest - Problem #1
-    link: /learn/usaco/2015-dec-1.md
-  - title: USACO Dec 2015 Contest - Problem #2
-    link: /learn/usaco/2015-dec-2.md
-  - title: USACO Dec 2015 Contest - Problem #3
-    link: /learn/usaco/2015-dec-3.md
-  - title: USACO Feb 2016 Contest - Problem #1
-    link: /learn/usaco/2016-feb-1.md
-  - title: USACO Feb 2016 Contest - Problem #2
-    link: /learn/usaco/2016-feb-2.md
-  - title: USACO Jan 2016 Contest - Problem #1
-    link: /learn/usaco/2016-jan-1.md
-  - title: USACO Open 2016 Contest - Problem #1
-    link: /learn/usaco/2016-open-1.md
-  - title: USACO Dec 2016 Contest - Problem #1
-    link: /learn/usaco/2016-dec-1.md
-  - title: USACO Dec 2016 Contest - Problem #2
-    link: /learn/usaco/2016-dec-2.md
-  - title: USACO Feb 2017 Contest - Problem #1
-    link: /learn/usaco/2017-feb-1.md
-  - title: USACO Feb 2017 Contest - Problem #2
-    link: /learn/usaco/2017-feb-2.md
-  - title: USACO Jan 2017 Contest - Problem #1
-    link: /learn/usaco/2017-jan-1.md
+  - title: USACO Dec 2015 Contest - Problem 1
+    link: /learn/usaco/2015-dec-1/
+  - title: USACO Dec 2015 Contest - Problem 2
+    link: /learn/usaco/2015-dec-2/
+  - title: USACO Dec 2015 Contest - Problem 3
+    link: /learn/usaco/2015-dec-3/
+  - title: USACO Feb 2016 Contest - Problem 1
+    link: /learn/usaco/2016-feb-1/
+  - title: USACO Feb 2016 Contest - Problem 2
+    link: /learn/usaco/2016-feb-2/
+  - title: USACO Jan 2016 Contest - Problem 1
+    link: /learn/usaco/2016-jan-1/
+  - title: USACO Open 2016 Contest - Problem 1
+    link: /learn/usaco/2016-open-1/
+  - title: USACO Dec 2016 Contest - Problem 1
+    link: /learn/usaco/2016-dec-1/
+  - title: USACO Dec 2016 Contest - Problem 2
+    link: /learn/usaco/2016-dec-2/
+  - title: USACO Feb 2017 Contest - Problem 1
+    link: /learn/usaco/2017-feb-1/
+  - title: USACO Feb 2017 Contest - Problem 2
+    link: /learn/usaco/2017-feb-2/
+  - title: USACO Jan 2017 Contest - Problem 1
+    link: /learn/usaco/2017-jan-1/
