@@ -1,27 +1,30 @@
-- header: Usaco problems
-  description: Some writeups. 
+- header: 2015-2016 Usaco Platinum Contest
+  description: Useful writeups from the 2015-2016 season of USACO.
   lessons:
-  - title: USACO Dec 2015 Contest - Problem 1
+  - title: Dec, Problem 1 | Max Flow
     link: /learn/usaco/2015-dec-1/
-  - title: USACO Dec 2015 Contest - Problem 2
+  - title: Dec, Problem 2 | High Card Low Card (Platinum)
     link: /learn/usaco/2015-dec-2/
-  - title: USACO Dec 2015 Contest - Problem 3
+  - title: Dec, Problem 3 | Counting Haybales
     link: /learn/usaco/2015-dec-3/
-  - title: USACO Feb 2016 Contest - Problem 1
+  - title: Feb, Problem 1 | Load Balancing
     link: /learn/usaco/2016-feb-1/
-  - title: USACO Feb 2016 Contest - Problem 2
+  - title: Feb, Problem 2 | Fenced In
     link: /learn/usaco/2016-feb-2/
-  - title: USACO Jan 2016 Contest - Problem 1
+  - title: Jan, Problem 1 | Fort Moo
     link: /learn/usaco/2016-jan-1/
-  - title: USACO Open 2016 Contest - Problem 1
+  - title: Open, Problem 1 | 262144
     link: /learn/usaco/2016-open-1/
-  - title: USACO Dec 2016 Contest - Problem 1
+- header: 2015-2016 Usaco Platinum Contest
+  description: Useful writeups from the 2016-2017 season of USACO.
+  lessons:
+  - title: Dec, Problem 1 | Lots of Triangles
     link: /learn/usaco/2016-dec-1/
-  - title: USACO Dec 2016 Contest - Problem 2
+  - title: Dec, Problem 2 | Team Building
     link: /learn/usaco/2016-dec-2/
-  - title: USACO Feb 2017 Contest - Problem 1
+  - title: Feb, Problem 1 | Why Did the Cow Cross the Road
     link: /learn/usaco/2017-feb-1/
-  - title: USACO Feb 2017 Contest - Problem 2
+  - title: Feb, Problem 2 | Why Did the Cow Cross the Road II
     link: /learn/usaco/2017-feb-2/
-  - title: USACO Jan 2017 Contest - Problem 1
+  - title: Jan, Problem 1 | Promotion Counting
     link: /learn/usaco/2017-jan-1/
