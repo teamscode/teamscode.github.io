@@ -1,8 +1,8 @@
 ---
 layout: post-lesson
 permalink: /learn/usaco/2016-open-1.md
-lesson_title: Open 1
-lesson_desc: Open 1 from the USACO platinum problem set
+lesson_title: USACO Open 2016 Contest - Problem #1
+lesson_desc: A writeup of Open #1 from the USACO platinum problem set
 author: Robert Chen
 ---
 

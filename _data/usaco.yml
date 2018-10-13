@@ -1,27 +1,27 @@
 - header: Usaco problems
   description: Some writeups. 
   lessons:
-  - title: 2015 Dec 1
+  - title: USACO Dec 2015 Contest - Problem #1
     link: /learn/usaco/2015-dec-1.md
-  - title: 2015 Dec 2
+  - title: USACO Dec 2015 Contest - Problem #2
     link: /learn/usaco/2015-dec-2.md
-  - title: 2015 Dec 3
+  - title: USACO Dec 2015 Contest - Problem #3
     link: /learn/usaco/2015-dec-3.md
-  - title: 2016 Feb 1
+  - title: USACO Feb 2016 Contest - Problem #1
     link: /learn/usaco/2016-feb-1.md
-  - title: 2016 Feb 2
+  - title: USACO Feb 2016 Contest - Problem #2
     link: /learn/usaco/2016-feb-2.md
-  - title: 2016 Jan 1
+  - title: USACO Jan 2016 Contest - Problem #1
     link: /learn/usaco/2016-jan-1.md
-  - title: 2016 Open 1
+  - title: USACO Open 2016 Contest - Problem #1
     link: /learn/usaco/2016-open-1.md
-  - title: 2016 Dec 1
+  - title: USACO Dec 2016 Contest - Problem #1
     link: /learn/usaco/2016-dec-1.md
-  - title: 2016 Dec 2
+  - title: USACO Dec 2016 Contest - Problem #2
     link: /learn/usaco/2016-dec-2.md
-  - title: 2017 Feb 1
+  - title: USACO Feb 2017 Contest - Problem #1
     link: /learn/usaco/2017-feb-1.md
-  - title: 2017 Feb 2
+  - title: USACO Feb 2017 Contest - Problem #2
     link: /learn/usaco/2017-feb-2.md
-  - title: 2017 Jan 1
+  - title: USACO Jan 2017 Contest - Problem #1
     link: /learn/usaco/2017-jan-1.md
