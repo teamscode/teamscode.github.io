@@ -8,7 +8,7 @@ blog_date: October 9, 2018
 author: Chris Elliott
 ---
 
-<a class="a" href="http://smartcodingschool.com/">Smart Coding School</a>, a computer science education school located in Bellevue, is the Co-host and Platinum sponsor for our Fall 2018 MIHS Programming Contest. Smart Coding School was founded in March 2016 by David Liu, and has since helped dozens of students improve their Java programming skills. The school has over ten courses dedicated to various skills in Java -- notably data structures and algorithms -- and also teaches students to build simple Java-based games.
+<a class="a" href="http://smartcodingschool.com/">Smart Coding School</a>, a computer science education school located in Bellevue, is the Co-host and Platinum sponsor for our Fall 2018 MIHS Programming Contest. Smart Coding School was founded in March 2016 by David Liu and has since helped dozens of students improve their Java programming skills. The school has over ten courses dedicated to various skills in Java -- notably data structures and algorithms -- and also teaches students to build simple Java-based games.
 
 The goals of Smart Coding School are very much aligned with those of TeamsCode. Both organizations are passionate about providing valuable resources and experiences to bring computer science skills to more students. From the Smart Coding school website, "Smart Coding School is all about students and prepare students for the future with technology."
 
