@@ -1,6 +1,6 @@
 ---
 layout: post-lesson
-permalink: /learn/iOS/calling-functions-in-swift-5/
+permalink: /learn/iOS/calling-functions-in-swift-6/
 lesson_title: Calling Functions in Swift
 lesson_desc: This lesson is about conditional operators and some of their uses in iOS.
 author: Valliappan Valliappan
@@ -51,7 +51,7 @@ Below is the <code>Car</code> class(just for reference):
 
 <pre>   <code>}</code></pre>
 
-<h3>Initializers</code>
+<h3>Initializers</h3>
 Initializers are functions that return an object of a class. The function <code>init(curSpeed:Double, speed:Double, name:String, fuelCap:Double, AWD:Bool)</code> in the <code>Car</code> class. Before learning how to call an initializer, let's learn to write one.
 
 First off, initializers are just functions that return objects of classes and to write one, you need only the <code>init</code> keyword. You do not need a return type, a return statement or a <code>func</code> keyword because the <code>init<code> keyword tells the compiler that you are about to write an initializer and it knows that initializers return objects of the <code>Car</code> type (in this case), and that they are functions.
@@ -75,7 +75,7 @@ Now, let's drive the Honda Accord we have created.
 
 Calling Functions inside the class
 Calling a function from within the class in which it is defined is easier than calling it from outside. To call it within the class, you don't need an object. This is because the class is just a blueprint. And you don't need a Car to write instruction about how a Car drives.
-Let's see this in the form of code. Let's say we want a function that makes the car drive like crazy. Using the <code>drive</code> function will make it easier to write how to drive crazy because driving like crazy, is a kind of driving(Driving like crazy definition=Driving with a speed of 100000 miles/s and using a fuel amount of 1500 gallons). This is what we do to define in the blueprint of a car how to drive like a crazy person(PLEASE NOTE THAT THIS CODE NEEDS TO BE IN THE SCOPE OF THE CAR CLASS):
+Let's see this in the form of code. Let's say we want a function that makes the car drive like crazy. Using the <code>drive</code> function will make it easier to write how to drive crazy because driving like crazy, is a kind of driving(Driving like crazy definition=Driving with a speed of 100000 miles/s and using a fuel amount of 1500 gallons). This is what we do to define in the blueprint of a car how to drive like a crazy person(Please note that this code needs to be in the scope of the Car class):
 
 <pre>       <code>func crazyDrive()->Double{</code></pre>
 

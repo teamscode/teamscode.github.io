@@ -7,7 +7,7 @@ author: Valliappan Valliappan
 ---
 
 <script src="/questions.js"></script>
-This is going to be a pretty long lesson. So, let’s jump right in!
+Let’s jump right in!
 <h3>Comparison operators</h3>
 Comparison operators are very similar to arithmetic operators. The vocab bar below shows the conditional operators and their functions:
 <table>

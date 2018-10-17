@@ -2,7 +2,7 @@
 layout: post-lesson
 permalink: /learn/iOS/objects-and-classes-in-swift-5/
 lesson_title: Objects and Classes in Swift
-lesson_desc: This lesson is object oriented Swift.
+lesson_desc: This lesson is about object oriented programming in Swift.
 author: Valliappan Valliappan
 ---
 
@@ -48,7 +48,7 @@ Let's get to the coding part. Here is the <code>Car</code> class:
 
 The properties don't have any value assigned to them yet because they are in the Class and Classes are blueprints. It is during initialization that we set the values for all of the properties. Let's take a short detour to learn about Functions in Swift so that we learn about Initialization because it is a very specific form of a function in Swift.
 
-<h3>Functions</code>
+<h3>Functions</h3>
 Continuiung with the Car blueprint example, the blueprints also specify what an object of a car can do. In the case of a car, it can move. Moving is a function of every car that is created from the blueprint. The blueprint dictates how the car moves. We can't change how a car drives. Now let's translate that to code. One of the Functions in the Car class is <code>drive</code> which dictates how a Car drives.
 
 <pre>   <code>func drive(speed:Double, fuel:Int)->Double{</code></pre>
