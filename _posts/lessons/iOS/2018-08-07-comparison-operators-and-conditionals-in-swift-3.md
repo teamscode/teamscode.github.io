@@ -51,7 +51,7 @@ Examples:
 
 <pre>   <code>trueOrFalse = (2 <= 3) //This will make trueOrFalse have a value of true</code></pre>
 
-<h5>Do not go beyond without understanding the concepts given above.<h5>
+<h5>Do not go beyond without understanding the concepts given above.</h5>
 
 <h3>Type declaration</h3>
 You might have noticed that I didn’t tell the compiler that the variable <code>trueOrFalse</code> was a <code>Bool</code>. But the we get no errors. This is because Swift’s compiler is smart and assumes the type of variable you are creating from the nature of the value you assign to it. If you give it an <code>Int</code> value like <code>98</code>, it will assume that the variable is of <code>Int</code> type even if you don’t declare it to be of <code>Int</code> type.
