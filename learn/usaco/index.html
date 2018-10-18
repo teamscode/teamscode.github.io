@@ -1,0 +1,54 @@
+---
+layout: page
+class: usaco
+---
+
+<div class="site-max-width">
+  <div class="h1" style="text-align:center">
+    USACO Problems
+  </div>
+  <div class="row">
+    <div class="page-content-custom column left" id="sidebar">
+      {% for lesson in site.data.usaco %}
+        {% include header_sidebar_item.html
+          header=lesson.header
+          description=lesson.description
+          lessons=lesson.lessons
+          id=forloop.index %}
+      {% endfor %}
+    </div>
+    <div class="page-content-custom column right">
+      {% if site.data.usaco == false %}
+        <div class="lessons-section-list-empty">
+          No lessons, check back again later!
+        </div>
+      {% endif %}
+      {% for lesson in site.data.usaco %}
+        <div id="{{ forloop.index }}">
+        {% include lesson_item.html
+          header=lesson.header
+          description=lesson.description
+          lessons=lesson.lessons %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script>
+  $(window).scroll(function(e){ 
+    var $el = $('#sidebar'); 
+    var isPositionFixed = ($el.css('position') == 'fixed');
+    if ($(this).scrollTop() > 160 && !isPositionFixed) { 
+      $('#sidebar').addClass("sticky");
+    }
+    if ($(this).scrollTop() < 160 && isPositionFixed) {
+      $('#sidebar').removeClass("sticky"); 
+    } 
+  });
+
+  $(window).load(function() {
+    $(window).scrollTop($(window).scrollTop() - 60);
+  });
+</script>

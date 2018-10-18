@@ -1,5 +1,5 @@
 ---
-layout: post-lesson
+layout: post-lesson-usaco
 permalink: /learn/usaco/2016-open-1/
 lesson_title: Open, Problem 1 | 262144
 lesson_desc: A writeup of Open number 1 from the USACO platinum problem set
