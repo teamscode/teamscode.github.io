@@ -19,9 +19,9 @@ contest_date: October 20th, 2018
   <a href="https://www.crelate.com/"><img src="/assets/images/sponsor_crelate.png" alt="Crelate" style="width: 250px; margin-right: 20px;"></a>
 </div>
 
-<h1><a href="https://teamscode.typeform.com/to/gzxD6v">Sign Up Here</a></h1>
+<h1><b>Registration is Now Closed</b></h1>
 
-*If you need help with registration, email us at [support@teamscode.com](mailto:support@teamscode.com).*
+*If you have any questions, please email us at [support@teamscode.com](mailto:support@teamscode.com). We're looking forward to seeing everybody on **October 20th!***
 
 # Basic Information #
 
