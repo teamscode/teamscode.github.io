@@ -1,6 +1,6 @@
 ---
 layout: post-lesson-ios
-permalink: /learn/ios/getting-started-with-ios/
+permalink: /learn/ios/getting-started-with-ios-1/
 lesson_title: Getting Started with iOS
 lesson_desc: Installing Xcode and learning the basics of programming in iOS
 author: Valliappan Valliappan

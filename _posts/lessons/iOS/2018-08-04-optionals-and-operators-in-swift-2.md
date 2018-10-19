@@ -1,6 +1,6 @@
 ---
 layout: post-lesson-ios
-permalink: /learn/ios/optionals-and-operators-in-swift/
+permalink: /learn/ios/optionals-and-operators-in-swift-2/
 lesson_title: Optionals and Operators in Swift
 lesson_desc: This lesson is about arithmetic operators and optionals in Swift.
 author: Valliappan Valliappan
