@@ -1,5 +1,5 @@
 - header: The Swift Programming Language
-  description: The fundamentals of the Swift programming language that is used to make iOS applications.
+  description: The fundamentals of Swift, the language used to make iOS applications.
   lessons:
   - title: Getting Started with iOS
     link: /learn/ios/getting-started-with-ios-1/
@@ -10,15 +10,9 @@
   - title: More about Optionals in Swift
     link: /learn/ios/more-about-optionals-in-swift-4/
 - header: Object Oriented Programming using Swift
-  description: The fundamentals of object oriented programming in the Swift programming language.
+  description: Basic object oriented programming concepts in Swift. 
   lessons:
   - title: Objects and Classes in Swift
     link: /learn/ios/objects-and-classes-in-swift-5/
   - title: Calling Functions in Swift
     link: /learn/ios/calling-functions-in-swift-6/
-- header: Useful Classes in Swift 
-  description: The predefined classes in Swift that, when used, can be very helpful while making apps.
-  lessons:
-  - title: Collection Types in Swift
-    link: /learn/ios/collection-types-in-swift-7/
-  
