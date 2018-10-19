@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="post-lesson-layout">
+      {% include header.html
+         logo="dark_logo.svg" %}
+      {% include scripts.html %}
+      <div class="content">
+        
+        <div class="post-lesson-body">
+          <div class="post-lesson-max-width">
+            <div class="row">
+              <div class="column left sticky-l" id="sidebar">
+                <a href="/learn/ios/">
+                  <div class="lesson-sidebar-title">
+                    iOS with Swift
+                  </div>
+                </a>
+                {% for lesson in site.data.ios_lessons %}
+                  {% assign current_section = forloop.index %}
+                  {% for lessons in lesson.lessons %}
+                    {% if lessons.title == page.lesson_title %}
+                      <a href="/learn/ios/#{{ current_section }}"><div class="lesson-sidebar-header">
+                        {{ lesson.header }}
+                      </div></a>
+                      {% for lessons in lesson.lessons %}
+                        <div {% if lessons.title == page.lesson_title %} class="current-lesson" {% endif %}>
+                        {% include lesson_sidebar_item.html
+                          title=lessons.title
+                          link=lessons.link %}
+                        </div>
+                      {% endfor %}
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+              </div>
+              <div class="column right">
+
+        <div class="post-lesson-header">
+          <div class="post-lesson-max-width">
+            <div class="post-lesson-header-section">
+              <div class="h1">
+                {{ page.lesson_title }}
+              </div>
+              <div class="post-lesson-header-section-info">
+                <div><i>{{ page.lesson_desc }}</i></div>
+              </div>
+            </div>
+          </div>
+        </div>
+              <hr style="background-color: #777; border-width: 0; height: 1px; margin-top: -15px">
+                {{ content }}
+                <p style="color: #777; font-size: 14px;"><i>Written by {{ page.author }}</i></p>
+                <p style="color: #777; font-size: 14px;">Notice any mistakes? Please email us at <a href="mailto:learn@teamcode.com">learn@teamscode.com</a> so that we can fix any inaccuracies. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+
+  <script>
+  $(window).scroll(function(e){ 
+    var $el = $('#sidebar'); 
+    var isPositionFixed = ($el.css('position') == 'fixed');
+    var bottomDist = $(window).scrollTop() >= $(document).height() - 500;
+    if (!bottomDist && !isPositionFixed) { 
+      $('#sidebar').addClass("sticky-l");
+      $('#sidebar').removeClass("near-bottom-l"); 
+    }
+    if (bottomDist && isPositionFixed) {
+      $('#sidebar').removeClass("sticky-l"); 
+      $('#sidebar').addClass("near-bottom-l"); 
+    }
+  });
+</script>
+</html>

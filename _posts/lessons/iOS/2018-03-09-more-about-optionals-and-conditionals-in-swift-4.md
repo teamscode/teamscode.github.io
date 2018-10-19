@@ -1,6 +1,6 @@
 ---
-layout: post-lesson
-permalink: /learn/iOS/more-about-optionals-in-swift/
+layout: post-lesson-ios
+permalink: /learn/ios/more-about-optionals-in-swift-4/
 lesson_title: More about Optionals in Swift
 lesson_desc: This lesson is about optional binding, unwrapping an optional, and the ternary operator in Swift.
 author: Valliappan Valliappan

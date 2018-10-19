@@ -1,6 +1,6 @@
 ---
-layout: post-lesson
-permalink: /learn/iOS/collection-types-in-swift-7/
+layout: post-lesson-ios
+permalink: /learn/ios/collection-types-in-swift-7/
 lesson_title: Collection Types in Swift
 lesson_desc: THIS LESSON IS INCOMPLETEThis lesson is about collection types in Swift.
 author: Valliappan Valliappan
