@@ -6,6 +6,8 @@ contest_cohost: Smart Coding School
 contest_location_link: https://www.google.com/maps/dir/''/mercer+island+high+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x54906bdae7961a9d:0x6e6caf34f523feb?sa=X&ved=2ahUKEwievorr45fdAhWEIjQIHTEbCswQ9RcwD3oECAoQEQ
 contest_location: Mercer Island High School
 contest_date: October 20th, 2018
+contest_size: 153
+contest_sponsors: 5
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
@@ -19,57 +21,67 @@ contest_date: October 20th, 2018
   <a href="https://www.crelate.com/"><img src="/assets/images/sponsor_crelate.png" alt="Crelate" style="width: 250px; margin-right: 20px;"></a>
 </div>
 
-<h1><b>Registration is Now Closed</b></h1>
+# _Interested in joining our team?_
 
-*If you have any questions, please email us at [support@teamscode.com](mailto:support@teamscode.com). We're looking forward to seeing everybody on **October 20th!***
+Click the button below to create your own programming contest. We are looking for interested middle school or high school students who want to spread their passion for computer science to their peers. Apply today to join our 501(c)(3) nonprofit and help make a difference!
 
-# Basic Information #
+<a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:10px">CREATE A CONTEST</button></a>
 
-**Cost:** FREE
+# Our fourth biannual programming contest
 
-**Time:** 9:45AM – 3:30PM
+There was a great turnout of 153 students, or 66 teams. The contest was held in the Mercer Island High School Commons on October 20th from 9:45 AM – 3:30 PM. Congratulations to the winners of the advanced division, the **The Invincibles** from Tesla STEM High School. Below are the winners in each division:
 
-**Location:** Mercer Island High School
+# Winners
 
-**Team Sizes:** 1-3 people per team. 
+## Advanced division
 
-**Languages:** Java, C++, C#, and Python
+1. _The Invincibles_ from Tesla STEM High School (595 points)
 
-**Divisions:** Intermediate or Advanced
+    - Tony Li, Maxwell Wang, and Devesh Sarda
+2. _What's Java?_ from Interlake High School (450 points at 2:36)
 
-# General Guidelines #
+    - Alex Tanimoto, Jason Shen, and Eric Liu
+3. _lp0 on fire_ from Garfield High School (450 points at 2:45)
 
-**Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
+    - Moses Miller and Alnis Smidchens
 
-**Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
+Honorable Mentions: Teams _Byte Force_, _Bones S_, and _OR '1'='1'_ 
 
-_Note: These are guidelines, not rules. You may choose to sign up for either division._
+## Intermediate division
 
-# Rules: #
+1. _DenverCoder9_ from Newport High School and Bellevue High School (475 points)
 
-1. Each team member must be in middle school or high school.
-2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
-3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
+    - Jonathan Qiao and William Wang
+2. _aae_ from Newport High School (450 points)
 
-# Schedule #
+    - Andrew Liu, Eric Liu, and Alex Qiu
+3. _Idolers_ from Interlake High School and Odle Middle School (430 points)
 
-**9:45:** Arrive, check in begins.
+    - Richard Su, Jiaxuan Cheng, and Gene Yang
 
-**10:00:** Introduction and keynote speaker. 
+# Contest files
 
-**10:45:** Explanation of rules and schedule. 
+[Advanced scoreboard](/assets/docs/fall_2018_mihs/advanced_scoreboard.pdf)  
+[Intermediate scoreboard](/assets/docs/fall_2018_mihs/intermediate_scoreboard.pdf)
+[Problem packet](/assets/docs/fall_2018_mihs/problem_set.pdf)  
+[Judges answer packet](/assets/docs/fall_2018_mihs/judges_data.pdf)  
+[Input text files](/assets/docs/fall_2018_mihs/inputs:outputs.zip)
 
-**11:15:** Practice problem, working with reading input. 
+## Pictures
 
-**12:00:** Contest begins. 
+[Pictures on Google Drive](https://drive.google.com/drive/folders/1x10udM3sz2gzyxpOGPKdb2sDSlmMgzaw)
 
-**12:30:** Lunch while the competition goes on.
+# Prizes
 
-**3:00:** Announce winners. Raffle.
+- Drocon Quadcopter
+- Levitating Bluetooth Speaker
+- Amazon Echo Dots
+- Raspberry Pi's
+- Arduino Uno's
+- Google Cardboard
+- and much, much more ...
 
-**3:30:** Go home.
-
-# Sponsor Information #
+# Sponsors
 
 ## **Platinum Sponsor:** <a href="http://www.smartcodingschool.com/">Smart Coding School</a>
 
@@ -86,63 +98,18 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 <a href="https://www.crelate.com/"><img src="/assets/images/sponsor_crelate.png" alt="Crelate" style="width: 250px; margin-right: 20px;"></a>
 
-## About <u>Smart Coding School</u>:
+# Judge Volunteers
 
-Smart Coding School is a computer science education school established in March 2016. We develop computer science & engineering curriculum and offer courses for middle school and high school students (12 ~ 18 years old), and mainly provide Java Programming, data structures and algorithms, computer science A AP Test Prep and USA Computing Olympiad (USACO) training courses. In 2017 Computer Science A AP Test, there are 95% students receiving 5 out of 5 scores. Many students successfully got into Platinum, Gold and Silver level in USA Computing Olympiad competition. In the local coding competitions, our students took 2nd place in the advanced level and 1st place in the intermediate level.
+We’d like to thank the following judges for being influential in the organization of this contest.
 
-Smart Coding School is powered by passionate software engineers from local top hi-tech companies such as Amazon, Microsoft. We believe that early computer science education can make a big difference for students. Our passion is to inspire kids & teens to see things differently from engineering perspectives and to believe that they can make a big impact through technology. Smart Coding School is all about students and prepare students for the future with technology. 
-
-## About <u>Audian</u>:
-
-Audian is a software company redefining the telecom industry. Our focus is on increasing our customers’ Telecompetance by leveraging the latest is software and technology to simplify the complexities once associated with telecom, giving back time and energy to focus on growing their business. We do this through highly scalable, self-service, cloud-based telecom solutions that enable customers to easily create and manage their business phone system.
-
-## About <u>Crelate</u>:
-
-Crelate helps business connect people with opportunity by providing fast, flexible talent engagement and recruiting software.
-
-# Contest Organizers #
-
-Alan Bi - Main Organizer  
-Chris Elliott - Main Organizer 
-
-**_New Team Members:_**
-
-Lucille Shield - Head Director  
-Jason Zhang - Judging  
-Alex Patel - Logistics  
-Thomas Short - Finance
-
-# Scoring #
-
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. All problems will be worth 50 points maximum. Each incorrect submission will reduce the points received from that problem by 5 upon completion. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
-
-**Input and Output:** Read input from text file and output to console (answers checked manually by judges).
-
-**Sample Problem:** You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
-
-**Input:** The first line contains an integer L. The following L lines will each contain two numbers, N1 and N2.
-
-**Output:** For each set of two numbers, print the largest number possible through either adding or multiplying the two numbers together.
-
-**Example Input:**
-
-5  
-6 12  
-1 54  
-2 2  
-9 -17  
--7 -7  
-
-**Example Output:**
-
-72  
-55  
-4  
--8  
-49  
-
-# Documents #
-
-This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
-
-<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+- Lawrence Tanimoto
+- Katy Johnson
+- Keith Stutler
+- Sarah Feldmann
+- Melissa Saelzer
+- Kelvin Tam
+- Anthony Perish
+- Daniel Dallala
+- Nicole Michaud
+- Samir Khobragade
+- Michael Hughes
