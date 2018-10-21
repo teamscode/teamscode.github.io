@@ -29,7 +29,7 @@ Click the button below to create your own programming contest. We are looking fo
 
 # Our fourth biannual programming contest
 
-There was a great turnout of 153 students, or 66 teams. The contest was held in the Mercer Island High School Commons on October 20th from 9:45 AM – 3:30 PM. Congratulations to the winners of the advanced division, the **The Invincibles** from Tesla STEM High School. Below are the winners in each division:
+There was a great turnout of 153 students, or 66 teams. The contest was held in the Mercer Island High School Commons on October 20th from 9:45 AM – 3:30 PM. Congratulations to the winners of the advanced division, **The Invincibles** from Tesla STEM High School. Below are the winners in each division:
 
 # Winners
 
