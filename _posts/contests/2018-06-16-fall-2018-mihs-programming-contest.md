@@ -38,7 +38,7 @@ There was a great turnout of 153 students, or 66 teams. The contest was held in 
 1. _The Invincibles_ from Tesla STEM High School (595 points)
 
     - Tony Li, Maxwell Wang, and Devesh Sarda
-2. _What's Java?_ from Interlake High School (450 points at 2:36)
+2. _What's Java?_ from Newport High School and Interlake High School (450 points at 2:36)
 
     - Alex Tanimoto, Jason Shen, and Eric Liu
 3. _lp0 on fire_ from Garfield High School (450 points at 2:45)
