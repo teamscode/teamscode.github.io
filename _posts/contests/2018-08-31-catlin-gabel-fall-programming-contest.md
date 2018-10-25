@@ -21,7 +21,7 @@ contest_date: November 17th, 2018
 
 **Team Sizes:** 1-3 people per team. 
 
-**Cost:** TBD
+**Cost:** FREE
 
 **Languages:** Java, C++, C#, and Python
 
@@ -72,35 +72,22 @@ This contest is a collaboration between <a class="a" href="http://team1540.org/"
 
 # Scoring #
 
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The scoring system is based off of number of test cases correct and submission time with a time penalty for incorrect submissions. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
+**Overview:** There will be a multitude of programming problems, sorted by difficulty from easiest to hardest. Teams will be ranked according to the overall points they score, with ties being broken in favor of the team with the lower time score. Each problem is worth a different number of points.* 
 
-**Input and Output:** Read input from text file and output to console (answers checked manually by judges).
+To get all the points for a problem, all the test cases need to be solved correctly. Partial points are awarded for programs which pass some, but not all, of the test cases.**
 
-**Sample Problem:** You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
+A team’s time score is calculated by summing the number of minutes after the start of the contest of each problem’s latest submission. Each problem can be attempted as many times as a team would like; only the best submission will be scored. However, every submission after the first one will add a certain number of minutes to your time score.***
 
-**Input:** The first line contains an integer L. The following L lines will each contain two numbers, N1 and N2.
+The three highest ranked teams in each division will receive prizes.  
 
-**Output:** For each set of two numbers, print the largest number possible through either adding or multiplying the two numbers together.
+_\* To be precise, problem N is worth a total of 120 + 10 \* N points. Thus, a perfect score is 3000 points. For example, problem 10 is worth 120 + 10 \* 10 = 220 points._
 
-**Example Input:**
+_** If a team answers C (0 ≤ C < T) out of T test cases correctly on a problem worth P points, then the points awarded can be given by the formula: P \* ( C / ( T - 1 ) ) / 2. Thus, there is a large bonus (half the points!) for completely solving the question._
 
-5  
-6 12  
-1 54  
-2 2  
-9 -17  
--7 -7  
+_*** Every attempt after the first one on problem N will add N minutes to your time score. For example, retrying problem 3 will add 3 minutes to your time score, and retrying problem 15 will add 15 minutes to your time score._
 
-**Example Output:**
+# Prizes (For top 3 teams in each division): #
 
-72  
-55  
-4  
--8  
-49  
+Advanced: $250/$150/$125
 
-# Documents #
-
-This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
-
-<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+Intermediate: $100/$75/$50
