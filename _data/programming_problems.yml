@@ -25,7 +25,7 @@
     techniques: Array manipulation
     link: /assets/problem_pdfs/magic_square.pdf
   - title: Texas Hold'em
-    techniques: Sorting, Searching
+    techniques: Sorting and searching
     link: /assets/problem_pdfs/texas_holdem.pdf
   - title: Valid DNA
     techniques: Analyzing strings
@@ -58,8 +58,23 @@
     techniques: Basic arithmetic
     link: /assets/problem_pdfs/artifacts.pdf
   - title: Cups and Swaps
-    techniques: Analysis
+    techniques: Basic math analysis
     link: /assets/problem_pdfs/cups_and_swaps.pdf
+  - title: Elephant
+    techniques: String manipulation
+    link: /assets/problem_pdfs/elephant.pdf
+  - title: Merchant
+    techniques: Basic arithmetic
+    link: /assets/problem_pdfs/merchant.pdf
+  - title: Secret Message
+    techniques: Analyzing strings
+    link: /assets/problem_pdfs/secret_message.pdf
+  - title: Pyramid
+    techniques: Basic algebra
+    link: /assets/problem_pdfs/pyramid.pdf
+  - title: Odds and Evens
+    techniques: Sorting
+    link: /assets/problem_pdfs/odds_and_evens.pdf
 - difficulty: Medium
   problems:
   - title: Find Prime
@@ -69,13 +84,13 @@
     techniques: Unit conversion
     link: /assets/problem_pdfs/counting_time.pdf
   - title: Decoder
-    techniques: Integer and String manipulation
+    techniques: Integer and string manipulation
     link: /assets/problem_pdfs/decoder.pdf
   - title: Playground
     techniques: Basic algorithms
     link: /assets/problem_pdfs/playground.pdf
   - title: Best Football Team
-    techniques: Sorting, Data storage
+    techniques: Sorting and data storage
     link: /assets/problem_pdfs/best_football_team.pdf
   - title: Multiplying Ducks
     techniques: Algorithm creation
@@ -120,8 +135,23 @@
     techniques: Dynamic programming
     link: /assets/problem_pdfs/trophies.pdf
   - title: Password
-    techniques: Generating all solutions
+    techniques: Brute force method
     link: /assets/problem_pdfs/password.pdf
+  - title: Collatz Conjecture
+    techniques: String manipulation
+    link: /assets/problem_pdfs/collatz_conjecture.pdf
+  - title: Word Choice
+    techniques: Analyzing strings
+    link: /assets/problem_pdfs/word_choice.pdf
+  - title: Fencing
+    techniques: Array manipulation
+    link: /assets/problem_pdfs/fencing.pdf
+  - title: Unit Conversion
+    techniques: Advanced string manipulation
+    link: /assets/problem_pdfs/unit_conversion.pdf
+  - title: Area Under the Curves
+    techniques: Complex math analysis
+    link: /assets/problem_pdfs/area_under_the_curves.pdf
 - difficulty: Hard
   problems:
   - title: Underground Maze
@@ -152,7 +182,7 @@
     techniques: String/binary manipulation
     link: /assets/problem_pdfs/binary_code.pdf
   - title: Base Palindrome
-    techniques: Base and String manipulation
+    techniques: Base and string manipulation
     link: /assets/problem_pdfs/base_palindrome.pdf
   - title: Swap
     techniques: Complex algorithm design
@@ -167,7 +197,7 @@
     techniques: Analyzing integers
     link: /assets/problem_pdfs/geometric_sequence.pdf
   - title: Factorization
-    techniques: String and Integer manipulation
+    techniques: String and integer manipulation
     link: /assets/problem_pdfs/factorization.pdf
   - title: Sequence
     techniques: Dynamic programming
@@ -184,4 +214,18 @@
   - title: Battery
     techniques: Dynamic programming
     link: /assets/problem_pdfs/battery.pdf
-  
+  - title: Escape Room
+    techniques: Depth-first search
+    link: /assets/problem_pdfs/escape_room.pdf
+  - title: Flattened Cube
+    techniques: Complex algorithm design
+    link: /assets/problem_pdfs/flattened_cube.pdf
+  - title: Rubik's Cube
+    techniques: Dynamic programming
+    link: /assets/problem_pdfs/rubik's_cube.pdf
+  - title: Target
+    techniques: Brute force method
+    link: /assets/problem_pdfs/target.pdf
+  - title: Markov Chain
+    techniques: Complex algorithm design
+    link: /assets/problem_pdfs/markov_chain.pdf
