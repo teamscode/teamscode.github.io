@@ -1,10 +1,10 @@
 ---
 layout: post-contest
-permalink: /contests/fall-2018-hw-programming-contest/
-contest_title: Fall 2018 Harvard-Westlake Programming Contest
+permalink: /contests/winter-2019-hw-programming-contest/
+contest_title: Winter 2019 Harvard-Westlake Programming Contest
 contest_location: Harvard-Westlake School
 contest_location_link: https://www.google.com/maps/dir/''/harvard+westlake/data=!4m5!4m4!1m0!1m2!1m1!1s0x80c2bdf2f5f55479:0x3a097e8c78712fdb?sa=X&ved=2ahUKEwj_kJ295ZfdAhUEHTQIHYBBC0UQ9RcwEnoECAcQEw
-contest_date: November 17th, 2018
+contest_date: February 16, 2019
 ---
 
 <h1>Registration is currently unavailable.</h1>
