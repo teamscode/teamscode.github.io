@@ -1,0 +1,2 @@
+cat .gitattributes
+*.java linguist-vendored=true
