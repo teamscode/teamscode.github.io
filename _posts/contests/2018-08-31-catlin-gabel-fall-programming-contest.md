@@ -8,6 +8,11 @@ contest_location_link: https://www.google.com/maps/dir/''/catlin+gabel+school/da
 contest_date: November 17th, 2018
 ---
 
+<div style="float: right; margin-right: -120px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Bronze Sponsors</b></h1>
+  <a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium" style="width: 200px;"></a>  
+</div>
+
 <h1><a href="https://docs.google.com/forms/d/e/1FAIpQLSesPGw5SnmhiI3jgIbkzR7oYUWOf770NTzU_QXcHXXffs445g/viewform?usp=send_form">Sign Up Here</a></h1>
 
 *If you need help with registration, email us at [support@teamscode.com](mailto:support@teamscode.com).*
@@ -85,6 +90,12 @@ _\* To be precise, problem N is worth a total of 120 + 10 \* N points. Thus, a p
 _** If a team answers C (0 ≤ C < T) out of T test cases correctly on a problem worth P points, then the points awarded can be given by the formula: P \* ( C / ( T - 1 ) ) / 2. Thus, there is a large bonus (half the points!) for completely solving the question._
 
 _*** Every attempt after the first one on problem N will add N minutes to your time score. For example, retrying problem 3 will add 3 minutes to your time score, and retrying problem 15 will add 15 minutes to your time score._
+
+# Sponsors
+
+## **Bronze Sponsor:** <a href="http://www.brainiumstudios.com">Brainium</a>
+
+<a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium" style="width: 200px; margin-right: 20px;"></a>
 
 # Prizes (For top 3 teams in each division): #
 
