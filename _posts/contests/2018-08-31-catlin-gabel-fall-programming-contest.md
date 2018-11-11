@@ -12,8 +12,11 @@ contest_date: November 17th, 2018
   <h1 style="text-align: left;"><b>Bronze Sponsors</b></h1>
   <a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium" style="width: 200px;"></a>  
   <br>
-  <br>
   <a href="http://www.scirra.com"><img src="/assets/images/sponsor_scirra.png" alt="Scirra" style="width: 200px; margin-right: 20px;"></a>
+  <br>
+  <a href="https://www.themathletics.com/"><img src="/assets/images/sponsor_mathletics.png" alt="Mathletics" style="width: 180px;"></a>
+  <br>
+  <a href="https://www.tech4kidsclub.org/"><img src="/assets/images/sponsor_t4k.png" alt="Tech4Kids" style="width: 180px;"></a>
 </div>
 
 <h1><a href="https://docs.google.com/forms/d/e/1FAIpQLSesPGw5SnmhiI3jgIbkzR7oYUWOf770NTzU_QXcHXXffs445g/viewform?usp=send_form">Sign Up Here</a></h1>
@@ -103,6 +106,14 @@ _*** Every attempt after the first one on problem N will add N minutes to your t
 ## **Bronze Sponsor:** <a href="http://www.scirra.com">Scirra</a>
 
 <a href="http://www.scirra.com"><img src="/assets/images/sponsor_scirra.png" alt="Scirra" style="width: 200px; margin-right: 20px;"></a>
+
+## **Bronze Sponsor:** <a href="https://www.themathletics.com">Mathletics</a>
+
+<a href="https://www.themathletics.com/"><img src="/assets/images/sponsor_mathletics.png" alt="Mathletics" style="width: 180px;"></a>
+
+## **Bronze Sponsor:** <a href="https://www.tech4kidsclub.org">Tech For Kids Club</a>
+
+<a href="https://www.tech4kidsclub.org/"><img src="/assets/images/sponsor_t4k.png" alt="Tech4Kids" style="width: 180px;"></a>
 
 # Prizes (For top 3 teams in each division): #
 
