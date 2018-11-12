@@ -2,7 +2,7 @@
 layout: post-lesson-ios
 permalink: /learn/ios/collection-types-in-swift-7/
 lesson_title: Collection Types in Swift
-lesson_desc: THIS LESSON IS INCOMPLETEThis lesson is about collection types in Swift.
+lesson_desc: This lesson is about collection types in Swift.
 author: Valliappan Valliappan
 ---
 
@@ -30,18 +30,32 @@ Arrays are an organized collection type. Hotels have rooms in them and if you wa
 
 If you want to add elements into an array, just call the <code>append()</code> method. Here is how you call it:
 
+<pre>   <code>doubleStorer.append(23.45)</code></pre>
 
+You might have noticed that the above line of code has some resemblance to how objects call methods. Yes, arrays are objects and they can call methods too. But you are restricted to call only the methods that are defined in the <code>Array</code> structure(similar like a class in Swift). To look at every method that is listed on the <code>Array</code> structure, follow these steps:
 
+<pre>1)  Go to http://developer.apple.com/</pre>
+<pre>2)  Type "array" in the search bar and search</pre>
 
+The first search result that pops up would most probably be the <code>Array</code> under the Swift Standard Library. The Swift Standard Library is basically an infrastructure(folder) of all the classes and structures that define Swift as a programming language. It has everything that defines what Swift fundamentally is, such as data types, collection types, etc. The Swift Standard library is always used since it has very generalized uses. For example: You can use the <code>String</code> for any kind of app you are trying to build. Swift also does have other infrastructures that are used for more specific actions. For example, the SpriteKit infrastructure which is mainly used while building two dimensional games.
 
+Here is an exercise you can use to learn to use the different methods for arrays: Create an array with 10 elements all of which have a default value of 213.234 and insert an element with a value of 20.09 into an index of 3. Finally, remove the last element of the array. Do all of this using methods.
 
+<h3>Sets</h3>
+Another widely used collection type is the <code>Set</code>. <code>Set</code>s are conceptually similar to arrays. They are both collections types that store a list values. But <code>Set</code>s cannot store two of the same values and has no specific way of ordering the elements it contains. This is why the method used to add an element into a set is called <code>insert</code> and not <code>append</code>. The insert method puts a specific element at a random position in the Set. The append method always puts the specified element at the end of the array, at the last index. Sets have no indices. So, worst case scenario, you will have to go through every single element to find an element with a value you are expecting.
 
+Creating a Set that stores elements of the <code>Double</code> type:
+<pre>   <code>var hello=Set<Double>()</code></pre>
 
+Inserting and removing elements:
 
+<pre>   <code>hello.insert(2000)</code></pre>
+<pre>   <code>hello.insert(3456)</code></pre>
+<pre>   <code>hello.remove(2000)</code></pre>
 
+In the end, the <code>hello</code> Set has only one element which has a value of 3456.
 
-
-
-
+Sets, just like Arrays, have a long list of methods you can use on them. These methods are mentioned in the developer website(http://developer.apple.com). The developer website is going to be one the most important resource for you when developing iOS apps. It explains to you everything you need to know about every single class that is porvided by Apple to its developers. I mean every single class. But sometimes the explanations given on the website may not be helpful enough in your project because you may be trying to use a class provided by Apple for a different application that usual. For times like that, I recommend using https://stackoverflow.com/ and YouTube.
+In our next lesson we will be looking at another collection type called <code>Dictionary</code>.
 {% raw %}
 {% endraw %}
