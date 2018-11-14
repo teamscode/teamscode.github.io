@@ -2,7 +2,7 @@
 layout: post-blog
 permalink: /blog/building-my-own-pc/
 blog_title: Building my own PC
-blog_desc: How and why I built my own personal PC, and why you should as well.
+blog_desc: How and why I built my own PC, and why you should as well.
 blog_img: /assets/blog_images/build_own_pc.jpg
 blog_img_source: Patrick Tomasso on Unsplash
 blog_date: November 14, 2018
