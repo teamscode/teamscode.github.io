@@ -93,11 +93,27 @@ Intermediate: $100/$75/$50
 
 <a href="https://www.tech4kidsclub.org/"><img src="/assets/images/sponsor_t4k.png" alt="Tech4Kids" style="width: 180px;"></a>
 
-# Judge Volunteers
+# Organizers and Volunteers
 
-We’d like to thank the following judges for being influential in the organization of this contest.
+We’d like to thank the following people for being influential in the organization of this contest.
 
-- Arlo
-- Hansen
-- Lauren Mei
-- Nate
+**Team1540 Team:**
+
+- Contest Director: Mathus Leungpathomaram
+- Head of Outreach: Tyler Nguyen
+
+**Judges:**
+
+- Arlo Maslen
+- Hansen Lian
+- Lauren Mei Calora
+- Nate Sales
+
+**Photographers:**
+
+- Ben Johnson
+- Lauren Mei Calora
+
+**Faculty Supervisor:** 
+
+- Andrew Merrill
