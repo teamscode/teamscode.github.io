@@ -49,7 +49,7 @@ There was a great turnout of 20 students, or 10 teams. The contest was held in t
 [Scoreboard](/assets/docs/spring_2018_cgs/scoreboard.pdf)  
 [Problem packet](/assets/docs/spring_2018_cgs/problem_set.pdf)  
 [Judges answer packet](/assets/docs/spring_2018_cgs/judges_data.pdf)  
-[Input text files](/assets/docs/spring_2018_cgs/inputs:outputs.zip)
+[Input text files](/assets/docs/spring_2018_cgs/inputs_outputs.zip)
 
 ## Pictures
 

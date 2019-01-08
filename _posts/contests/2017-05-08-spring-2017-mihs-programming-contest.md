@@ -52,7 +52,7 @@ There was a great turnout of 103 students, or 41 teams. The contest was held in 
 [Intermediate scoreboard](/assets/docs/spring_2017_mihs/intermediate_scoreboard.pdf)  
 [Problem packet](/assets/docs/spring_2017_mihs/problem_set.pdf)  
 [Judges answer packet](/assets/docs/spring_2017_mihs/judges_data.pdf)  
-[Input text files](/assets/docs/spring_2017_mihs/inputs:outputs.zip)
+[Input text files](/assets/docs/spring_2017_mihs/inputs_outputs.zip)
 
 ## Pictures
 
