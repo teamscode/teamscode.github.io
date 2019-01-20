@@ -9,9 +9,9 @@ contest_date: March 16th, 2019
 
 <h1>Registration</h1>
 
-Registration is now avaliabe. There is no fee to compete. If you want to attend, complete this [TypeForm](https://teamscode.typeform.com/to/bnGcWl).
+Registration is now avaliable. There is no fee to compete. If you want to attend, complete this [TypeForm](https://teamscode.typeform.com/to/bnGcWl).
 
-If you cannot make it to the competion, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
+If you cannot make it to the competition, please de-register [here](https://teamscode.typeform.com/to/XTYQIh)
 
 # Basic Information #
 
