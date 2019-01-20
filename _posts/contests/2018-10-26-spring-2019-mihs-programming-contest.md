@@ -11,7 +11,7 @@ contest_date: March 16th, 2019
 
 Registration is now available. There is no fee to compete. If you wish to attend, [Sign Up Here](https://teamscode.typeform.com/to/bnGcWl).
 
-If you accidentally registered for the competition, or unable to attend, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
+If you accidentally registered for the competition, or are unable to attend, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
 
 # Basic Information #
 
