@@ -7,7 +7,11 @@ contest_location_link: https://www.google.com/maps/place/Mercer+Island+High+Scho
 contest_date: March 16th, 2019
 ---
 
-<h1>Registration unavailable, please check back in January</h1>
+<h1>Registration</h1>
+
+Registration is now avaliabe. To register, complete this [TypeForm](https://teamscode.typeform.com/to/bnGcWl).
+
+If you cannot make it to the competion, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
 
 # Basic Information #
 
