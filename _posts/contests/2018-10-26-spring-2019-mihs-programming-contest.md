@@ -7,6 +7,11 @@ contest_location_link: https://www.google.com/maps/place/Mercer+Island+High+Scho
 contest_date: March 16th, 2019
 ---
 
+<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Platinum Sponsors</b></h1>
+  <a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
+</div>
+
 <h1>Registration</h1>
 
 Registration is now available. There is no fee to compete. If you wish to attend, [Sign Up Here](https://teamscode.typeform.com/to/bnGcWl).
@@ -89,5 +94,11 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 # Documents #
 
 This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
+
+# Sponsors
+
+## **Platinum Sponsor:** <a href="http://www.smartcodingschool.com/">Smart Coding School</a>
+
+<a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
 
 <a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
