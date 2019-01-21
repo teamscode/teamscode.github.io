@@ -15,7 +15,9 @@ contest_date: March 16th, 2019
 
 <h1>Registration</h1>
 
-[Sign Up Here](https://teamscode.typeform.com/to/bnGcWl). *Registration is free.*
+<h1>[Sign Up Here](https://teamscode.typeform.com/to/bnGcWl).<h1>
+
+ *Registration is free.*
 
 If you accidentally registered for the competition, or are unable to attend, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
 
