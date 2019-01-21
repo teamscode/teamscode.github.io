@@ -2,6 +2,7 @@
 layout: post-contest
 permalink: /contests/spring-2019-mihs-programming-contest/
 contest_title: Spring 2019 MIHS Programming Contest
+contest_cohost: Smart Coding School
 contest_location: Mercer Island High School
 contest_location_link: https://www.google.com/maps/place/Mercer+Island+High+School/@47.5719538,-122.2202913,17z/data=!4m12!1m6!3m5!1s0x54906bdae7961a9d:0x6e6caf34f523feb!2sMercer+Island+High+School!8m2!3d47.5719538!4d-122.2181026!3m4!1s0x54906bdae7961a9d:0x6e6caf34f523feb!8m2!3d47.5719538!4d-122.2181026
 contest_date: March 16th, 2019
@@ -14,7 +15,7 @@ contest_date: March 16th, 2019
 
 <h1>Registration</h1>
 
-Registration is now available. There is no fee to compete. If you wish to attend, [Sign Up Here](https://teamscode.typeform.com/to/bnGcWl).
+[Sign Up Here](https://teamscode.typeform.com/to/bnGcWl). *Registration is free.*
 
 If you accidentally registered for the competition, or are unable to attend, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
 
@@ -95,10 +96,10 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
 
+<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+
 # Sponsors
 
 ## **Platinum Sponsor:** <a href="http://www.smartcodingschool.com/">Smart Coding School</a>
 
 <a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
-
-<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
