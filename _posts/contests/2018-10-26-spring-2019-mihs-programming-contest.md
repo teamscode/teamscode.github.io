@@ -105,3 +105,7 @@ This pdf will describe how to read a txt file in Java, C#, C++, and Python, usin
 ## **Platinum Sponsor:** <a href="http://www.smartcodingschool.com/">Smart Coding School</a>
 
 <a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>Smart Coding School</u>:
+Smart Coding School is a computer science education school established in March 2016. We develop computer science & engineering curriculum and offer courses for middle school and high school students (12 ~ 18 years old), and mainly provide Java Programming, data structures and algorithms, computer science A AP Test Prep and USA Computing Olympiad (USACO) training courses. In 2017 Computer Science A AP Test, there are 95% students receiving 5 out of 5 scores. Many students successfully got into Platinum, Gold and Silver level in USA Computing Olympiad competition. In the local coding competitions, our students took 2nd place in the advanced level and 1st place in the intermediate level.
+Smart Coding School is powered by passionate software engineers from local top hi-tech companies such as Amazon, Microsoft. We believe that early computer science education can make a big difference for students. Our passion is to inspire kids & teens to see things differently from engineering perspectives and to believe that they can make a big impact through technology. Smart Coding School is all about students and prepare students for the future with technology. 
