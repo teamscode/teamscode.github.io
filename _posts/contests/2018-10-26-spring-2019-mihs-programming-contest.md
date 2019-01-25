@@ -13,11 +13,8 @@ contest_date: March 16th, 2019
   <a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
 </div>
 
-<h1>Registration</h1>
-
 <h1><a href="https://teamscode.typeform.com/to/bnGcWl">Sign Up Here</a></h1>
-
- *Registration is free.*
+*Registration is free.*
 
 If you accidentally registered for the competition, or are unable to attend, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
 
