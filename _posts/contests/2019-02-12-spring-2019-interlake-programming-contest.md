@@ -3,21 +3,22 @@ layout: post-contest
 permalink: /contests/spring-2019-interlake-programming-contest/
 contest_title: Spring 2019 Interlake Programming Contest
 contest_location: Interlake High School
-contest_location_link: https://www.google.com/maps/place/Interlake+High+School/@47.628934,-122.1262297,17z/data=!3m1!4b1!4m5!3m4!1s0x54906da201112251:0xefc929dd1c0ff5c3!8m2!3d47.628934!4d-122.124041
+contest_location_link: [Google Maps](https://www.google.com/maps/place/Interlake+High+School/@47.628934,-122.1262297,17z/data=!3m1!4b1!4m5!3m4!1s0x54906da201112251:0xefc929dd1c0ff5c3!8m2!3d47.628934!4d-122.124041)
 contest_date: March 2nd, 2019
 ---
 
 
 # Registration
-**Registration is free** for all participants. [Sign up here](https://tinyurl.com/interlakecomp).
-
-
+**Registration is free** for all participants. 
+[Sign up here](https://tinyurl.com/interlakecomp).
 
 # Basic Information #
 
+**Over $50 in prizes!**
+
 **Time:** 9:00AM – 2:30PM
 
-**Location:** Interlake Island High School
+**Location:** Interlake High School
 
 **Team Sizes:** 1-3 people per team. 
 
@@ -26,6 +27,7 @@ contest_date: March 2nd, 2019
 **Languages:** Java, C++, C#, and Python
 
 **Divisions:** Intermediate and Advanced
+
 
 # General Guidelines #
 
