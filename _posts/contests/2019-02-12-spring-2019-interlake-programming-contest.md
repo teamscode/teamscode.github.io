@@ -1,12 +1,13 @@
 ---
 layout: post-contest
 permalink: /contests/spring-2019-interlake-programming-contest/
-contest_title: Spring 2019 Interlake Programming Contest
+contest_title: Spring 2019 Interlake High School Computer Club Programming Contest
 contest_location: Interlake High School
 contest_location_link: https://www.google.com/maps/place/Interlake+High+School/@47.628934,-122.1262297,17z/data=!3m1!4b1!4m5!3m4!1s0x54906da201112251:0xefc929dd1c0ff5c3!8m2!3d47.628934!4d-122.124041
 contest_date: March 2nd, 2019
 ---
 
+Note: This is not a teamscode hosted contest. 
 
 # Registration
 **Registration is free** for all participants. 
