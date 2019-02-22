@@ -7,7 +7,7 @@ contest_location_link: https://www.google.com/maps/place/Interlake+High+School/@
 contest_date: March 2nd, 2019
 ---
 
-Note: This is not a TeamsCode hosted contest. 
+Note: This is not a TeamsCode hosted contest. It is hosted by an affiliated group, which TeamsCode is helping market.
 
 # Registration
 **Registration is free** for all participants. 
