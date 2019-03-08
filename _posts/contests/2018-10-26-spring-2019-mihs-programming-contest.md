@@ -106,17 +106,20 @@ This pdf will describe how to read a txt file in Java, C#, C++, and Python, usin
 
 <a href="http://www.smartcodingschool.com/"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 20px;"></a>
 
-## **Silver Sponsors**
-<a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width: 250px; margin-right: 20px; display: block;"></a>
-<a href="http://www.audian.com/"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-top: 50px; margin-bottom: 50px; display: block;"></a>
-
-
 ## About <u>Smart Coding School</u>:
 Smart Coding School is a computer science education school established in March 2016. We develop computer science & engineering curriculum and offer courses for middle school and high school students (12 ~ 18 years old), and mainly provide Java Programming, data structures and algorithms, computer science A AP Test Prep and USA Computing Olympiad (USACO) training courses. In 2017 Computer Science A AP Test, there are 95% students receiving 5 out of 5 scores. Many students successfully got into Platinum, Gold and Silver level in USA Computing Olympiad competition. In the local coding competitions, our students took 2nd place in the advanced level and 1st place in the intermediate level.
 Smart Coding School is powered by passionate software engineers from local top hi-tech companies such as Amazon, Microsoft. We believe that early computer science education can make a big difference for students. Our passion is to inspire kids & teens to see things differently from engineering perspectives and to believe that they can make a big impact through technology. Smart Coding School is all about students and prepare students for the future with technology. 
 
+## **Silver Sponsors**
+
+<a href="http://www.audian.com/"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
 ## About <u>Audian</u>:
 Audian is a software company redefining the telecom industry. Our focus is on increasing our customers’ Telecompetance by leveraging the latest is software and technology to simplify the complexities once associated with telecom, giving back time and energy to focus on growing their business. We do this through highly scalable, self-service, cloud-based telecom solutions that enable customers to easily create and manage their business phone system.
+
+
+<a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width: 230px; margin-right: 20px;"></a>
 
 ## About <u>Pagliacci Pizza</u>:
 Pagliacci has served the Greater Seattle Area their award-winning pizza since 1979. They have earnestly helped their community and customers for decades. In this vein, they have been a splendid partner to TeamsCode by providing the delicious pizzas that make our contests complete.
