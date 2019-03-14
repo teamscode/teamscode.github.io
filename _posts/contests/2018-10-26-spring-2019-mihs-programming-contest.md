@@ -16,8 +16,9 @@ contest_date: March 16th, 2019
   <a href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width: 200px; margin-right: 20px; display: block;"></a>
 </div>
 
-<h1><a href="https://teamscode.typeform.com/to/bnGcWl">Sign Up Here</a></h1>
-*Registration is free.*
+# Registration #
+
+Registration for this contest is closed.
 
 If you accidentally registered for the competition, or are unable to attend, please de-register [here](https://teamscode.typeform.com/to/XTYQIh).
 
