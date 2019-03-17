@@ -38,7 +38,7 @@ There was a great turnout of 142 students, or 68 teams. The contest was held in 
 2. _QuickSort_  from the Bear Creek School (495 points)
 
     - Peter Li and Nelson Sun
-3. _The Code Group_  from North Creek High School (485 points at 2:45)
+3. _The Code Group_  from North Creek High School (485 points)
 
     - Shreshth Kharbanda, Nikhil Jain, and Rishabh Jain
 
