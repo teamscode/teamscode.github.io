@@ -4,11 +4,11 @@ permalink: /blog/looking-forward-with-teamscode/
 blog_title: Looking forward with TeamsCode
 blog_desc:  Planning for the rest of the school year and promoting further transparency.
 blog_img: /assets/blog_images/looking-forward.png
-blog_date: March 24, 2019
+blog_date: March 25, 2019
 author: Chris Elliott
 ---
 
-On April 1st, 2017, TeamsCode hosted its first high school programming contest. Back then, we were called _CodeMIHS_, but we soon changed our name to TeamsCode to match our ambitions and our ambitions. We wanted to both grow the organization to multiple high schools and states, beyond MIHS, as well as promote a collaborative atmosphere where high schoolers can actually have fun learning to code.
+On April 1st, 2017, TeamsCode hosted its first high school programming contest. Back then, we were called _CodeMIHS_, but we soon changed our name to TeamsCode to match our ambitions and our mission. We wanted to both grow the organization to multiple high schools and states, beyond MIHS, as well as promote a collaborative atmosphere where high schoolers can actually have fun learning to code.
 
 Two years later, we're very happy with the progress we've made. However, we want to do more to encourage students to host their own events. There's a few steps we're looking to take in order to achieve this goal.
 
@@ -22,7 +22,7 @@ In our Google Drive, we have an **Onboarding Doc**, that covers everything newco
 
 <img width="100%" src="/assets/blog_images/internal-doc-sneak-peak.png"/>
 
-We intend to release more about TeamsCode's internal processes in the future, as well as create a more streamlined process for outside students to host their own programming contests.
+We intend to release more about TeamsCode's internal processes in the future, as well as create a more streamlined process for anybody to host their own programming contest.
 
 - Improved Onboarding
 
@@ -42,7 +42,7 @@ In the summer of 2018, we tried to pursue hosting an event in California. We ema
 
 Finally, in September 2018, we found a friend of a friend at <a class="a" href="https://www.hw.com/">Harvard-Westlake High School</a> who was interested in hosting an event with TeamsCode. However, due to the student's increasingly daunting schedule, we were forced to abandon that project.
 
-We still have our goal of growth, but now we also have to manage an internal transition as TeamsCode's founders (Chris and Alan) are moving on the college. We have many ideas, and are continuing to pursue collaboration with other students in order to grow the organization and host more events. We're considering reaching out to <a class="a" href="https://hackclub.com">Hack Club</a>, hosting other events (including bootcamps, hackathons, or development challenges), and advertising our <a class="a" href="https://teamscode.com/learn/programming-practice/">Programming Practice platform</a> to reach more students. Most of all, we're looking to continue building TeamsCode with an open mindset and an ambitious team.
+We still have our goal of growth, but now we also have to manage an internal transition as TeamsCode's founders (Chris and Alan) are moving on to college. We have many ideas, and are continuing to pursue collaboration with other students in order to grow the organization and host more events. We're considering reaching out to <a class="a" href="https://hackclub.com">Hack Club</a>, hosting other events (including bootcamps, hackathons, or development challenges), and advertising our <a class="a" href="https://teamscode.com/learn/programming-practice/">Programming Practice platform</a> to reach more students. Most of all, we're looking to continue building TeamsCode with an open mindset and an ambitious team.
 
 -----
 
