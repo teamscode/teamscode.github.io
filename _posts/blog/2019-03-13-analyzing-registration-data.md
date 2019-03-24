@@ -2,7 +2,7 @@
 layout: post-blog
 permalink: /blog/analyzing-registration-data/
 blog_title: Analyzing registration data from our contests
-blog_desc:  In this blog post, we will take a look at the demographics and preferences of participants from past MIHS programming contests. 
+blog_desc:  Taking a look at the demographics and preferences of participants from past MIHS programming contests. 
 blog_img: /assets/blog_images/analyzing-registration.jpg
 blog_date: March 23, 2019
 author: Alan Bi
