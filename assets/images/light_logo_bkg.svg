@@ -14,8 +14,11 @@
    viewBox="0 0 468.75002 299.99998"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="light_logo.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="light_logo_bkg.svg"
+   inkscape:export-filename="/Users/christopherelliott/Desktop/TeamsCode/teamscode.github.io/assets/images/light_logo_bkg.png"
+   inkscape:export-xdpi="960.00006"
+   inkscape:export-ydpi="960.00006">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,20 +28,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="198.29273"
-     inkscape:cy="145.13626"
+     inkscape:zoom="0.7"
+     inkscape:cx="269.79907"
+     inkscape:cy="39.004458"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="1280"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -54,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
