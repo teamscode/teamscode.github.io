@@ -11,6 +11,10 @@
         <div class="list-item-cohost">
           Co-Host: {{ include.cohost }}
         </div>
+      {% elsif include.affiliation %}
+        <div class="list-item-affiliation">
+          Unaffiliated event from {{ include.affiliation }}
+        </div>
       {% else %}
         <div class="list-item-cohost" style="visibility: collapse">
           Co-Host: {{ include.cohost }}
