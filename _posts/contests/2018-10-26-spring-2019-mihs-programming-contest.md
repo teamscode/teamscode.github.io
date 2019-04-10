@@ -101,6 +101,8 @@ We’d like to thank the following judges for being essential to the organizatio
 - Samir Khobragade
 - Michael Hughes
 - Alex White
+<!-- Easter egg to allow Alex White to finally be a founder -->
+<a href="https://www.merriam-webster.com/dictionary/founder" style="margin-left:200px; color:white;" cursor="pointer" target="_blank"> _</a>
 - David Wei
 - Thomas Short
 - Garrett Leung
