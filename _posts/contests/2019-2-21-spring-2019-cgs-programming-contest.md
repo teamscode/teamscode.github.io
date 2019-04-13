@@ -9,7 +9,8 @@ contest_date: May 18th, 2019
 
 # Registration #
 
-Registration is not open. Check back later!
+<h1><a href="https://forms.gle/ttXujnvG1Tq4CmaJ9">Sign Up Here</a></h1>
+*Registration is free.*
 
 # Basic Information #
 
