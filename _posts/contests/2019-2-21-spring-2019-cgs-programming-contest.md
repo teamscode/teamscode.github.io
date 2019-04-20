@@ -7,6 +7,11 @@ contest_location_link: https://www.google.com/maps/dir/''/catlin+gabel+school/da
 contest_date: May 18th, 2019
 ---
 
+<div style="float: right; margin-right: -120px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Bronze Sponsors</b></h1>
+  <a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium" style="width: 200px;"></a>
+</div>
+
 # Registration #
 
 <h1><a href="https://forms.gle/ttXujnvG1Tq4CmaJ9">Sign Up Here</a></h1>
@@ -90,3 +95,9 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
 
 <a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+
+# Sponsors
+
+**Bronze Sponsor:** <a href="http://www.brainiumstudios.com">Brainium Studios</a>
+
+<a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium Studioos" style="width: 230px; margin-right: 20px; display: block;"></a>
