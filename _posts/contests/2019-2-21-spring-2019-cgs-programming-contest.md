@@ -18,7 +18,7 @@ Click the button below to create your own programming contest. We are looking fo
 
 <a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:10px">CREATE A CONTEST</button></a>
 
-# Our fifth biannual programming contest
+# Our third biannual programming contest
 
 There was a great turnout of 26 students, or 11 teams. The contest was held at the Catlin Gabel School on May 18th from 9:45 AM – 3:30 PM. Congratulations to the winner, **Ben Hadad** from Lincoln High Schoool. Below are the winners:
 
