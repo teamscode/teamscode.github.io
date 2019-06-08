@@ -12,89 +12,50 @@ contest_date: May 18th, 2019
   <a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium" style="width: 200px;"></a>
 </div>
 
-# Registration #
+# _Interested in joining our team?_
 
-<h1><a href="https://forms.gle/ttXujnvG1Tq4CmaJ9">Sign Up Here</a></h1>
-*Registration is free.*
+Click the button below to create your own programming contest. We are looking for interested middle school or high school students who want to spread their passion for computer science to their peers. Apply today to join our 501(c)(3) nonprofit and help make a difference!
 
-# Basic Information #
+<a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:10px">CREATE A CONTEST</button></a>
 
-**Time:** 9:45AM – 3:00PM
+# Our fifth biannual programming contest
 
-**Location:** Catlin Gabel School
+There was a great turnout of 26 students, or 11 teams. The contest was held at the Catlin Gabel School on May 18th from 9:45 AM – 3:30 PM. Congratulations to the winners, **Ben Hadad** from Newport High School. Below are the winners:
 
-**Team Sizes:** 1-3 people per team. 
+# Winners
 
-**Cost:** Free
+1. _Ben Hadad_  from Lincoln High School (1214 points)
 
-**Languages:** Java, C++, C#, and Python
+    - Ben Hadad
+2. _The Coders_  from the Eastlake High School (1092 points)
 
-**Divisions:** Intermediate or Advanced
+    - Sheshan Shankar
+3. _quit & save_  from Lincoln High School (1051 points)
 
-# General Guidelines #
+    - Arya Rahnama and Sydney Dun
 
-**Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
 
-**Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
+# Contest files
 
-_Note: These are guidelines, not rules. You may choose to sign up for either division._
+[Scoreboard](https://docs.google.com/spreadsheets/d/1tD_sFDci0lnAg4C4sNOxNmz_31zP_5QErProZ0i0iD4/edit#gid=0)
 
-# Rules: #
+[Problem packet](https://docs.google.com/document/d/1iVLMorv6arotkuMLd8wNshUAkIrjw7elnPa2ZUnusWU/edit)  
+[Judges answer packet](https://docs.google.com/document/d/1pP-AtIZokdp_MYNm_M_8BVDlv8kGiFeFjs9mLkCdYYQ/edit)  
+[Input text files](https://slack-redir.net/link?url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1P6uYfbE3QcEuOaDrQFj7jlR12lRm7gJ_%3Fusp%3Dsharing)
 
-1. Each team member must be in middle school or high school.
-2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
-3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
+## Pictures
 
-# Schedule #
+[Pictures on Google Drive](https://slack-redir.net/link?url=https%3A%2F%2Fphotos.google.com%2Fshare%2FAF1QipPjpEWj3b-4_vf81XSAbhuq0qv6bnGA47LTDeIac72HfScnOJuKYPhKddlr8adZ9A%3Fkey%3Dc3d2czdUYlJMdkhqYlhOMGhpNUFGRWthLWN5SFhn)
 
-**9:45:** Arrive, check in begins.
+# Volunteers
 
-**10:00:** Introduction to rules and schedule, get settled in.
+We’d like to thank the following volunteers for being essential to the organization of this contest.
 
-**10:45:** Practice problem, working with reading input. 
-
-**11:30:** Contest begins. 
-
-**12:00:** Lunch while the competition goes on.
-
-**2:30:** Announce winners. Raffle.
-
-**3:00:** Go home.
-
-# Scoring #
-
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The scoring system is based off of number of test cases correct and submission time with a time penalty for incorrect submissions. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
-
-**Input and Output:** Read input from text file and output to console (answers checked manually by judges).
-
-**Sample Problem:** You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
-
-**Input:** The first line contains an integer L. The following L lines will each contain two numbers, N1 and N2.
-
-**Output:** For each set of two numbers, print the largest number possible through either adding or multiplying the two numbers together.
-
-**Example Input:**
-
-5  
-6 12  
-1 54  
-2 2  
-9 -17  
--7 -7  
-
-**Example Output:**
-
-72  
-55  
-4  
--8  
-49  
-
-# Documents #
-
-This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
-
-<a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+- Seth Knights
+- Caden Zamastil
+- Rishi Alluri
+- Dylan Liam
+- Mick Leungpathomaram
 
 # Sponsors
 
