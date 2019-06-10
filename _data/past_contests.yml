@@ -1,8 +1,16 @@
+- title: Spring 2019 Bellevue High School Programming Contest
+  img: /assets\contest_images\BHS-logo.png
+  cohost: Smart Coding School
+  date: June 8th, 2019
+  location: Bellevue, WA
+  link: /contests/spring-2019-bellevue-programming-contest/
+  size: 77
 - title: Spring 2019 Catlin Gabel Programming Contest
   img: /assets/contest_images/catlin_gabel_logo.png
   date: May 18th, 2019
   location: Catlin Gabel School, OR
   link: /contests/spring-2019-cgs-programming-contest/
+  size: 26
 - title: Spring 2019 MIHS Programming Contest
   img: /assets/contest_images/MI_Logo.jpg
   cohost: Smart Coding School

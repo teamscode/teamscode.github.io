@@ -5,6 +5,8 @@ contest_title: Spring 2019 CGS Programming Contest
 contest_location: Catlin Gabel School
 contest_location_link: https://www.google.com/maps/dir/''/catlin+gabel+school/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509433a879379:0x688f19935355949f?sa=X&ved=2ahUKEwj2kdrV45fdAhXfHTQIHUdLBt0Q9RcwE3oECAcQEw
 contest_date: May 18th, 2019
+contest_size: 26
+contest_sponsors: 1
 ---
 
 <div style="float: right; margin-right: -120px; margin-left: 10px; text-align: center;">
