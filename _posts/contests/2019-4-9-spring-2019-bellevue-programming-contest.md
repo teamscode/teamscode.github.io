@@ -41,7 +41,7 @@ There was a great turnout of 77 students, or 35 teams. The contest was held at t
 
 ## Intermediate division
 
-1. _The Coders_  from Bellevue High School
+1. _The Coders_  from East Lake High School
 
     - Sheshank Shankar
 2. _Naomi_  from Newport High School
