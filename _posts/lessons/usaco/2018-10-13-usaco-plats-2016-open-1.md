@@ -23,6 +23,6 @@ Applying similar logic to 2, 3, 4, and so on, we solve the problem.
 Note that because the numbers are limited to a very small range, this doesn't exceed runtime. 
 ##### Code
 
-My solution can be found [here](https://github.com/chen-robert/writeups/blob/master/usaco/2015/code/_262144.java)
+My solution can be found [here](https://github.com/chen-robert/writeups/blob/master/data/docs/usaco/2015/code/_262144.java)
 
 {% endraw %}
