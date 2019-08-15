@@ -7,7 +7,7 @@ contest_location_link: https://www.google.com/maps/place/Mercer+Island+High+Scho
 contest_date: TBD
 ---
 
-<h1>Registration unavailable, please check back in August!</h1>
+<h1>Registration unavailable, please check back later!</h1>
 
 # Basic Information #
 
@@ -28,7 +28,7 @@ contest_date: TBD
 **Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
 
 **Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
-_Note: These are guidelines, not rules. You may choose to sign up for either division._
+_Note: These are guidelines, not rules. You may choose to sign up for either division, unless you have previously placed in a past TeamsCode contest._
 
 # Rules: #
 
