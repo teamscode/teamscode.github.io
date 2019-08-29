@@ -3,17 +3,23 @@ layout: post-contest
 permalink: /contests/fall-2019-mvhs-programming-contest/
 contest_title: Fall 2019 MVHS Programming Contest
 contest_location: Monta Vista High School
-contest_location_link: https://www.google.com/maps/place/Monta+Vista+High+School/@37.3153604,-122.0588685,17z/data=!4m5!3m4!1s0x808fb45c603f497f:0xead757e19654d16b!8m2!3d37.3149946!4d-122.0562395
-contest_date: TBD
+contest_location_link: https://www.google.com/maps/place/Union+Church+of+Cupertino/@37.3307326,-122.079577,12.75z/data=!4m5!3m4!1s0x808fb44d7e01624b:0x6a7aa396687f0f9a!8m2!3d37.3223342!4d-122.0392881
+contest_date: October 26th, 2019
 ---
 
-<h1>Registration unavailable, please check back later!</h1>
+<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Bronze Sponsor</b></h1>
+  <a href="https://breakoutmentors.com/"><img src="/assets/images/sponsor_breakout.png" alt="Breakout Mentors" style="width: 200px; margin-right: 20px; display: block;"></a>
+</div>
+
+<h1><a href="https://tinyurl.com/teamscode-10-26">Sign Up Here</a></h1>
+*Registration is free.*
 
 # Basic Information #
 
-**Time:** 9:45AM – 3:00PM
+**Time:** 9:00AM – 1:30PM
 
-**Location:** Monta Vista High School
+**Location:** Union Church of Cupertino
 
 **Team Sizes:** 1-3 people per team. 
 
@@ -38,19 +44,21 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 # Schedule #
 
-**9:45:** Arrive, check in begins.
+**9:00:** Arrive, check in begins.
 
-**10:00:** Introduction to rules and schedule, get settled in.
+**9:30:** Introduction to rules and schedule, get settled in.
 
-**10:45:** Practice problem, working with reading input. 
+**9:45:** Practice problem, working with reading input. 
 
-**11:30:** Contest begins. 
+**10:00:** Contest begins. 
 
-**12:00:** Lunch while the competition goes on.
+**11:30:** Lunch while the competition goes on.
 
-**2:30:** Announce winners. Raffle.
+**1:00:** Contest ends.
 
-**3:00:** Go home.
+**1:15:** Announce winners. Raffle.
+
+**1:30:** The day ends, and everybody goes home.
 
 # Scoring #
 
@@ -86,3 +94,13 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
 
 <a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+
+# Sponsors
+
+## **Bronze Sponsor:** <a href="https://breakoutmentors.com/">Breakout Mentors</a>
+
+<a href="https://breakoutmentors.com/"><img src="/assets/images/sponsor_breakout.png" alt="Breakout Mentors" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>Breakout Mentors</u>:
+
+Breakout Mentors provides 1-on-1 personalized coding tutoring for ages 8-15 with mentors from Stanford, UC Berkeley, and more. They provide a project-based approach in Python, Java, etc with weekly sessions.
