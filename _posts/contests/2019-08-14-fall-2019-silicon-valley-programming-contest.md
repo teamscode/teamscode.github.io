@@ -1,13 +1,17 @@
 ---
 layout: post-contest
-permalink: /contests/fall-2019-mvhs-programming-contest/
-contest_title: Fall 2019 MVHS Programming Contest
+permalink: /contests/fall-2019-silicon-valley-programming-contest/
+contest_title: Fall 2019 Silicon Valley Programming Contest
 contest_location: Union Church of Cupertino
 contest_location_link: https://www.google.com/maps/place/Union+Church+of+Cupertino/@37.3307326,-122.079577,12.75z/data=!4m5!3m4!1s0x808fb44d7e01624b:0x6a7aa396687f0f9a!8m2!3d37.3223342!4d-122.0392881
 contest_date: October 26th, 2019
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Gold Sponsor</b></h1>
+  <a href="https://codewizardshq.com/utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards" style="width: 200px; margin-right: 20px; display: block;"></a>
+  <h1 style="text-align: left;"><b>Silver Sponsor</b></h1>
+  <a href="https://bugsee.com/"><img src="/assets/images/sponsor_bugsee.png" alt="Bugsee" style="width: 200px; margin-right: 20px; display: block;"></a>
   <h1 style="text-align: left;"><b>Bronze Sponsor</b></h1>
   <a href="https://breakoutmentors.com/"><img src="/assets/images/sponsor_breakout.png" alt="Breakout Mentors" style="width: 200px; margin-right: 20px; display: block;"></a>
 </div>
@@ -34,6 +38,7 @@ contest_date: October 26th, 2019
 **Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
 
 **Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
+
 _Note: These are guidelines, not rules. You may choose to sign up for either division._
 
 # Rules: #
@@ -96,6 +101,25 @@ This pdf will describe how to read a txt file in Java, C#, C++, and Python, usin
 <a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
 
 # Sponsors
+
+## **Gold Sponsor:** <a href="https://codewizardshq.com/utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship">CodeWizards</a>
+
+<a href="https://codewizardshq.com/utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>CodeWizards</u>:
+
+With 1000's of satisfied students, CodeWizardsHQ is the most effective way for your child to
+learn to code. They teach through online, instructor-led classes which meet at a set class time.
+Students learn popular programming languages like Python, Scratch, HTML/CSS, JavaScript,
+Java and more! Ages 8 - 18.
+
+## **Silver Sponsor:** <a href="https://www.bugsee.com">Bugsee</a>
+
+<a href="https://www.bugsee.com"><img src="/assets/images/sponsor_bugsee.png" alt="Bugsee" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>Bugsee</u>:
+
+Bugsee is a crash and bug reporting tool for mobile apps. Every report includes video, network calls, and logs leading up to the bug/crash.
 
 ## **Bronze Sponsor:** <a href="https://breakoutmentors.com/">Breakout Mentors</a>
 

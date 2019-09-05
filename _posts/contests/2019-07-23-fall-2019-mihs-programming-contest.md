@@ -7,6 +7,11 @@ contest_location_link: https://www.google.com/maps/place/Mercer+Island+High+Scho
 contest_date: TBD
 ---
 
+<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Silver Sponsor</b></h1>
+  <a href="https://www.creativelive.com"><img src="/assets/images/sponsor_creativelive.jpg" alt="CreativeLive" style="width: 200px; margin-right: 20px; display: block;"></a>
+</div>
+
 <h1>Registration unavailable, please check back later!</h1>
 
 # Basic Information #
@@ -28,6 +33,7 @@ contest_date: TBD
 **Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
 
 **Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
+
 _Note: These are guidelines, not rules. You may choose to sign up for either division, unless you have previously placed in a past TeamsCode contest._
 
 # Rules: #
@@ -87,3 +93,13 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 This pdf will describe how to read a txt file in Java, C#, C++, and Python, using a Mac or PC.
 
 <a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
+
+# Sponsors
+
+## **Silver Sponsor:** <a href="https://www.creativelive.com">CreativeLive</a>
+
+<a href="https://www.creativelive.com"><img src="/assets/images/sponsor_creativelive.jpg" alt="CreativeLive" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>CreativeLive</u>:
+
+CreativeLive is a website offering 24/7 access to online classes covering a wide variety of topics. They offer courses relating to business, photography, art, and entrepreneurship. Their mission is to empower and support creators on an international scale.
