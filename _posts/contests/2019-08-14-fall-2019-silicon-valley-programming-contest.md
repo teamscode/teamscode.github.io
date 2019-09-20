@@ -7,7 +7,7 @@ contest_location_link: https://www.google.com/maps/place/Union+Church+of+Cuperti
 contest_date: October 26th, 2019
 ---
 
-<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+<div style="float: right; margin-right: -140px; margin-left: 20px; text-align: center;">
   <h1 style="text-align: left;"><b>Gold Sponsor</b></h1>
   <a href="https://codewizardshq.com/utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards" style="width: 200px; margin-right: 20px; display: block;"></a>
   <h1 style="text-align: left;"><b>Silver Sponsor</b></h1>
@@ -25,7 +25,7 @@ contest_date: October 26th, 2019
 
 **Location:** Union Church of Cupertino
 
-**Team Sizes:** 1-3 people per team. 
+**Team Sizes:** 1-4 people per team. 
 
 **Cost:** Free
 
