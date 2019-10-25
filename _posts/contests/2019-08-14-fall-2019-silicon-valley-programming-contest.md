@@ -10,8 +10,10 @@ contest_date: October 26th, 2019
 <div style="float: right; margin-right: -140px; margin-left: 20px; text-align: center;">
   <h1 style="text-align: left;"><b>Gold Sponsor</b></h1>
   <a href="https://codewizardshq.com/utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards" style="width: 200px; margin-right: 20px; display: block;"></a>
+  <a href="https://makaboom.school/"><img src="/assets/images/sponsor_makaboom.jpg" alt="Makaboom" style="width: 200px; margin-right: 20px; display: block;"></a>
   <h1 style="text-align: left;"><b>Silver Sponsor</b></h1>
   <a href="https://bugsee.com/"><img src="/assets/images/sponsor_bugsee.png" alt="Bugsee" style="width: 200px; margin-right: 20px; display: block;"></a>
+  <a href="http://www.bunbao.com/"><img src="/assets/images/sponsor_bunbao.jpg" alt="BunBao" style="width: 200px; margin-right: 20px; display: block;"></a>
   <h1 style="text-align: left;"><b>Bronze Sponsor</b></h1>
   <a href="https://breakoutmentors.com/"><img src="/assets/images/sponsor_breakout.png" alt="Breakout Mentors" style="width: 200px; margin-right: 20px; display: block;"></a>
 </div>
@@ -113,6 +115,14 @@ learn to code. They teach through online, instructor-led classes which meet at a
 Students learn popular programming languages like Python, Scratch, HTML/CSS, JavaScript,
 Java and more! Ages 8 - 18.
 
+## **Gold Sponsor:** <a href="https://makaboom.school/">Makaboom</a>
+
+<a href="https://makaboom.school/"><img src="/assets/images/sponsor_makaboom.jpg" alt="Makaboom" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>Makaboom</u>:
+
+The vision of Makaboom is to lower the entry point of coding education and help children to find out about the joy of coding as a life skill through practical and hands-on projects in robotics and programming. We offer tech lab, afterschool classes, and competition team opportunities to inspire students to learn and grow through diverse learning experiences.
+
 ## **Silver Sponsor:** <a href="https://www.bugsee.com">Bugsee</a>
 
 <a href="https://www.bugsee.com"><img src="/assets/images/sponsor_bugsee.png" alt="Bugsee" style="width: 250px; margin-right: 20px;"></a>
@@ -120,6 +130,14 @@ Java and more! Ages 8 - 18.
 ## About <u>Bugsee</u>:
 
 Bugsee is a crash and bug reporting tool for mobile apps. Every report includes video, network calls, and logs leading up to the bug/crash.
+
+## **Silver Sponsor:** <a href="http://www.bunbao.com/">BunBao</a>
+
+<a href="http://www.bunbao.com/"><img src="/assets/images/sponsor_bunbao.jpg" alt="BunBao" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>BunBao</u>:
+
+BunBao is a food company that makes fresh, quality, wholesome bao zi handcrafted from scratch. They offer instant delivery and catering online at www.bunbao.com.
 
 ## **Bronze Sponsor:** <a href="https://breakoutmentors.com/">Breakout Mentors</a>
 
