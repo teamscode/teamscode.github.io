@@ -5,6 +5,7 @@ contest_title: Fall 2019 Silicon Valley Programming Contest
 contest_location: Union Church of Cupertino
 contest_location_link: https://www.google.com/maps/place/Union+Church+of+Cupertino/@37.3307326,-122.079577,12.75z/data=!4m5!3m4!1s0x808fb44d7e01624b:0x6a7aa396687f0f9a!8m2!3d37.3223342!4d-122.0392881
 contest_date: October 26th, 2019
+cohost: Audian
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 20px; text-align: center;">

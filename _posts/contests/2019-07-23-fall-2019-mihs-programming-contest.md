@@ -2,12 +2,15 @@
 layout: post-contest
 permalink: /contests/fall-2019-mihs-programming-contest/
 contest_title: Fall 2019 MIHS Programming Contest
+contest_cohost: Audian
 contest_location: Mercer Island High School
 contest_location_link: https://www.google.com/maps/place/Mercer+Island+High+School/@47.5719538,-122.2202913,17z/data=!4m12!1m6!3m5!1s0x54906bdae7961a9d:0x6e6caf34f523feb!2sMercer+Island+High+School!8m2!3d47.5719538!4d-122.2181026!3m4!1s0x54906bdae7961a9d:0x6e6caf34f523feb!8m2!3d47.5719538!4d-122.2181026
 contest_date: November 9th, 2019
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Platinum Sponsor</b></h1>
+  <a href="http://www.audian.com/"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-bottom: 70px; margin-right: 20px; display block;"></a>
   <h1 style="text-align: left;"><b>Silver Sponsor</b></h1>
   <a href="https://www.creativelive.com"><img src="/assets/images/sponsor_creativelive.jpg" alt="CreativeLive" style="width: 200px; margin-right: 20px; display: block;"></a>
 </div>
@@ -96,6 +99,15 @@ This pdf will describe how to read a txt file in Java, C#, C++, and Python, usin
 <a href="/assets/docs/reading_input_files_packet.pdf">Reading Input Files</a>
 
 # Sponsors
+
+## **Platinum Sponsor:** <a href="http://www.audian.com/">Audian</a>
+
+<a href="http://www.audian.com/"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>Audian</u>:
+
+Audian is a software company redefining the telecom industry. Our focus is on increasing our customers’ Telecompetance by leveraging the latest is software and technology to simplify the complexities once associated with telecom, giving back time and energy to focus on growing their business. We do this through highly scalable, self-service, cloud-based telecom solutions that enable customers to easily create and manage their business phone system.
 
 ## **Silver Sponsor:** <a href="https://www.creativelive.com">CreativeLive</a>
 
