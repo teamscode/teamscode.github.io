@@ -17,8 +17,7 @@ contest_date: November 9th, 2019
   <a href="https://www.creativelive.com"><img src="/assets/images/sponsor_creativelive.jpg" alt="CreativeLive" style="width: 200px; margin-right: 20px; display: block;"></a>
 </div>
 
-<h1><a href="https://teamscode.typeform.com/to/Gfk2Lh">Sign Up Here</a></h1>
-*Registration is free.*
+<h1>Registration is closed!<h1>
 
 # Basic Information #
 
