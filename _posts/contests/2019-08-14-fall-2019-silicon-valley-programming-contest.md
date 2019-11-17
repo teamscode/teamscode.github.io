@@ -25,6 +25,45 @@ Click the button below to create your own programming contest. We are looking fo
 
 <a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:10px">CREATE A CONTEST</button></a>
 
+# Our first programming contest
+
+This was our first programming contest in California, and we hope to host more! There was a great turnout of 35 students, or 14 teams. The contest was held in the Union Church of Cupertino on October 26th. Congratulations to the winners of the advanced division, **TeamsCode Staff** from Monta Vista High School. Below are the winners in each division:
+
+# Winners
+
+## Advanced division
+
+1. _TeamsCode Staff_  from Monta Vista High School (720 points)
+
+    - Parth Asawa, Abhinav Kommula, and Tae Kyu Kim
+2. _Henry_  from LAHS (540 points)
+
+    - Arthur Zhou, Henry Huang, and Henry Wang
+3. _Counsel of Water Sheep_  from Amador Valley High School (410 points)
+
+    - Timothy Gao, Matthew Zhao, Steven Yang, and Charles Jin
+
+## Intermediate division
+
+1. _Farmer John & Bessie the Cow_  from Monta Vista High School (440 points)
+
+    - Howard Peng and Michael Ding
+2. _Desmos_  from Irvington High School (390 points)
+
+    - Stanley Ko, Kripa Kini, and Frederick Zhang
+3. _1234_  from Lynbrook High School (360 points)
+
+    - Alec Chen and Wesley Hung
+
+# Contest files
+
+[Advanced scoreboard](/assets/docs/fall_2019_mihs/advanced_scoreboard.pdf)  
+[Intermediate scoreboard](/assets/docs/fall_2019_mihs/intermediate_scoreboard.pdf)
+
+[Problem packet](/assets/docs/fall_2019_mihs/problem_set.pdf)  
+[Judges answer packet](/assets/docs/fall_2019_mihs/judges_data.pdf)  
+[Input text files](/assets/docs/fall_2019_mihs/inputs.zip)
+
 # Sponsors
 
 ## **Gold Sponsor:** <a href="https://codewizardshq.com/utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship">CodeWizards</a>

@@ -36,7 +36,7 @@ There was a great turnout of 144 students, or 65 teams. The contest was held in 
 1. _Void_  from Tesla STEM High School (650 points)
 
     - Tony Li, Henry Liao, and Aayush Sheth
-2. _#todo_  from the Garfield High School (550 points)
+2. _#todo_  from Garfield High School (550 points)
 
     - Julian Baldwin and Charlie Hayden
 3. _TeamSha_  from Skyline High School (500 points)
