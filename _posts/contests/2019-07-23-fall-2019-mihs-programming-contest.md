@@ -6,7 +6,7 @@ contest_cohost: Audian
 contest_location: Mercer Island High School
 contest_location_link: https://www.google.com/maps/place/Mercer+Island+High+School/@47.5719538,-122.2202913,17z/data=!4m12!1m6!3m5!1s0x54906bdae7961a9d:0x6e6caf34f523feb!2sMercer+Island+High+School!8m2!3d47.5719538!4d-122.2181026!3m4!1s0x54906bdae7961a9d:0x6e6caf34f523feb!8m2!3d47.5719538!4d-122.2181026
 contest_date: November 9th, 2019
-contest_size: 130
+contest_size: 144
 contest_sponsors: 3
 ---
 
@@ -27,7 +27,7 @@ Click the button below to create your own programming contest. We are looking fo
 
 # Our sixth biannual programming contest
 
-There was a great turnout of 130 students, or 65 teams. The contest was held in the Mercer Island High School Commons on November 9th from 9:45 AM – 3:30 PM. Congratulations to the winners of the advanced division, **Void** from Tesla STEM High School. Below are the winners in each division:
+There was a great turnout of 144 students, or 65 teams. The contest was held in the Mercer Island High School Commons on November 9th from 9:45 AM – 3:30 PM. Congratulations to the winners of the advanced division, **Void** from Tesla STEM High School. Below are the winners in each division:
 
 # Winners
 
