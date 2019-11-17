@@ -57,12 +57,11 @@ This was our first programming contest in California, and we hope to host more! 
 
 # Contest files
 
-[Advanced scoreboard](/assets/docs/fall_2019_mihs/advanced_scoreboard.pdf)  
-[Intermediate scoreboard](/assets/docs/fall_2019_mihs/intermediate_scoreboard.pdf)
+[Advanced scoreboard](/assets/docs/fall_2019_mvhs/advanced_scoreboard.pdf)  
+[Intermediate scoreboard](/assets/docs/fall_2019_mvhs/intermediate_scoreboard.pdf)
 
-[Problem packet](/assets/docs/fall_2019_mihs/problem_set.pdf)  
-[Judges answer packet](/assets/docs/fall_2019_mihs/judges_data.pdf)  
-[Input text files](/assets/docs/fall_2019_mihs/inputs.zip)
+[Problem packet](/assets/docs/fall_2019_mvhs/problem_set.pdf)  
+[Judges answer packet](/assets/docs/fall_2019_mvhs/judges_data.pdf)
 
 # Sponsors
 
