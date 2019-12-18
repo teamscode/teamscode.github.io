@@ -64,6 +64,11 @@ There was a great turnout of 144 students, or 65 teams. The contest was held in 
 [Judges answer packet](/assets/docs/fall_2019_mihs/judges_data.pdf)  
 [Input text files](/assets/docs/fall_2019_mihs/inputs.zip)
 
+# Pictures
+
+[Pictures on Google Drive](https://drive.google.com/drive/folders/1vyLRViQ0rq5esdt82HTDFXtXCTTe-tya?usp=sharing)
+[Other pictures](https://www.fuelfish.com/Other/Coding-event/n-tMkTRH/)
+
 # Sponsors
 
 ## **Platinum Sponsor:** <a href="http://www.audian.com/">Audian</a>
