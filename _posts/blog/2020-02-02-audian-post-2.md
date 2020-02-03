@@ -15,10 +15,14 @@ However, Audian’s appeal goes far past their products; they lead a philanthrop
 <img src="\assets\blog_images\student_visit_audian.png" width="100%">
 Pictured: Winners of the MIHS Spring 2019 Contest visit Audian HQ
 	
+<br>
+
 Most recently, Audian was the Platinum Sponsor for TeamsCode’s MIHS Fall 2019 programming contest. Audian brought over judges as well as CEO Brandon Bazemore, who spoke about his experience with computer science, and the application of the field to his work at Audian.
 
 <img src="\assets\blog_images\audian_speech.jpg" width="100%">
 Pictured: Audian CEO Brandon Bazemore speaks to more than 140 student programmers
+
+<br>
 
 Audian and TeamsCode share the love for supporting coders, especially locally, and providing an equal opportunity for students otherwise not able to develop computer science skills to learn and strengthen their knowledge for the greater benefit it will bring to our community, ease of life, and economy. The Audian team wants to help TeamsCode guide these students down a path of success in the computer science field and even just provide an outlet for anyone to have the ability to learn to code and express their abilities free of charge. Through this support and the services they provide to many others in both business and volunteering, Audian leads a company built off of altruism and philanthropy, and especially the recognition of the role computer science plays in the lives of today and our future. Seeing the Audian logo at our contests is a reminder of this.
 
