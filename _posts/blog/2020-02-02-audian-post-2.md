@@ -5,7 +5,7 @@ blog_title: "Audian and TeamsCode: Two Organizations With One Goal"
 blog_desc: How Audian and TeamsCode share their commitment to support the CS community.
 blog_img: /assets/images/sponsor_audian.png
 blog_date: February 2, 2020
-author: Alex Patel
+author: Alex Patel and Luca Palermo
 ---
 
 Audian is a locally founded company with a vision to redefine corporate telecommunications with the latest technology. With a wide variety of features and hardware, businesses can easily customize their telecom and phone systems, or as Audian calls it, improve their “telecompetance.” With an experienced, dedicated, and passionate team, Audian is quickly growing and is looking to continue its success.
