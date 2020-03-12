@@ -5,6 +5,9 @@ lesson_title: "Coding Challenge #1"
 author: Chris Elliott
 ---
 
+
+<script src="/questions.js"></script>
+
 {% raw %}
 
 Welcome to your first coding challenge! This is an optional challenge you can complete in order to improve your understanding of the first nineteen lessons. The purpose of this coding challenge is to create a Text Adventure game!

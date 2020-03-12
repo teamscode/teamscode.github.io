@@ -6,6 +6,8 @@ author: Alan Bi
 ---
 
 
+<script src="/questions.js"></script>
+
 {% raw %}
 
 In this second coding challenge, you will be attempting to solve one of the problems from TeamsCode’s Spring 2017 MIHS Programming Contest. This challenge requires you to make proper use of arrays, and while separating your code into different methods is not required, it is encouraged to help you keep your code clean and easy to read. 

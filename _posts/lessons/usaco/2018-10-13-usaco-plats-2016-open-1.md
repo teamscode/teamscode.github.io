@@ -6,6 +6,9 @@ lesson_desc: A writeup of Open number 1 from the USACO platinum problem set
 author: Robert Chen
 ---
 
+
+<script src="/questions.js"></script>
+
 {% raw %}
 
 ### [262144](http://usaco.org/index.php?page=viewproblem2&cpid=648)

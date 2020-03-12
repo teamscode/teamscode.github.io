@@ -7,6 +7,7 @@ author: Valliappan Valliappan
 ---
 
 <script src="/questions.js"></script>
+
 {% raw %}
 <h3>Setting up Xcode to experiment with Swift</h3>
 Xcode has a feature called “playground” for experimenting with Swift quickly. Here’s how you create a playground:

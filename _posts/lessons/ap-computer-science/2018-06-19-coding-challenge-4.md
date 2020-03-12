@@ -5,6 +5,9 @@ lesson_title: "Coding Challenge #4"
 author: Chris Elliott
 ---
 
+
+<script src="/questions.js"></script>
+
 {% raw %}
 
 Welcome to your last coding challenge! In this challenge, you will create a program to solve any 8x8 maze! This problem was used in TeamsCode’s Spring 2017 MIHS Programming Contest, and is a great conclusion to the TeamsCode Java course!

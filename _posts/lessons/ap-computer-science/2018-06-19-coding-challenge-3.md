@@ -6,6 +6,8 @@ author: Alan Bi
 ---
 
 
+<script src="/questions.js"></script>
+
 {% raw %}
 
 In this coding challenge, the goal is for you to gain experience designing classes and interfaces. To do so, your task is to design a class and an interface that you have recently just learned about: List and ArrayList. For simplicity, you can assume that your implementation of List and ArrayList is to always be used specifically for integers (you don’t need to worry about including <Integer> when creating an instance of your ArrayList). 
