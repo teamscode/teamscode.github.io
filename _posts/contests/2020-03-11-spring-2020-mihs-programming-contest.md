@@ -11,10 +11,10 @@ contest_date: April, 2020
 
 <div class="alert">
     <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-    We at this moment plan to proceed with the Spring 2020 MIHS Programming Contest. However, due to concerns about coronavirus, we might determine to cancel the contest. Any decision will be made by the end of March. Thank you!
+    We at this moment plan to proceed with the Spring 2020 MIHS Programming Contest. However, due to concerns about coronavirus, we might determine that it is necessary to cancel the contest. Any decision will be made by the end of March. Thank you!
 </div>
 
-<h1>Registration is not open yet!. Please check back later!</h1>
+<h1>Registration is not open yet. Please check back later!</h1>
 
 **Time:** 9:45AM – 3:00PM
 
