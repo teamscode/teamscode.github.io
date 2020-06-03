@@ -46,15 +46,13 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 **11:30:** Contest begins. 
 
-**12:00:** Lunch while the competition goes on.
-
 **2:30:** Announce winners. Raffle.
 
 **3:00:** Go home.
 
 # Scoring #
 
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The scoring system is based off of number of test cases correct and submission time with a time penalty for incorrect submissions. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first. There will be great prizes, including an Arduino, an Amazon Echo Dot, and a Nintendo Switch and free food.
+**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The scoring system is based off of number of test cases correct and submission time with a time penalty for incorrect submissions. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
 
 **Input and Output:** Read input from text file and output to console (answers checked manually by judges).
 
