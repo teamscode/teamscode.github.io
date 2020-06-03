@@ -14,8 +14,6 @@ Registration is not currently open. Check back later!
 
 **Time:** 9:45AM – 3:00PM
 
-**Location:** Bellevue High School
-
 **Team Sizes:** 1-3 people per team. 
 
 **Cost:** Free
@@ -42,7 +40,7 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 **9:45:** Arrive, check in begins.
 
-**10:00:** Keynote Speech by Smart Coding School, Introduction to rules and schedule, get settled in.
+**10:00:** Keynote Speech, Introduction to rules and schedule, get settled in.
 
 **10:45:** Practice problem, working with reading input. 
 
