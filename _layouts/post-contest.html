@@ -15,7 +15,9 @@
               </div>
               <div class="post-contest-header-section-info">
                 <div id="cohost">{% if page.contest_cohost %} Co-Host:  {{ page.contest_cohost }}{% endif %}</div>
+                {% if page.contest_location %}
                 <div><b><a href=" {{ page.contest_location_link }} ">{{ page.contest_location }} (Get Directions) →</a></b></div>
+                {% endif %}
                 <div>{{ page.contest_date }}</div>
                 {% if page.contest_size %} 
                   <div>{{ page.contest_size }} students</div>

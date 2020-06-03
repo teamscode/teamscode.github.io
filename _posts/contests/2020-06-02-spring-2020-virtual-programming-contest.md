@@ -2,8 +2,6 @@
 layout: post-contest
 permalink: /contests/spring-2020-virtual-programming-contest/
 contest_title: Spring 2020 Virtual Contest
-contest_location: N/a
-contest_location_link: https://www.google.com/maps/dir/''/Bellevue+High+School,+Wolverine+Way,+Bellevue,+WA/@47.5989222,-122.2762017,11.75z/data=!4m8!4m7!1m0!1m5!1m1!1s0x54906c790b432703:0x52db0f382a3f5d60!2m2!1d-122.198703!2d47.6041425
 contest_date: July 25th, 2019
 ---
 

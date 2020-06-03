@@ -20,9 +20,11 @@
           Co-Host: {{ include.cohost }}
         </div>
       {% endif %}
+      {% if include.location %}
       <div class="list-item-location">
         {{ include.location }}
       </div>
+      {% endif %}
       <div class="list-item-date">
         {{ include.date }}
       </div>
