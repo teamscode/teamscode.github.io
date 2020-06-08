@@ -1,7 +1,7 @@
 ---
 layout: post-contest
-permalink: /contests/spring-2020-virtual-programming-contest/
-contest_title: Spring 2020 Virtual Contest
+permalink: /contests/summer-2020-virtual-programming-contest/
+contest_title: Summer 2020 Virtual Contest
 contest_date: July 25th, 2019
 ---
 
@@ -12,7 +12,7 @@ Registration is not currently open. Check back later!
 
 # Basic Information #
 
-**Time:** 9:45AM – 3:00PM
+**Time:** 1:00PM – 4:00PM
 
 **Team Sizes:** 1-3 people per team. 
 
@@ -33,26 +33,27 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 # Rules: #
 
 1. Each team member must be in middle school or high school.
-2. Teams must bring a charger and one computer that has a USB port and can run code in Java, C++, C#, or Python. If you choose to use another language, you must make sure the output will be readable. You also will not be provided with guidance on how to read input from files. 
-3. No internet access is allowed during the contest to prevent people from looking up the solutions to problems, but books, printed code, and anything else on paper are allowed.
+2. Teams must not receive any help from anyone outside the team.
+3. Teams may use multiple computers.
+4. Pre-written code is allowed, as well as online reference guides.
 
 # Schedule #
 
-**9:45:** Arrive, check in begins.
+**1:00:** Keynote Speech, Introduction to rules and schedule.
 
-**10:00:** Keynote Speech, Introduction to rules and schedule, get settled in.
+**1:30:** Contest begins. 
 
-**10:45:** Practice problem, working with reading input. 
+**3:30:** Announce winners. Raffle.
 
-**11:30:** Contest begins. 
+**4:00:** End of the contest.
 
-**2:30:** Announce winners. Raffle.
-
-**3:00:** Go home.
+Exact logistics will be announced later, specifically, the medium through which we give speeches and announce winners and the exact distribution of prizes.
 
 # Scoring #
 
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The scoring system is based off of number of test cases correct and submission time with a time penalty for incorrect submissions. The three teams with the highest scores will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
+**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The points awarded is based off of number of test cases correct and difficulty of the problem. The correct output of for each test case of an easy problem awards 10 points, of a medium problem awards 20 points, of a difficult problem awards 30 points. Each problem will have three test cases, and temas will be restricted to two submissions for each problem. Submissions will be made through email.
+
+The three teams with the most amount of points will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
 
 **Input and Output:** Read input from text file and output to console (answers checked manually by judges).
 
