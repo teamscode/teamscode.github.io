@@ -2,19 +2,19 @@
 layout: post-contest
 permalink: /contests/summer-2020-virtual-programming-contest/
 contest_title: Summer 2020 Virtual Contest
-contest_date: July 25th, 2019
+contest_date: July 25th, 2020
 ---
 
 
 # Registration #
 
-Registration is not currently open. Check back later!
+[Sign up here!](https://forms.gle/7emp162FeA7P4p9S9)
 
 # Basic Information #
 
-**Time:** 1:00PM – 4:00PM
+**Time:** 1:00PM – 5:00PM
 
-**Team Sizes:** 1-3 people per team. 
+**Team Sizes:** 1-4 people per team. 
 
 **Cost:** Free
 
@@ -43,9 +43,9 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 **1:30:** Contest begins. 
 
-**3:30:** Announce winners. Raffle.
+**4:30:** Announce winners. Raffle.
 
-**4:00:** End of the contest.
+**5:00:** End of the contest.
 
 Exact logistics will be announced later, specifically, the medium through which we give speeches and announce winners and the exact distribution of prizes.
 
