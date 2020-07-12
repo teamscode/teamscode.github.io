@@ -12,6 +12,8 @@ contest_date: July 25th, 2020
 
 # Basic Information #
 
+#### View detailed logistics about the contest in [our YouTube video](https://youtu.be/NlON2lil0CI).
+
 **Time:** 1:00PM – 5:00PM
 
 **Team Sizes:** 1-4 people per team. 
