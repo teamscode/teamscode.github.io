@@ -5,6 +5,15 @@ contest_title: Summer 2020 Virtual Contest
 contest_date: July 25th, 2020
 ---
 
+<div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
+  <h1 style="text-align: left;"><b>Partners</b></h1>
+  <a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp.png" alt="X-Camp Academy" style="width: 250px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <a href="https://codewithus.com"><img src="/assets/images/sponsor_codewithus.png" alt="CodeWithUs" style="width: 250px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <h1 style="text-align: left;"><b>Gold Sponsor</b></h1>
+  <a href="http://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 250px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <h1 style="text-align: left;"><b>Additional Sponsor</b></h1>
+  <a href="https://codewizardshq.com"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards HQ" style="width: 200px; margin-right: 20px; display: block;"></a>
+</div>
 
 # Registration #
 
@@ -81,3 +90,42 @@ The three teams with the most amount of points will receive medals. If there is 
 4  
 -8  
 49  
+
+# Sponsors
+
+## **Partner:** <a href="https://x-camp.academy">X-Camp</a>
+
+<a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp.png" alt="X-Camp Academy" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>X-Camp Academy</u>:
+
+X-Camp Academy is a Silicon Valley-based institute that offers competitive programming and problem-solving classes (remote and traditional) to middle and high school students.
+
+## **Partner:** <a href="https://codewithus.com">CodeWithUs</a>
+
+<a href="https://codewithus.com"><img src="/assets/images/sponsor_codewithus.png" alt="CodeWithUs" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>CodeWithUs</u>:
+
+CodeWithUs is a technology education organization that teaches students a variety of skills through coding education that include popular programming languages, robotics, VR, 3D printing, and game design. We believe in giving personalized attention to each student with project-based learning to cater to everyone’s individual learning speed and style.
+
+## **Gold Sponsor:** <a href="https://www.digipen.edu/">DigiPen</a>
+
+<a href="https://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>DigiPen</u>:
+
+Since 1988, DigiPen Institute of Technology has been preparing students to succeed as skilled engineers, artists, and designers in the growing technology industries.
+An educational pioneer, we were the first college in the world to offer a bachelor’s degree in video game technology and development. Today, we offer a wide range of technology-focused programs, all with an eye toward the career opportunities of tomorrow. Through a combination of academic rigor and interdisciplinary team-based projects, our educational model empowers students to be active learners, bold problem-solvers, and creators.
+Our programs are intentionally designed to reflect the standards and practices of the professional industries: Small teams with different backgrounds and skills collaborate to apply their knowledge, overcome challenges, and build amazing things together. These teams form the core of our tight-knit student and alumni community.
+
+## **Additional Sponsor:** <a href="https://codewizardshq.com">CodeWizards HQ</a>
+
+<a href="https://codewizardshq.com"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards HQ" style="width: 250px; margin-right: 20px;"></a>
+
+## About <u>CodeWizards HQ</u>:
+
+CodeWizards HQ is the leading online coding school for kids and teens ages 8-18. We deliver the most fun and effective live, online coding classes which are designed to give our students the programming knowledge, skills, and confidence to thrive in a digital world.
