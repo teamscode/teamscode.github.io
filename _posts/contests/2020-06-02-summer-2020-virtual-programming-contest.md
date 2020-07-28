@@ -41,6 +41,9 @@ contest_date: July 25th, 2020
 
 _Note: These are guidelines, not rules. You may choose to sign up for either division._
 
+# Contest Files #
+[Test cases and expected outputs](/assets/TC_CasesSols_Combined.zip)  
+
 # Rules: #
 
 1. Each team member must be in middle school or high school.
