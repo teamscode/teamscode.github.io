@@ -2,11 +2,18 @@
 <html>
   {% include head.html %}
   <body>
+
+    <style type="text/css"> 
+      .bgimg {  
+          background-image: url({{ page.background }}); 
+      } 
+    </style> 
+
     <div class="post-contest-layout">
       {% include header.html
          logo="dark_logo.svg" %}
       {% include scripts.html %}
-      <div class="content">
+      <div class="content bgimg">
         <div class="post-contest-header">
           <div class="post-contest-max-width">
             <div class="post-contest-header-section">

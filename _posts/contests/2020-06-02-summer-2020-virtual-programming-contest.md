@@ -3,6 +3,7 @@ layout: post-contest
 permalink: /contests/summer-2020-virtual-programming-contest/
 contest_title: Summer 2020 Virtual Contest
 contest_date: July 25th, 2020
+background: /assets/images/tcfbcover.png
 ---
 
 <div style="float: right; margin-right: -140px; margin-left: 10px; text-align: center;">
@@ -16,9 +17,20 @@ contest_date: July 25th, 2020
   <a href="https://codewizardshq.com"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards HQ" style="width: 200px; margin-right: 20px; display: block;"></a>
 </div>
 
-# Registration #
+# Winners #
+**Intermediate Division**
+1st - The Ducklings [780 points]
+2nd - X-Camp Team 4 [740 points]
+3rd - Golden Shadow [660 points]
+3rd - EMPBros [660 points]
 
-[Sign up here!](https://forms.gle/7emp162FeA7P4p9S9)
+**Advanced Division**
+1st - Xcamp ++c [840 points]
+2nd - tourists [830 points]
+3rd - void [810 points]
+
+# Contest Files #
+[Test cases and expected outputs](/assets/TC_CasesSols_Combined.zip)  
 
 # Basic Information #
 
@@ -41,9 +53,6 @@ contest_date: July 25th, 2020
 **Advanced:**  A division for programmers with more experience, typically having finished one programming class and are fairly knowledgeable about a specific language.
 
 _Note: These are guidelines, not rules. You may choose to sign up for either division._
-
-# Contest Files #
-[Test cases and expected outputs](/assets/TC_CasesSols_Combined.zip)  
 
 # Rules: #
 
