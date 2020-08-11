@@ -5,13 +5,15 @@ layout: default
   <div class="site-max-width clearfix">
     <div class="blog-header-section">
       <div class="blog-header-section-h1">
-        Welcome to the TeamsCode Blog!
+        Welcome to the TeamsCode Community!
       </div>
       <div class="blog-header-section-h1-sub">
     </div>
   </div>
 </div></div>
+<br>
 
+<h1 style="font: Lato; font-size: 50px"><center>Blog Posts</center></h1>
 {% for post in site.data.blog_posts %}
   {% include blog_item.html
     img=post.img
@@ -20,3 +22,60 @@ layout: default
     link=post.link 
     description=post.description %}
 {% endfor %}
+
+<h1 style="font: Lato; font-size: 50px"><center>Press</center></h1>
+<!-- This code is directly copy-pasted from the /press page. In order to
+  revert these changes, copy-paste this code directly back into press.html-->
+  <div class="heading-link">
+    <b><a href="https://drive.google.com/open?id=1a4UKakV8_kSjKW_L6x-1Tj0PHRcugei9">Contest Photos</a></b>
+  </div>
+  <div class="heading">
+    <b>Articles</b>
+  </div>
+  <div class="row">
+    <div class="column" id="column-articles">
+      
+      <div class="page-content-custom">
+        {% for press in site.data.press %}
+        {% include press_item.html
+          image=press.image
+          title=press.title
+          source=press.source
+          date=press.date
+          link=press.link %}
+        {% endfor %}
+      </div>
+
+      <div class="heading">
+        <b>Assets</b>
+      </div>
+      <div class="heading-link" style="font-size: 20px; font-weight: 380;">
+        <b><a href="https://create.piktochart.com/output/32220679-press-kit">Press Kit</a></b>
+      </div>
+      <div class="heading-link" style="font-size: 20px; font-weight: 380;">
+        <b><a href="/assets/press_images/infographic.pdf">Infographic</a></b>
+      </div>
+      <div class="page-content-custom">
+        <div class="press-branding">
+          <div class="press-branding-header h4">
+            Logo
+          </div>
+          <div class="press-branding-image">
+            <img src="/assets/images/dark_logo_bkg.svg" height="128" alt="Teamscode dark logo" />
+            <div>Dark logo</div>
+            <a href="/assets/images/dark_logo_bkg.svg">SVG</a>
+          </div>
+          <div class="press-branding-image">
+            <img src="/assets/images/light_logo_bkg.svg" height="128" alt="Teamscode light logo" />
+            <div>Light logo</div>
+            <a href="/assets/images/light_logo_bkg.svg">SVG</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column" id="column-image">
+      <img class="press-large-image" src="/assets/press_images/press_image.jpg"/>
+      <br>
+      <img class="press-large-image" src="/assets/press_images/mihs_team_press_image.JPG"/>
+    </div>
+  </div>
