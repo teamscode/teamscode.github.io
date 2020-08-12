@@ -27,9 +27,8 @@
         i {
           font-size: 20px;
         }
-
+        transition: color 0.4s ease;
         &:hover {
-          transition: color 0.4s ease;
           color: #300000;
         }
       }
