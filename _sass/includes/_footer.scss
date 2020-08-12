@@ -29,7 +29,8 @@
         }
 
         &:hover {
-          color: #444;
+          transition: color 0.4s ease;
+          color: #300000;
         }
       }
     }
