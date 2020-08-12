@@ -117,7 +117,7 @@ The three teams with the most amount of points will receive medals. If there is 
 
 ## **Partner:** <a href="https://x-camp.academy">X-Camp</a>
 
-<a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp.png" alt="X-Camp Academy" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+<a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp Academy" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
 
 
 ## About <u>X-Camp Academy</u>:
