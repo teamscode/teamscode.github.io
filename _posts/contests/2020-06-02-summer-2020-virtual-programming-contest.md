@@ -3,7 +3,7 @@ layout: post-contest
 permalink: /contests/summer-2020-virtual-programming-contest/
 contest_title: Summer 2020 Virtual Contest
 contest_date: July 25th, 2020
-background: /assets/images/tcfbcover2.png
+contest_size: 296
 bg_height: 200px
 ---
 
