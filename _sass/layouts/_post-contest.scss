@@ -6,8 +6,9 @@
 }
 
 .post-contest-header {
-  background: $post-contest-header-bkg;
+  background: linear-gradient(180deg, #101010, #444444);
   padding: 164px 0 40px 0;
+  box-shadow: 0px 0px 10px grey;
   margin-top: -64px;
 
   .post-contest-header-section {
