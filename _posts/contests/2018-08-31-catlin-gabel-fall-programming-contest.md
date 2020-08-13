@@ -23,9 +23,9 @@ contest_sponsors: 4
 
 # _Interested in joining our team?_
 
-Click the button below to create your own programming contest. We are looking for interested middle school or high school students who want to spread their passion for computer science to their peers. Apply today to join our 501(c)(3) nonprofit and help make a difference!
+Click the button below to apply to our team. We are looking for interested middle school or high school students who want to spread their passion for computer science to their peers. Apply today to join our 501(c)(3) nonprofit and help make a difference!
 
-<a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:10px">CREATE A CONTEST</button></a>
+<a href = "/contests/create"><button class = "contests-header-section-button" style="margin-top:10px">JOIN OUR TEAM</button></a>
 
 # Our second biannual programming contest in Oregon
 
