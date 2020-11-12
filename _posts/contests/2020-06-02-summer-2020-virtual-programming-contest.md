@@ -40,6 +40,9 @@ bg_height: 200px
 
 # Contest Files #
 [Test cases and expected outputs](/assets/TC_CasesSols_Combined.zip)  
+[Intermediate Division Problem Set](http://tinyurl.com/tcint337)  
+[Advanced Division Problem Set](http://tinyurl.com/tcadv337)  
+
 
 # Basic Information #
 
