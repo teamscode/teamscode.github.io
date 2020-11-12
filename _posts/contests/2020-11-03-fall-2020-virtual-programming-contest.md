@@ -8,8 +8,10 @@ bg_height: 200px
 
 
 # Register Here! 
+
 # Register for the Intermediate Division [here](https://teamscode-contest.xjoi.net/fall2020int). <br />
 # Register for the Advanced Division [here](https://teamscode-contest.xjoi.net/fall2020adv).
+_Note: Some participants have been having issues signing up at the below links. Please make sure to turn off your VPN when registering or email  [support@teamscode.com](mailto:support@teamscode.com) for help._
 
 
 # Basic Information #
