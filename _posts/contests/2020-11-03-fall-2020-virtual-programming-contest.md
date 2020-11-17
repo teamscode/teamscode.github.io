@@ -7,11 +7,9 @@ bg_height: 200px
 ---
 
 
-# Register Here! 
-
 # Register for the Intermediate Division [here](https://teamscode-contest.xjoi.net/fall2020int). <br />
 # Register for the Advanced Division [here](https://teamscode-contest.xjoi.net/fall2020adv).
-_Note: Some participants have been having issues signing up at the below links. Please make sure to turn off your VPN when registering or email  [support@teamscode.com](mailto:support@teamscode.com) for help._
+_Note: Some participants have been having issues signing up at the above links when VPNs were on. Please make sure to turn off your VPN when registering or email  [contact@teamscode.com](mailto:support@teamscode.com) for help._
 
 
 # Basic Information #
@@ -24,11 +22,11 @@ _Note: Some participants have been having issues signing up at the below links. 
 
 **Cost:** Free
 
-**Languages:** Java, C++, C#, and Python
+**Languages:** Java, C++, C, Python 2, and Python 3
 
 **Divisions:** Intermediate or Advanced
 
-# General Guidelines #
+# Guidelines #
 
 **Intermediate:**  A division for programmers who have recently started programming and/or are in one programming class.
 
@@ -53,13 +51,11 @@ _Note: These are guidelines, not rules. You may choose to sign up for either div
 
 **5:00:** End of the contest.
 
-Exact logistics will be announced later, specifically, the medium through which we give speeches and announce winners and the exact distribution of prizes.
-
 # Scoring #
 
-**Overview:** There will be many programming problems, sorted by difficulty from easiest to hardest. The points awarded is based off of number of test cases correct and difficulty of the problem. The correct output of for each test case of an easy problem awards 10 points, of a medium problem awards 20 points, of a difficult problem awards 30 points. Each problem will have three test cases, and temas will be restricted to two submissions for each problem. Submissions will be made through email.
+**Overview:** There will be 15 programming problems sorted by difficulty from easiest to hardest. The points awarded is based off of number of test cases correct and difficulty of the problem. The correct output of for each test case of an easy problem awards 10 points, of a medium problem awards 20 points, of a difficult problem awards 30 points. Each problem will have five test cases for a total of 1,500 points. Teams will be restricted to ten submissions per problem. Submissions will be made on the contest page after you login.
 
-The three teams with the most amount of points will receive medals. If there is a tie in points, the winner is decided by the team that completed their last problem first.
+The three teams with the most amount of points will receive medals and Amazon gift cards. If there is a tie, the winner is decided by the team that completed their last problem first.
 
 **Input and Output:** Read input from text file and output to console (answers checked manually by judges).
 
