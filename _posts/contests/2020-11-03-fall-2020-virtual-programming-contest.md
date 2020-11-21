@@ -88,3 +88,61 @@ The three teams with the most amount of points will receive medals and Amazon gi
 4  
 -8  
 49
+
+# Sponsors
+
+## **Partner:** <a href="https://x-camp.academy">X-Camp</a>
+
+<a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp Academy" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>X-Camp Academy</u>:
+
+X-Camp Academy was founded in August 2017 in Silicon Valley by two Google software
+engineers. Their mission is to inspire and cultivate the next generation of computer science and artificial intelligence talents, which  they believe will have a positive impact on the future. The younger generations will have unlimited opportunities at X-Camp for many reasons.
+
+They have a unique curriculum, inherited from Mr. Xianyou Xu, a Chinese diamond-level international gold medal coach. Mr. Xu has been training students to participate in programming competitions, especially Olympics in Informatics, for more than 20 years. 
+
+X-Camp prioritizes personalized education, with problem sets tailored to each student’s needs and an enrollment system that encourages grade skipping. By participating in team-based competitions and facilitating frequent group study sessions, X-Camp also fosters an environment of collaboration to build each student’s confidence in their ability to code.
+
+X-Camp’s staff are composed of senior software engineers from major technology companies in Silicon Valley. They have strong support from international and domestic competition winners.
+
+They also have Scholarships & Special Discounts for Teamscode participants: 
+They provide math and computer science merit scholarships to qualified students.  Special discount code TS100 also available for participants of the Fall 2020 TeamsCode contest. 
+
+For more information, please visit <a href="https://x-camp.academy">their website</a>.
+
+
+## **Partner:** <a href="https://codewithus.com">CodeWithUs</a>
+
+<a href="https://codewithus.com"><img src="/assets/images/sponsor_codewithus.png" alt="CodeWithUs" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>CodeWithUs</u>:
+
+Code With Us is a coding education company that provides coding classes, tutors, and camps for students of all ages including ages 6 through 18. They provide a free trial class with no credit card required. It is a great idea for both beginners and experienced coders to have an instructor help them with their projects. So, to try out a class, go to codewithus.com/free and fill out the simple form to reserve a time for your free coding class. Or, if you are interested in working for Code With Us remotely, Code With Us is looking for administrative help including customer communication. Please go to codewithus.com and start a chat on the bottom right of the screen to learn more.
+
+Code With Us is proud to sponsor TeamsCode! The future is a much brighter place because students are choosing to focus their energy on Computer Science, technology, and science in general. If participants have any ideas on how a company can help spread coding education to others that could benefit from it, please contact Code With Us! They would be happy to work with you.
+
+For more information, please visit <a href="https://www.codewithus.com/en">their website</a>.
+
+## **Gold Sponsor:** <a href="https://www.digipen.edu/">DigiPen</a>
+
+<a href="https://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>DigiPen</u>:
+
+Since 1988, DigiPen Institute of Technology has been preparing students to succeed as skilled engineers, artists, and designers in the growing technology industries. An educational pioneer, DigiPen is the first college in the world to offer a bachelor’s degree in video game technology and development. Today, Digipen offers a wide range of technology-focused programs, all with an eye toward the career opportunities of tomorrow. Through a combination of academic rigor and interdisciplinary team-based projects, their educational model empowers students to be active learners, bold problem-solvers, and creators. Digipen’s programs are intentionally designed to reflect the standards and practices of the professional industries: Small teams with different backgrounds and skills collaborate to apply their knowledge, overcome challenges, and build amazing things together. These teams form the core of their tight-knit student and alumni community.
+
+DigiPen students continue to garner awards and recognition at international competitions and festivals for their outstanding student work. And as graduates, they go on to rewarding careers at some of the world’s leading tech companies, game studios, and startups.
+If you play video games, you’ve probably played at least one of more than 1,500 commercial titles developed by a DigiPen graduate.
+
+Here are Some highlights about Digipen:
+·         They’ve ranked in the top 5 of The Princeton Review’s Top Game Design Schools for the last 11 years,
+·         Ranked in the Top 50 Best Computer Science and Engineering schools by Business Insider
+·         Digipen students have won 57 Independent Games Festival awards–more than any other school, and
+·         DigiPen graduates are credited on 1,500+ commercial game titles.
+
+For more information, please visit <a href="https://www.digipen.edu">their website.</a>.
+
