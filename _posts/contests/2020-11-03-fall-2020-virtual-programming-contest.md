@@ -3,6 +3,7 @@ layout: post-contest
 permalink: /contests/fall-2020-virtual-programming-contest/
 contest_title: Fall 2020 Virtual Contest
 contest_date: November 21st, 2020
+contest_size: 245
 bg_height: 200px
 ---
 <div style="float: right; margin-right: -140px; margin-left: 30px; text-align: center;">
@@ -14,9 +15,22 @@ bg_height: 200px
   <a href="http://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
-# Register for the Intermediate Division [here](https://teamscode-contest.xjoi.net/fall2020int). <br />
-# Register for the Advanced Division [here](https://teamscode-contest.xjoi.net/fall2020adv).
-_Note: Some participants have been having issues signing up at the above links when VPNs were on. Please make sure to turn off your VPN when registering or email  [contact@teamscode.com](mailto:support@teamscode.com) for help._
+# Winners #
+**Intermediate Division**
+
+1st - **HoCo Informatics Team**: Andrew Chen, Matthew Zhou, Michael Herschbach, Nicholas Li [1500 points]
+
+2nd - **Runtime Terror**: Adham Ibrahim [1420 points]
+
+3rd - **"lettuce** Akshay Shivkumar, Bobby Costin [1410]
+
+**Advanced Division**
+
+1st - **Squat Metropolitans**: Eric Yang, Jason Gonzalez [1500 points]
+
+2nd - **blair blezers**: Gabriel Wu, Timothy Qian, Colin Galen, Maxwell Zhang [1440 points]
+
+3rd - **bleir blazers**: Jason An, Phillip Guo, Jeffrey Tong, Claire Zhang [1440 points]
 
 
 # Basic Information #
