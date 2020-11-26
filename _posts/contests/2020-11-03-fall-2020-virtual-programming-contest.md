@@ -158,5 +158,5 @@ Here are Some highlights about Digipen:
 ·         Digipen students have won 57 Independent Games Festival awards–more than any other school, and
 ·         DigiPen graduates are credited on 1,500+ commercial game titles.
 
-For more information, please visit <a href="https://www.digipen.edu">their website.</a>.
+For more information, please visit <a href="https://www.digipen.edu">their website</a>.
 
