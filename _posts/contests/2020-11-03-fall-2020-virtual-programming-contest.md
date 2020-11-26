@@ -22,7 +22,7 @@ bg_height: 200px
 
 2nd - **Runtime Terror**: Adham Ibrahim [1420 points]
 
-3rd - **"lettuce** Akshay Shivkumar, Bobby Costin [1410]
+3rd - **lettuce** Akshay Shivkumar, Bobby Costin [1410]
 
 **Advanced Division**
 
