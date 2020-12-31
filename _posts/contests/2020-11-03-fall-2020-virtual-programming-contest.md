@@ -33,6 +33,14 @@ bg_height: 200px
 3rd - **bleir blazers**: Jason An, Phillip Guo, Jeffrey Tong, Claire Zhang [1440 points]
 
 
+
+
+# Contest Files #
+[Test cases and expected outputs](/assets/TC2020_Fall_CasesSols_Combined.zip)  
+[Intermediate Division Problem Set](https://tinyurl.com/tcfall2020intpdf0)  
+[Advanced Division Problem Set](https://tinyurl.com/tcfall2020advpdf)  
+
+
 # Basic Information #
 
 #### View detailed logistics about the contest in our [logistics document](https://drive.google.com/file/d/17mAUlHYoNTqsJJ36C8jDhcbrxYBUS3tk/view?usp=sharing).
