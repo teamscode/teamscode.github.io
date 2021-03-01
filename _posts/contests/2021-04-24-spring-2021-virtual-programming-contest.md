@@ -31,7 +31,7 @@ bg_height: 200px
 
 **Languages:** Java, C++, C, Python 2, Python 3
 
-**Divisions:** Intermediate or Advanced
+**Divisions:** Novice, Intermediate, or Advanced
 
 # Guidelines #
 
