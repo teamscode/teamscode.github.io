@@ -11,12 +11,14 @@ bg_height: 200px
   <a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp Academy" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
-#Registration#
+# Registration #
 
-####Registration is open for all of our divisions! Please refer to the links below. If you are unsure which division to register for, please refer to our guidelines below.
+#### Registration is open for all of our divisions! Please refer to the links below. If you are unsure which division to register for, please refer to our guidelines below.
 
 <a href="https://teamscode.xjoi.net/spring2021adv">Advanced Division</a>
+
 <a href="https://teamscode.xjoi.net/spring2021int">Intermediate Division</a>
+
 <a href="https://teamscode.xjoi.net/spring2021nov">Novice Division Division</a>
 
 # Basic Information #
