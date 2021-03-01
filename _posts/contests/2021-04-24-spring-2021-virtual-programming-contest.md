@@ -13,7 +13,7 @@ bg_height: 200px
 
 # Registration #
 
-#### Registration is open for all of our divisions! Please refer to the links below. If you are unsure which division to register for, please refer to our guidelines below.
+Registration is open for all of our divisions! Please refer to the links below. If you are unsure which division to register for, please refer to our guidelines below.
 
 <a href="https://teamscode.xjoi.net/spring2021adv">Advanced Division</a>
 
@@ -110,9 +110,6 @@ They have a unique curriculum, inherited from Mr. Xianyou Xu, a Chinese diamond-
 X-Camp prioritizes personalized education, with problem sets tailored to each student’s needs and an enrollment system that encourages grade skipping. By participating in team-based competitions and facilitating frequent group study sessions, X-Camp also fosters an environment of collaboration to build each student’s confidence in their ability to code.
 
 X-Camp’s staff are composed of senior software engineers from major technology companies in Silicon Valley. They have strong support from international and domestic competition winners.
-
-They also have Scholarships & Special Discounts for Teamscode participants: 
-They provide math and computer science merit scholarships to qualified students.  Special discount code TS100 also available for participants of the Fall 2020 TeamsCode contest. 
 
 For more information, please visit <a href="https://x-camp.academy">their website</a>.
 
