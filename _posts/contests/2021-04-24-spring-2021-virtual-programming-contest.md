@@ -93,6 +93,7 @@ The three teams with the most amount of points will receive medals and Amazon gi
 -8  
 49
 
+_For code solutions to this golem problem, please check out our [Java](https://gist.github.com/chenhongqiao/a60b8b73f86fa3f32d3fd39ec3c1412c), [Python](https://gist.github.com/chenhongqiao/ed1949c733d0fab1a91874689e2dcbad), or [C++](https://gist.github.com/chenhongqiao/c0fde3f17b9369b855e4e6a63339cd45) solutions depending on your preferred language._
 # Sponsors
 
 ## **Partner:** <a href="https://x-camp.academy">X-Camp</a>
