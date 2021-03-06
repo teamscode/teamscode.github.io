@@ -45,7 +45,7 @@ Registration is open for all of our divisions! Please refer to the links below. 
 
 _Note: These are guidelines, not rules. You may choose to sign up for either division._
 
-# Rules: #
+# Rules #
 
 1. Each team member must be in middle school or high school.
 2. Teams must not receive any help from anyone outside the team.
@@ -70,7 +70,9 @@ The three teams with the most amount of points will receive medals and Amazon gi
 
 **Input and Output:** The input and output will all be standard input and standard output. Use the system input and print systems for your specified language.
 
-**Sample Problem:** You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
+# Sample Problem #
+
+You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
 
 **Input:** The first line contains an integer L. The following L lines will each contain two numbers, N1 and N2.
 
