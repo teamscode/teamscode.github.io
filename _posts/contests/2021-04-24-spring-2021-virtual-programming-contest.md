@@ -19,7 +19,7 @@ Registration is open for all of our divisions! Please refer to the links below. 
 
 <a href="https://teamscode.xjoi.net/spring2021int">Intermediate Division</a>
 
-<a href="https://teamscode.xjoi.net/spring2021nov">Novice Division Division</a>
+<a href="https://teamscode.xjoi.net/spring2021nov">Novice Division</a>
 
 # Basic Information #
 
