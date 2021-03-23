@@ -39,7 +39,7 @@ bg_height: 200px
 [Test cases and expected outputs](/assets/TC2020_Fall_CasesSols_Combined.zip)  
 [Intermediate Division Problem Set](https://tinyurl.com/tcfall2020intpdf0)  
 [Advanced Division Problem Set](https://tinyurl.com/tcfall2020advpdf)  
-[Solutions to Contest Problems](https://github.com/DrDab/TeamsCode2020NovemberProblems)
+[Solutions to Contest Problems](https://drive.google.com/file/d/1G0RveL7BELLY44OSlxphGP-aI2T-pePx/view?usp=sharing)
 
 # Basic Information #
 

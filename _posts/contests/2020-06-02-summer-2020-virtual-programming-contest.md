@@ -42,6 +42,8 @@ bg_height: 200px
 [Test cases and expected outputs](/assets/TC_CasesSols_Combined.zip)  
 [Intermediate Division Problem Set](http://tinyurl.com/tcint337)  
 [Advanced Division Problem Set](http://tinyurl.com/tcadv337)  
+[Intermediate Solutions](https://drive.google.com/file/d/1HWR8c25p64karlMsp89xH5TzJxhpm99E/view?usp=sharing)
+[Advanced Solutions](https://drive.google.com/file/d/1M6J8Hq3NxdnCHwgZK1YRnqsZrSrOMIGh/view?usp=sharing)
 
 
 # Basic Information #
