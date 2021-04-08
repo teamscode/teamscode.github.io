@@ -70,6 +70,12 @@ The three teams with the most amount of points will receive medals and Amazon gi
 
 **Input and Output:** The input and output will all be standard input and standard output. Use the system input and print systems for your specified language.
 
+# Practice #
+
+Want to sharpen your programming skills with your team before the contest? Solve old TeamsCode problems live through <a href="https://codejoust.co">CodeJoust</a>!
+
+_Note: CodeJoust is currently in beta, but is being rapidly developed. For suggestions or bug reports, contact <u>support@codejoust.co</u>._
+
 # Sample Problem #
 
 You are facing off against a golem. In order to beat it, you must cast a magic spell. You are given two numbers. Your task is to find the largest number possible either by adding or multiplying the two numbers together in order to cast the strongest spell.
