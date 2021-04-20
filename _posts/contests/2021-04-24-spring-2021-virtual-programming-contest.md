@@ -9,6 +9,7 @@ bg_height: 200px
 <div style="float: right; margin-right: -140px; margin-left: 30px; text-align: center;">
   <h1 style="text-align: left;"><b>Partners</b></h1>
   <a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp Academy" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <a href="http://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
 # Registration #
@@ -122,3 +123,25 @@ X-Camp’s staff are composed of senior software engineers from major technology
 
 For more information, please visit <a href="https://x-camp.academy">their website</a>.
 
+## **Gold Sponsor:** <a href="https://www.digipen.edu/">DigiPen</a>
+
+<a href="https://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
+
+
+## About <u>DigiPen</u>:
+
+Since 1988, DigiPen Institute of Technology has been preparing students to succeed as skilled engineers, artists, and designers in the growing technology industries. An educational pioneer, DigiPen is the first college in the world to offer a bachelor’s degree in video game technology and development. Today, they offer a wide range of technology-focused programs, all with an eye toward the career opportunities of tomorrow.
+
+Their programs are intentionally designed to reflect the standards and practices of the professional industries: Small teams with different backgrounds and skills collaborate to apply their knowledge, overcome challenges, and build amazing things together.
+
+DigiPen graduates go on to rewarding careers at some of the world’s leading tech companies, game studios, and startups. If you play video games, you’ve probably played at least one of more than 1,600 commercial titles developed by a DigiPen graduate.
+
+Some highlights:
+
+·  Ranked in the top 5 of The Princeton Review’s Top Game Design Schools for the last 12 years
+
+·  DigiPen student games have won 57 Independent Games Festival awards (more than any other school)
+
+·  DigiPen graduates are credited on 1,600+ commercial game titles
+
+For more information, please visit <a href="https://www.digipen.edu">their website</a>.
