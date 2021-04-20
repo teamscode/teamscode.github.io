@@ -161,9 +161,12 @@ DigiPen students continue to garner awards and recognition at international comp
 If you play video games, you’ve probably played at least one of more than 1,500 commercial titles developed by a DigiPen graduate.
 
 Here are Some highlights about Digipen:
-·         They’ve ranked in the top 5 of The Princeton Review’s Top Game Design Schools for the last 11 years,
+·         They’ve ranked in the top 5 of The Princeton Review’s Top Game Design Schools for the last 11 years
+
 ·         Ranked in the Top 50 Best Computer Science and Engineering schools by Business Insider
-·         Digipen students have won 57 Independent Games Festival awards–more than any other school, and
+
+·         Digipen students have won 57 Independent Games Festival awards–more than any other school
+
 ·         DigiPen graduates are credited on 1,500+ commercial game titles.
 
 For more information, please visit <a href="https://www.digipen.edu">their website</a>.
