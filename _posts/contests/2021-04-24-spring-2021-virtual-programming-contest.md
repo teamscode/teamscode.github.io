@@ -3,7 +3,7 @@ layout: post-contest
 permalink: /contests/spring-2021-virtual-programming-contest/
 contest_title: Spring 2021 Virtual Contest
 contest_date: April 24th, 2021
-contest_size: 323
+contest_size: 327
 bg_height: 200px
 ---
 
