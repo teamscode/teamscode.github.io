@@ -17,7 +17,7 @@ bg_height: 200px
 
 **Advanced Division**
 
-1st - **blair blezers**: Gabriel Wu, Timothy Qian, Colin Galen, Maxwell Zhang [3000 points]
+1st - **blair blezers**: Gabriel Wu, Timothy Qian, Colin Galen, Maxwell Zhang [2500 points (1:25:00)]
 
 2nd - **RAFFLE REGISTRATION CUTOFF**: Stanley Zhong, Benjamin Chen, Rohin Garg, William Tsin [2470 points (2:30:24)]
 
@@ -25,11 +25,11 @@ bg_height: 200px
 
 **Intermediate Division**
 
-1st - **NaN x inf**: Maggie Liu, Christopher Chen, Bing-Dong Liu, Kai Lum [3000 points]
+1st - **NaN x inf**: Maggie Liu, Christopher Chen, Bing-Dong Liu, Kai Lum [2700 points (1:21:23)]
 
-2nd - **Sleepy Heads**: Anish Rajeev, Sahil Parikh [2650 points]
+2nd - **Sleepy Heads**: Anish Rajeev, Sahil Parikh [2650 points (2:34:12)]
 
-3rd - **X-Camp KAAR**: Kevin Shi, Andy Hu, Andrew Peng, Richard Feng [2610 points]
+3rd - **X-Camp KAAR**: Kevin Shi, Andy Hu, Andrew Peng, Richard Feng [2610 points (2:48:15)]
 
 **Novice**
 
