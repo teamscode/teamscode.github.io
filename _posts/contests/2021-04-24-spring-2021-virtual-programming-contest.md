@@ -10,6 +10,7 @@ bg_height: 200px
 <div style="float: right; margin-right: -140px; margin-left: 30px; text-align: center;">
   <h1 style="text-align: left;"><b>Partners</b></h1>
   <a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp Academy" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <h1 style="text-align: left;"><b>Gold Sponsor</b></h1>
   <a href="http://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
