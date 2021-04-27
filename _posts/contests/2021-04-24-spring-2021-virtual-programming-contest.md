@@ -15,13 +15,13 @@ bg_height: 200px
 
 # Winners #
 
-**Novice**
+**Advanced Division**
 
-1st - **X-Camp XCamp++**: Daniel Zhu, Roy Chen, James Lin, Wesley Guo [1500 points (33:34)]
+1st - **blair blezers**: Gabriel Wu, Timothy Qian, Colin Galen, Maxwell Zhang [3000 points]
 
-2nd - **Team Name**: Bryan Zhu [1500 points (37:34)]
+2nd - **RAFFLE REGISTRATION CUTOFF**: Stanley Zhong, Benjamin Chen, Rohin Garg, William Tsin [2470 points (2:30:24)]
 
-3rd - **X-camp Team 12**: Kevin Liu, Aiden Ye, Kyle Lei [1500 points (52:54)]
+3rd - **NERDS**: Varun Ragunath, Justin Wu, Alex Chen, Leon Zhao [2470 points (2:52:05)]
 
 **Intermediate Division**
 
@@ -31,13 +31,13 @@ bg_height: 200px
 
 3rd - **X-Camp KAAR**: Kevin Shi, Andy Hu, Andrew Peng, Richard Feng [2610 points]
 
-**Advanced Division**
+**Novice**
 
-1st - **blair blezers**: Gabriel Wu, Timothy Qian, Colin Galen, Maxwell Zhang [3000 points]
+1st - **X-Camp XCamp++**: Daniel Zhu, Roy Chen, James Lin, Wesley Guo [1500 points (33:34)]
 
-2nd - **RAFFLE REGISTRATION CUTOFF**: Stanley Zhong, Benjamin Chen, Rohin Garg, William Tsin [2470 points (2:30:24)]
+2nd - **Team Name**: Bryan Zhu [1500 points (37:34)]
 
-3rd - **NERDS**: Varun Ragunath, Justin Wu, Alex Chen, Leon Zhao [2470 points (2:52:05)]
+3rd - **X-camp Team 12**: Kevin Liu, Aiden Ye, Kyle Lei [1500 points (52:54)]
 
 # Basic Information #
 
