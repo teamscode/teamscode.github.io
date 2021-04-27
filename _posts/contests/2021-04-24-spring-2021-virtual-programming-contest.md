@@ -13,15 +13,31 @@ bg_height: 200px
   <a href="http://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
-# Registration #
+# Winners #
 
-Registration is open for all of our divisions! Please refer to the links below. If you are unsure which division to register for, please refer to our guidelines below.
+**Novice**
 
-<a href="https://teamscode.xjoi.net/spring2021adv">Advanced Division</a>
+1st - **X-Camp XCamp++**: Daniel Zhu, Roy Chen, James Lin, Wesley Guo [1500 points (33:34)]
 
-<a href="https://teamscode.xjoi.net/spring2021int">Intermediate Division</a>
+2nd - **Team Name**: Bryan Zhu [1500 points (37:34)]
 
-<a href="https://teamscode.xjoi.net/spring2021nov">Novice Division</a>
+3rd - **X-camp Team 12**: Kevin Liu, Aiden Ye, Kyle Lei [1500 points (52:54)]
+
+**Intermediate Division**
+
+1st - **NaN x inf**: Maggie Liu, Christopher Chen, Bing-Dong Liu, Kai Lum [3000 points]
+
+2nd - **Sleepy Heads**: Anish Rajeev, Sahil Parikh [2650 points]
+
+3rd - **X-Camp KAAR**: Kevin Shi, Andy Hu, Andrew Peng, Richard Feng [2610 points]
+
+**Advanced Division**
+
+1st - **blair blezers**: Gabriel Wu, Timothy Qian, Colin Galen, Maxwell Zhang [3000 points]
+
+2nd - **RAFFLE REGISTRATION CUTOFF**: Stanley Zhong, Benjamin Chen, Rohin Garg, William Tsin [2470 points (2:30:24)]
+
+3rd - **NERDS**: Varun Ragunath, Justin Wu, Alex Chen, Leon Zhao [2470 points (2:52:05)]
 
 # Basic Information #
 
