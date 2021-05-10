@@ -40,6 +40,9 @@ bg_height: 200px
 
 3rd - **X-camp Team 12**: Kevin Liu, Aiden Ye, Kyle Lei [1500 points (52:54)]
 
+# Problems, Solutions, & Test Cases #
+
+#### Now that the Spring 2021 contest is over, we have compiled the test cases and solutions. You may view and download them [here](https://drive.google.com/drive/folders/1CPxf75yJupJmIjCWfWZNTxkId9gGZXDz?usp=sharing).
 # Basic Information #
 
 #### View detailed logistics about the contest in our [logistics document](https://drive.google.com/file/d/1Q4PBnGJbuFDCH3rfAxBjT1gBmWHXss2U/view?usp=sharing).
