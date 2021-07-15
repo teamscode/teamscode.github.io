@@ -35,7 +35,7 @@ Registration is open for all of our divisions! Please refer to the links below. 
 
 **Divisions:** Novice, Intermediate, or Advanced
 
-**
+Join the [discord server](https://discord.gg/J9N9uWW7) to ask questions
 
 # Rules #
 
@@ -127,7 +127,5 @@ For more information, please visit <a href="https://www.digipen.edu">their websi
 ## <a href="https://www.joincpi.org/">Competitive Programming Initiative</a>
 
 <a href="https://joincpi.org/"><img src="/assets/images/sponsor_cpi.png" alt="CPI" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
-
-## About <u>Competitive Programming Initiative</u>:
 
 If you're interested in more high school programming contests, sign up for the Competitive Programming Initiative's contest <a href="https://joincpi.org/contests">newsletter</a>.
