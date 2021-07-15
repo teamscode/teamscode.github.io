@@ -3,8 +3,9 @@ layout: default
 ---
 
 <!-- Sharing link information -->
-<meta property="og:site_name" content="TeamsCode"/>
-<meta property="og:description" content="TeamsCode is a student-run 501(c)(3) non-profit that works to encourage high school students to study computer science through team-focused programming contests!"/>
+<meta property="og:site_name" content="TeamsCode" />
+<meta property="og:description"
+  content="TeamsCode is a student-run 501(c)(3) non-profit that works to encourage high school students to study computer science through team-focused programming contests!" />
 <meta property="og:image" content="/assets/images/teamscode_share_graphic.png">
 <meta property="og:url" content="http://teamscode.com/">
 
@@ -15,10 +16,10 @@ layout: default
         We host high school programming contests.
       </div>
       <div class="index-header-section-h1-sub">
-        TeamsCode spreads computer science education to 
+        TeamsCode spreads computer science education to
         high school students by organizing amateur programming contests.
       </div>
-      <a href = "/contests"><button class = "index-header-section-button">BROWSE CONTESTS</button></a>
+      <a href="/contests"><button class="index-header-section-button">BROWSE CONTESTS</button></a>
     </div>
   </div>
 </div>
@@ -33,13 +34,13 @@ layout: default
       {% endif %}
       {% for competition in site.data.upcoming_contests %}
       {% include competition_item.html
-        img=competition.img
-        title=competition.title
-        affiliation=competition.affiliation
-        cohost=competition.cohost
-        date=competition.date
-        location=competition.location
-        link=competition.link size='' %}
+      img=competition.img
+      title=competition.title
+      affiliation=competition.affiliation
+      cohost=competition.cohost
+      date=competition.date
+      location=competition.location
+      link=competition.link size='' %}
       {% endfor %}
     </div>
   </div>
@@ -50,7 +51,7 @@ layout: default
       <div class="column">
         <div class="widget-header">Live Contests</div>
         <div class="widget-body">
-          We host live programming contests so students can learn teamwork and 
+          We host live programming contests so students can learn teamwork and
           computer science, all while eating free food and getting
           awesome raffle prizes!
         </div>
@@ -78,17 +79,17 @@ layout: default
       <div class="column">
         <div class="widget-header">Coding Lessons</div>
         <div class="widget-body">
-          TeamsCode provides multiple free online courses. The AP 
-          Computer Science course matches the concepts of the AP test, 
+          TeamsCode provides multiple free online courses. The AP
+          Computer Science course matches the concepts of the AP test,
           helping students everywhere earn their perfect score.
         </div>
         <!--<a class="a" ; style="font-size:20px" href="">-->
-          <b style="font-size: 20px">
-            <a class="a" ; style="font-size:20px" href="/learn">
-              <b>Learn Programming</b>
-            </a>
-          </b>
-          
+        <b style="font-size: 20px">
+          <a class="a" ; style="font-size:20px" href="/learn">
+            <b>Learn Programming</b>
+          </a>
+        </b>
+
         <!--</a>-->
       </div>
     </div>
@@ -122,9 +123,9 @@ layout: default
       <div class="column">
         <div class="widget-header">Be a Creator</div>
         <div class="widget-body">
-          We help interested high schoolers organize their own programming events - 
-          contests, hackathons, and bootcamps. Please complete 
-          <a class="a" href="https://teamscode.typeform.com/to/vikPaq">this form</a> 
+          We help interested high schoolers organize their own programming events -
+          contests, hackathons, and bootcamps. Please complete
+          <a class="a" href="https://teamscode.typeform.com/to/vikPaq">this form</a>
           if you're interested!
         </div>
         <a class="a" ; style="font-size:20px" href="/contests/create">
@@ -150,12 +151,12 @@ layout: default
       <div class="column">
         <div class="widget-header">Made by Students</div>
         <div class="widget-body">
-          TeamsCode is made for students, by students. 
-          We work with the Computer Science Teacher's Association 
+          TeamsCode is made for students, by students.
+          We work with the Computer Science Teacher's Association
           to create events around the Pacific Northwest.
         </div>
         <a class="a" ; style="font-size:20px" href="/about">
-          <b>About TeamsCode</b> 
+          <b>About TeamsCode</b>
         </a>
       </div>
     </div>
@@ -165,94 +166,122 @@ layout: default
 
 <div style="text-align: center; margin-top: 60px; margin-bottom: 30px;">
   <h1><b>Partners</b></h1>
-  <a href="https://www.codewithus.com/en"><img src="/assets/images/sponsor_codewithus.png" alt="Code With Us" style="width: 250px; margin-right: 40px;"></a>
-  <a href="https://x-camp.academy/#/"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp" style="width: 250px; margin-right: 20px;"></a>
+  <a href="https://www.codewithus.com/en"><img src="/assets/images/sponsor_codewithus.png" alt="Code With Us"
+      style="width: 250px; margin-right: 40px;"></a>
+  <a href="https://x-camp.academy/#/"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp"
+      style="width: 250px; margin-right: 20px;"></a>
+  <a href="https://joincpi.org/"><img src="/assets/images/sponsor_cpi.png" alt="CPI"
+      style="width: 250px; margin-right: 20px;"></a>
 </div>
 <br>
 <div style="text-align: center; margin-top: 60px; margin-bottom: 30px;">
   <h1><b>Platinum Sponsors</b></h1>
-  <a href="http://smartcodingschool.com"><img src="/assets/images/sponsor_smartcodingschool.png" alt="Smart Coding School" style="width: 250px; margin-right: 40px;"></a>
-  <a href="https://audian.com"><img src="/assets/images/sponsor_audian.png" alt="Audian" style="width: 250px; margin-right: 20px;"></a>
+  <a href="http://smartcodingschool.com"><img src="/assets/images/sponsor_smartcodingschool.png"
+      alt="Smart Coding School" style="width: 250px; margin-right: 40px;"></a>
+  <a href="https://audian.com"><img src="/assets/images/sponsor_audian.png" alt="Audian"
+      style="width: 250px; margin-right: 20px;"></a>
 </div>
 <br>
 <div style="text-align: center; margin-top: 60px; margin-bottom: 30px;">
   <h1><b>Gold Sponsors</b></h1>
-  <a href="https://digipen.edu"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 200px; margin-right: 20px;"></a>
-  <a href="https://jetbrains.com"><img src="/assets/images/sponsor_jetbrains.png" alt="JetBrains" style="width: 150px; margin-right: 20px;"></a> 
-  <a style="margin-right: 30px;" href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg" alt="Pagliacci" style="width:100px;"></a>
+  <a href="https://digipen.edu"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen"
+      style="width: 200px; margin-right: 20px;"></a>
+  <a href="https://jetbrains.com"><img src="/assets/images/sponsor_jetbrains.png" alt="JetBrains"
+      style="width: 150px; margin-right: 20px;"></a>
+  <a style="margin-right: 30px;" href="https://pagliacci.com"><img src="/assets/images/sponsor_pagliacci.jpg"
+      alt="Pagliacci" style="width:100px;"></a>
   <br>
-  <a href="https://www.silabs.com/"><img src="/assets/images/sponsor_siliconlabs.png" alt="Silicon Labs" style="width: 150px; margin-right: 20px;"></a> 
-  <a href="https://makaboom.school/"><img src="/assets/images/sponsor_makaboom.jpg" alt="Makaboom" style="width: 200px; margin-right: 20px;"></a> 
+  <a href="https://www.silabs.com/"><img src="/assets/images/sponsor_siliconlabs.png" alt="Silicon Labs"
+      style="width: 150px; margin-right: 20px;"></a>
+  <a href="https://makaboom.school/"><img src="/assets/images/sponsor_makaboom.jpg" alt="Makaboom"
+      style="width: 200px; margin-right: 20px;"></a>
 </div>
 <br>
 <div style="text-align: center; margin-bottom: 30px;">
   <h1><b>Silver Sponsors</b></h1>
-  <a href="http://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA" style="width: 150px; margin-right: 20px;"></a>
-  <a href="https://www.bugsee.com"><img src="/assets/images/sponsor_bugsee.png" alt="Bugsee" style="width: 250px; margin-right: 20px;"></a>
-  <a href="https://www.creativelive.com"><img src="/assets/images/sponsor_creativelive.jpg" alt="CreativeLive" style="width: 250px; margin-right: 20px;"></a>
-  <a href="https://www.bunbao.com"><img src="/assets/images/sponsor_bunbao.jpg" alt="BunBao" style="width: 250px; margin-right: 20px;"></a>
-</div> 
+  <a href="http://pscsta.org"><img src="/assets/images/sponsor_pscsta.png" alt="PSCSTA"
+      style="width: 150px; margin-right: 20px;"></a>
+  <a href="https://www.bugsee.com"><img src="/assets/images/sponsor_bugsee.png" alt="Bugsee"
+      style="width: 250px; margin-right: 20px;"></a>
+  <a href="https://www.creativelive.com"><img src="/assets/images/sponsor_creativelive.jpg" alt="CreativeLive"
+      style="width: 250px; margin-right: 20px;"></a>
+  <a href="https://www.bunbao.com"><img src="/assets/images/sponsor_bunbao.jpg" alt="BunBao"
+      style="width: 250px; margin-right: 20px;"></a>
+</div>
 <br>
 <div style="text-align: center; margin-bottom: 30px;">
   <h1><b>Bronze Sponsors</b></h1>
   <a href="https://crelate.com"><img src="/assets/images/sponsor_crelate.png" alt="Crelate" style="width:180px;"></a>
   <a href="https://twilio.com"><img src="/assets/images/sponsor_twilio.png" alt="Twilio" style="width:180px;"></a>
-  <a href="https://topcoder.com"><img src="/assets/images/sponsor_topcoder.png" alt="Topcoder" style="width: 180px;"></a>
-  <a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium" style="width: 180px;"></a>
-  <a href="https://codewizardshq.com/?utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship"><img src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards" style="width: 180px;"></a>
+  <a href="https://topcoder.com"><img src="/assets/images/sponsor_topcoder.png" alt="Topcoder"
+      style="width: 180px;"></a>
+  <a href="http://www.brainiumstudios.com"><img src="/assets/images/sponsor_brainium.png" alt="Brainium"
+      style="width: 180px;"></a>
+  <a href="https://codewizardshq.com/?utm_source=teamscode&utm_medium=banner&utm_campaign=sponsorship"><img
+      src="/assets/images/sponsor_codewizards.jpg" alt="CodeWizards" style="width: 180px;"></a>
   <br>
   <a href="http://www.scirra.com"><img src="/assets/images/sponsor_scirra.png" alt="Scirra" style="width: 200px;"></a>
-  <a href="https://www.themathletics.com/"><img src="/assets/images/sponsor_mathletics.png" alt="Mathletics" style="width: 180px; margin: 0 20px;"></a>
-  <a href="https://www.tech4kidsclub.org/"><img src="/assets/images/sponsor_t4k.png" alt="Tech4KidsClub" style="width: 180px;"></a>
-  <a href="https://breakoutmentors.com/"><img src="/assets/images/sponsor_breakout.png" alt="Breakout Mentors" style="width: 180px;"></a>
+  <a href="https://www.themathletics.com/"><img src="/assets/images/sponsor_mathletics.png" alt="Mathletics"
+      style="width: 180px; margin: 0 20px;"></a>
+  <a href="https://www.tech4kidsclub.org/"><img src="/assets/images/sponsor_t4k.png" alt="Tech4KidsClub"
+      style="width: 180px;"></a>
+  <a href="https://breakoutmentors.com/"><img src="/assets/images/sponsor_breakout.png" alt="Breakout Mentors"
+      style="width: 180px;"></a>
 </div>
 <br>
 <div style="text-align: center; margin-bottom: 60px;">
   <h1><b>Additional Sponsors</b></h1>
-  <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" alt="TEALS" style="width:200px; margin-right: 30px"></a>
-  <a href="https://www.facebook.com/MercerIslandLionsClub/"><img src="/assets/images/sponsor_lions.jpg" alt="Lions" style="width:100px;"></a>
-</div> 
+  <a href="https://tealsk12.org"><img src="/assets/images/sponsor_msft_teals.png" alt="TEALS"
+      style="width:200px; margin-right: 30px"></a>
+  <a href="https://www.facebook.com/MercerIslandLionsClub/"><img src="/assets/images/sponsor_lions.jpg" alt="Lions"
+      style="width:100px;"></a>
+</div>
 <br><br><br>
 
 <style>
-    .graphic {
-        visibility: hidden;
+  .graphic {
+    visibility: hidden;
+  }
+
+  .fadeIn {
+    -webkit-animation: animat_show 1.6s;
+    animation: animat_show 1.6s;
+    visibility: visible !important;
+  }
+
+  @-webkit-keyframes animat_show {
+    0% {
+      opacity: 0
     }
 
-    .fadeIn {
-        -webkit-animation: animat_show 1.6s;
-        animation: animat_show 1.6s;
-        visibility: visible !important;
+    100% {
+      opacity: 1
     }
-
-    @-webkit-keyframes animat_show{
-        0%{opacity:0}
-        100%{opacity:1}
-    }
+  }
 </style>
 
 <script src="assets/js/index.js" type="text/javascript"></script>
 <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 <script>
-    function showImages(el) {
-        var windowHeight = jQuery( window ).height();
-        $(el).each(function(){
-            var thisPos = $(this).offset().top;
+  function showImages(el) {
+    var windowHeight = jQuery(window).height();
+    $(el).each(function () {
+      var thisPos = $(this).offset().top;
 
-            var topOfWindow = $(window).scrollTop();
-            if (topOfWindow + windowHeight - 75 > thisPos ) {
-                $(this).addClass("fadeIn");
-            }
-        });
-    }
-
-    // if the image in the window of browser when the page is loaded, show that image
-    $(document).ready(function(){
-            showImages('.graphic');
+      var topOfWindow = $(window).scrollTop();
+      if (topOfWindow + windowHeight - 75 > thisPos) {
+        $(this).addClass("fadeIn");
+      }
     });
+  }
 
-    // if the image in the window of browser when scrolling the page, show that image
-    $(window).scroll(function() {
-            showImages('.graphic');
-    });
+  // if the image in the window of browser when the page is loaded, show that image
+  $(document).ready(function () {
+    showImages('.graphic');
+  });
+
+  // if the image in the window of browser when scrolling the page, show that image
+  $(window).scroll(function () {
+    showImages('.graphic');
+  });
 </script>
