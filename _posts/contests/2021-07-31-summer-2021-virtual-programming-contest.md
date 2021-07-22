@@ -12,7 +12,9 @@ bg_height: 200px
   <br>
   <a href="http://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
   <br>
-  <a href="https://joincpi.org//"><img src="/assets/images/sponsor_cpi.png" alt="CPI" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <a href="https://joincpi.org"><img src="/assets/images/sponsor_cpi.png" alt="CPI" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <h1 style="text-align: left;"><b>Bronze Sponsors</b></h1>
+  <a href="https://replit.com"><img src="/assets/images/sponsor_replit.png" alt="Replit" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
 # Registration #
@@ -23,7 +25,7 @@ Registration is open for all of our divisions! Please refer to the links below. 
 
 # Basic Information #
 
-#### VIEW DETAILED LOGISTICS ABOUT THE CONTEST IN OUR [LOGISTICS DOCUMENT](https://docs.google.com/document/d/1gR7KL69IVUQQotd8YA__EBNlvp2is4Oc_UWgOO32EYs).
+#### VIEW DETAILED LOGISTICS ABOUT THE CONTEST IN OUR [LOGISTICS DOCUMENT](https://drive.google.com/file/d/1TPHece7sC9n2o4yNHUngbrase_LNfpQj/view?usp=sharinga).
 
 **Time:** 1:00PM – 5:00PM
 
