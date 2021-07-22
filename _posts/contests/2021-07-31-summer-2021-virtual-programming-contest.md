@@ -10,9 +10,9 @@ bg_height: 200px
   <h1 style="text-align: left;"><b>Partners</b></h1>
   <a href="https://x-camp.academy"><img src="/assets/images/sponsor_x-camp2.png" alt="X-Camp Academy" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
   <br>
-  <a href="https://joincpi.org//"><img src="/assets/images/sponsor_cpi.png" alt="CPI" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
-  <h1 style="text-align: left;"><b>Gold Sponsor</b></h1>
   <a href="http://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <br>
+  <a href="https://joincpi.org//"><img src="/assets/images/sponsor_cpi.png" alt="CPI" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
 # Registration #
@@ -101,7 +101,7 @@ X-Camp’s staff are composed of senior software engineers from major technology
 
 For more information, please visit <a href="https://x-camp.academy">their website</a>.
 
-## **Gold Sponsor:** <a href="https://www.digipen.edu/">DigiPen</a>
+## **Partner:** <a href="https://www.digipen.edu/">DigiPen</a>
 
 <a href="https://www.digipen.edu/"><img src="/assets/images/sponsor_digipen.jpg" alt="DigiPen" style="width: 250px; margin-top: 50px; margin-bottom: 50px;"></a>
 
