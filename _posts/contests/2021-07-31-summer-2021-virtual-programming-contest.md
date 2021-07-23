@@ -14,7 +14,7 @@ bg_height: 200px
   <br>
   <a href="https://joincpi.org"><img src="/assets/images/sponsor_cpi.png" alt="CPI" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
   <h1 style="text-align: left;"><b>Bronze Sponsors</b></h1>
-  <a href="https://replit.com"><img src="/assets/images/sponsor_replit.png" alt="Replit" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
+  <a href="https://www.youtube.com/c/replityt/videos"><img src="/assets/images/sponsor_replit.png" alt="Replit" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
 # Registration #
