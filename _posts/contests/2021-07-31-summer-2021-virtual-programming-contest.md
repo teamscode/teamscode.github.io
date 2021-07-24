@@ -37,7 +37,7 @@ Registration is open for all of our divisions! Please refer to the links below. 
 
 **Divisions:** Novice, Intermediate, or Advanced
 
-Join the [discord server](tinyurl.com/teamscodediscord) to ask questions!
+Join the [Discord Server](https://tinyurl.com/teamscodediscord) to ask questions!
 
 # Rules #
 
