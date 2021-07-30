@@ -23,4 +23,4 @@ For more info about GitHub Pages and Jekyll, see here: https://help.github.com/a
 Want to become part of the TeamsCode team? Visit [this page](https://teamscode.com/contests/create/) for more information or reach out to us using the contact info below. 
 
 ## Contact
-If you have any questions, feel free to contact us at https://teamscode.com/contact or support@teamscode.com. 
+If you have any questions, feel free to contact us at https://teamscode.org/contact or contact@teamscode.org. For questions regarding joining the team, submit an application at https://teamscode.org/contests/create/ or email support@teamscode.org.
