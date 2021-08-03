@@ -3,6 +3,7 @@ layout: post-contest
 permalink: /contests/summer-2021-virtual-programming-contest/
 contest_title: Summer 2021 Virtual Contest
 contest_date: July 31st, 2021
+contest_size: 467
 bg_height: 200px
 ---
 
@@ -17,11 +18,29 @@ bg_height: 200px
   <a href="https://www.youtube.com/c/replityt/videos"><img src="/assets/images/sponsor_replit.png" alt="Replit" style="width: 220px; margin-bottom: 30px; margin-right: 20px; display block;"></a>
 </div>
 
-# Registration #
+# Winners #
 
-Registration is open for all of our divisions! Please refer to the links below. If you are unsure which division to register for, please refer to our guidelines in the logistics document.
+**Advanced Division**
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeLM5wQnBWh6HTkKNlgGdP1oy8srOo9U-0Frz5m13Fa9SCV4w/viewform">Registration</a>
+1st - **mike4235 fanclub**: Trần Xuân Bách, Phạm Quốc Hùng, Đào Ngọc Hà, Nguyễn Quang Minh [2070 points]
+
+2nd - **blair blezers**: Gabriel Wu, Timothy Qian, Colin Galen, Maxwell Zhang [1860 points]
+
+3rd - **Fishy Yum**: Alex Fan, Jason Gonzalez, Eggag, Maxwell You [1480 points]
+
+4th - **RonderosDelUwu**: Gustavo Andrés Orosco Zavala, Jose Leonidas Garcia, Jorge Fiestas [1130 points]
+
+5th - **X-Camp chorgle schitzel**: David Lee, Alex Chen, Brian Xue, Taiga Nishida [1080 points]
+
+**Intermediate Division**
+
+1st - **orz Orz**: Nikita Kozlov, Artem Trubnikov, Ivan Gusev [2400 points]
+
+2nd - **nsve**: Vo Dac Bao An, Humphrey Xu, Guzun Veaceslav, Nika Tamliani [2250 points]
+
+**Novice**
+
+1st - **red team**: Natalie Hsia, Andrew Qin, Neel Kolhe, Eric Wang [2220 points]
 
 # Basic Information #
 
