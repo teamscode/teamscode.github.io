@@ -13,7 +13,12 @@ button {
   -webkit-font-smoothing: antialiased;
 }
 
-a {
+a:not(.inline-link) {
+  color: inherit;
+  text-decoration: none;
+}
+
+a.inline-link {
   text-decoration: none;
 }
 
