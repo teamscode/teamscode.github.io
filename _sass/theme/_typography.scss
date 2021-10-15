@@ -2,11 +2,18 @@ html {
   line-height: normal;
 }
 
-body,
 input,
 textarea,
 button {
   font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #444;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
   font-weight: 400;
   color: #444;
   text-rendering: optimizeLegibility;
@@ -26,34 +33,34 @@ a.inline-link {
 
 .h1 {
   font-size: 50px;
-  font-family: 'Verdana', 'Roboto', 'Arial', sans-serif;
+  font-family: 'Roboto', 'Arial', sans-serif;
   line-height: 1.4;
 }
 
 .h2 {
   font-size: 24px;
   font-weight: 400;
-  font-family: 'Verdana', 'Roboto', 'Arial', sans-serif;
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
 
 .h3 {
   font-size: 21px;
   font-weight: 400;
-  font-family: 'Verdana', 'Roboto', 'Arial', sans-serif;
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
 
 .h4 {
   font-size: 18px;
   font-weight: 400;
   line-height: 26px;
-  font-family: 'Verdana', 'Roboto', 'Arial', sans-serif;
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
 
 .p {
   font-size: 15px;
   line-height: 1.6;
   max-width: 700px;
-  font-family: 'Verdana', 'Roboto', 'Arial', sans-serif;
+  font-family: 'Helvetica','Arial', sans-serif;
 }
 
 .a {
